@@ -1,0 +1,69 @@
+[
+    {
+        "name": "Scientific",
+        "victoryScreenHeader": "Complete all the terraformer parts\nto win!",
+        "milestones": [
+            "Build [Biosphere Project]",
+            "Add all [terraformer parts] in capital"
+        ],
+        "requiredSpaceshipParts": [
+            "Solar Shade", "Terraforming Lab", "Ocean Scrubber", "Atmosphere Processor"
+        ],
+        "victoryString": "You have achieved victory through mastery of Science! With the Terraformer complete, you can start the arduous process of stabilising the Earth's systems to make them amenable for human life. It could take centuries, but your descendants will know that it was here that the tide was turned.\n\nIn the meantime, a Solar Shade can literally block out the sun for those that would oppose you...",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Cultural",
+        "victoryScreenHeader": "Complete 6 policy branches and\nbuild the Utopia Project to win!",
+        "milestones": ["Complete [6] Policy branches", "Build [Utopia Project]"],
+        "victoryString": "You have achieved victory through the awesome power of your Culture. Your civilization's greatness - the magnificence of its monuments and the power of its artists - have astounded the world! Poets will honor you as long as beauty brings gladness to a weary heart.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Domination",
+        "victoryScreenHeader": "Destroy all enemies\nto win!",
+        "milestones": ["Destroy all players"],
+        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Transmission",
+        "hiddenInVictoryScreen": false,
+		"victoryScreenHeader": "Build the Transmissions Center and\nrecover the transmissions to win!",
+        "milestones": [
+            "Build [Transmissions Center]",
+            "Anyone should build [Recover Transmission #1]",
+            "Anyone should build [Recover Transmission #2]",
+            "Anyone should build [Recover Transmission #3]",
+            "Anyone should build [Recover Transmission #4]",
+            "Anyone should build [Recover Transmission #5]",
+            "Anyone should build [Recover Transmission #6]",
+            "Build [Great Arc]"
+        ],
+        "victoryString": "You have decoded the transmissions and recovered the Great Arc! Within it lies the secret to immunity to radiation. With your help, humanity will at last be able to adapt to the harsh landscape, and prosper once more! You will long be remembered as the leader who saved this world!",
+         "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Diplomatic",
+        "hiddenInVictoryScreen": false,
+		"victoryScreenHeader": "Found the Global Alliance and be voted\nworld leader to win!",
+        "milestones": ["Anyone should build [Global Alliance]", "Win diplomatic vote"],
+        "victoryString": "You have triumphed over your foes through the art of diplomacy! By recovering pieces of the ancient past, you have brought together the many armies of this new world! May the people remember you as the great leader who brought peace to this weary world!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Religious",
+        "hiddenInVictoryScreen": false,
+		"victoryScreenHeader": "Become the dominant religion\nin every city of the world to win!",
+        "milestones": ["Become the world religion"],
+        "victoryString": "You have achieved victory through the power of faith and conviction. All the nations have submitted to your teachings, for better or worse. Rejoice! For your faith has converted the world.",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    },
+    {
+        "name": "Time",
+        "hiddenInVictoryScreen": true,
+        "milestones": ["Have highest score after max turns"],
+        "victoryString": "The world has been convulsed by war. Many great and powerful civilizations have fallen, but you have survived - and emerged victorious! The world will long remember your glorious triumph!",
+        "defeatString": "You have been defeated. Your civilization has been overwhelmed by its many foes. But your people do not despair, for they know that one day you shall return - and lead them forward to victory!"
+    }
+]

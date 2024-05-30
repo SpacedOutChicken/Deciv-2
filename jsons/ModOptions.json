@@ -1,0 +1,14 @@
+{
+    "isBaseRuleset": true,
+    "uniques": [
+        "Can convert gold to science with sliders",
+        "Allow City States to spawn with additional units",
+        "Can trade civilization introductions for [100] Gold"
+    ],
+    "constants": {
+        "maxXPfromBarbarians":150,
+        "cityStrengthBase":20,
+        "cityStrengthPerPop":0.5,
+        "unitUpgradeCost": {}
+    }
+}

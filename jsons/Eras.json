@@ -1,0 +1,160 @@
+[
+	{
+		"name": "Decivilized era",
+		"researchAgreementCost": 150,
+		"startingSettlerCount": 0, // These values should not include the values given in Difficulties.json
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"settlerPopulation": 1,
+		"startPercent": 0,
+		"citySound": "cityAncient",
+		"embarkDefense": 6,
+		"iconRGB": [255, 87, 35]
+	},
+	{
+		"name": "Rediscovering era",
+		"researchAgreementCost": 150,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 10,
+		"citySound": "cityClassical",
+		"embarkDefense": 10,
+		"iconRGB": [233, 31, 99]
+	},
+	{
+		"name": "Neofeudal era",
+		"researchAgreementCost": 250,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 25,
+		"citySound": "cityMedieval",
+		"embarkDefense": 13,
+		"iconRGB": [157, 39, 176]
+	},
+	{
+		"name": "Rebuilding era",
+		"researchAgreementCost": 250,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 37,
+		"citySound": "cityRenaissance",
+		"embarkDefense": 16,
+		"iconRGB": [104, 58, 183]
+	},
+	{
+		"name": "Industrial era",
+		"researchAgreementCost": 300,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 50,
+		"citySound": "cityIndustrial",
+		"embarkDefense": 20,
+		"iconRGB": [63, 81, 182],
+		"uniques": [
+			"May not generate great prophet equivalents naturally",
+			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
+			"Starting in this era disables religion"
+		]
+	},
+	{
+		"name": "Postmodern era",
+		"researchAgreementCost": 350,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 65,
+		"citySound": "cityAtomic",
+		"embarkDefense": 24,
+		"iconRGB": [33, 150, 243],
+		"uniques": [
+			"May not generate great prophet equivalents naturally",
+			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
+			"Starting in this era disables religion"
+		]
+	},
+	{
+		"name": "Information era",
+		"researchAgreementCost": 400,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 75,
+		"citySound": "cityInformation",
+		"embarkDefense": 29,
+		"iconRGB": [0, 150, 136],
+		"uniques": [
+			"May not generate great prophet equivalents naturally",
+			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
+			"Starting in this era disables religion"
+		]
+	},
+	{
+		"name": "New Future era",
+		"researchAgreementCost": 400,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 80,
+		"citySound": "cityFuture",
+		"embarkDefense": 33,
+		"iconRGB": [76, 176, 81],
+		"uniques": [
+			"May not generate great prophet equivalents naturally",
+			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
+			"Starting in this era disables religion"
+		]
+	},
+	{
+		"name": "Singularity era", // mostly for testing far future stuff
+		"researchAgreementCost": 400,
+		"startingSettlerCount": 0,
+		"startingWorkerCount": 0,
+		"startingMilitaryUnitCount": 0,
+		"startingMilitaryUnit": "Scout",
+		"startingGold": 0,
+		"startingCulture": 0,
+		"settlerPopulation": 1,
+		"startPercent": 80,
+		"citySound": "cityFuture",
+		"embarkDefense": 33,
+		"iconRGB": [76, 176, 81],
+		"uniques": [
+			"May not generate great prophet equivalents naturally",
+			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
+			"Starting in this era disables religion"
+		]
+	}
+]

@@ -1,0 +1,151 @@
+[
+	{
+		"name": "Civilian",
+		"movementType": "Land"
+	},
+	{
+		"name": "Scrapper",
+        "uniques": [
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		],
+		"movementType": "Land"
+	},
+	{
+		"name": "Shooter",
+		 "uniques": [
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		],
+		"movementType": "Land"
+	},
+	{
+		"name": "Scout",
+		"uniques": [
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		],
+		"movementType": "Land"
+	},
+	{
+		"name": "Mounted",
+		"uniques": [
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		],
+		"movementType": "Land"
+	},
+	{
+		"name": "Armor",
+		 "uniques": [
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		],
+		"movementType": "Land"
+	},
+	{
+		"name": "Warhead Truck",
+		 "uniques": [
+			"Cannot intercept [Air] units"
+		],
+		"movementType": "Land"
+	},
+	{
+		"name": "Siege",
+		"uniques": [
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		],
+		"movementType": "Land"
+	},
+	{
+		"name": "Civilian Water",
+		"movementType": "Water"
+	},
+	{
+		"name": "Melee Water",
+		"movementType": "Water",
+		"uniques": [
+			"Can move after attacking",
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		]
+	},
+	{
+		"name": "Ranged Water",
+		"movementType": "Water",
+		"uniques": [
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		]
+	},
+	{
+		"name": "Submarine",
+		"movementType": "Water",
+		"uniques": [
+			"Can enter ice tiles",
+			"Invisible to non-adjacent units",
+			"Can see invisible [Submarine] units",
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		]
+	},
+	{
+		"name": "Aircraft Carrier",
+		"uniques": [
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		],
+		"movementType": "Water"
+	},
+	{
+		"name": "Fighter",
+		"movementType": "Air",
+		"uniques": [
+			"Aircraft",
+			"[+4] Sight",
+			"Can see over obstacles",
+			"Can perform Air Sweep",
+			"Cannot intercept [Missile] units"
+		]
+	},
+	{
+		"name": "Bomber",
+		"movementType": "Air",
+		"uniques": [
+			"Aircraft",
+			"Cannot intercept [Missile] units"
+		]
+	},
+	{
+		"name": "Missile",
+		"movementType": "Air",
+		"uniques": [
+			"Self-destructs when attacking",
+			"Cannot intercept [Air] units"
+		]
+	},
+	{
+		"name": "Helicopter",
+		"movementType": "Land",
+		"uniques": [
+			"Can pass through impassable tiles",
+			"All tiles cost 1 movement",
+			"No defensive terrain bonus",
+			"Ignores Zone of Control",
+			"Can see over obstacles",
+			"May travel on Water tiles without embarking",
+			"Eliminates combat penalty for attacking across a coast",
+			"Eliminates combat penalty for attacking over a river",
+			"Cannot intercept [Stealth] units",
+			"Cannot intercept [Missile] units"
+		]
+	},
+	{
+		"name": "Missile Defense",
+		"movementType": "Air",
+		"uniques": [
+			"Cannot intercept [Aircraft] units"
+		]
+	}
+]
