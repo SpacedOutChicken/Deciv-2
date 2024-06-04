@@ -1128,7 +1128,7 @@
 		"name": "Rubble Gunman",
 		"unitType": "Shooter",
 		"uniqueTo": "Deadrock Clan",
-		"replaces": "Archer",
+		"replaces": "Crossbowman",
 		"range": 1,
 		"movement": 2,
 		"strength": 30,
@@ -1801,7 +1801,7 @@
 			"Defense bonus when embarked",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Promotion Nullifier"],
+		"promotions": ["Promotion Nullifier","Portable Power Cell"],
 		"attackSound": "tankshot",
 		"civilopediaText": [
 			{
@@ -1945,7 +1945,7 @@
 			"Defense bonus when embarked",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Powered Armor","Promotion Nullifier"],
+		"promotions": ["Powered Armor","Promotion Nullifier","Portable Power Cell"],
 		"attackSound": "gdrAttack"
 	},
 
@@ -2514,7 +2514,6 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Patrol Boat",
 		"uniques": [
-			"Low Tech",
 			"Cannot enter ocean tiles",
 			"May withdraw before melee ([33]%)"
 		],
@@ -2532,7 +2531,6 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Patrol Boat",
 		"uniques": [
-			"Low Tech",
 			"May withdraw before melee ([66]%)"
 		],
 		"attackSound": "nonmetalhit",

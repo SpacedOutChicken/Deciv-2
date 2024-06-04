@@ -53,6 +53,18 @@
 			"Dalbete",
 			"Light Otis",
 			"Meckenberg"
+		],
+		"spyNames": [
+			"Henry",
+			"Jim",
+			"Clarice",
+			"Juliet",
+			"Ashlee",
+			"Robyn",
+			"Ben",
+			"Jodie",
+			"Harvey",
+			"Juno"
 		]
 	},
 	{
@@ -77,14 +89,13 @@
 		"innerColor": [255, 40, 255],
 		"style": "Hexlock",
 		"uniqueName": "Adaptive Systems",
-		"uniques": ["[Purge Robot] units gain the [Portable Power Cell] promotion",
-		    "Comment [Can Mix Unique Strategic Resources to Generate a Great Person]",
+		"uniques": [
+			"Comment [Can Mix Unique Strategic Resources to Generate a Great Person]",
 			"[-99]% Great Person generation [in all cities]",
 			"Starts with [Writing]",
 			"Starts with [Construction]",
 			"Starts with [Machinery]",
 			"Starts with [Engineering]",
-			"Starts with [Electronics]",
 			"[-2 Happiness] [in all cities]"
 		],
 		"cities": [
@@ -104,6 +115,18 @@
 			"Qrephel",
 			"Mabelcut",
 			"Prawrie"
+		],
+		"spyNames": [
+			"Claude",
+			"Eliza",
+			"Watson",
+			"Kismet",
+			"Siri",
+			"Asimo",
+			"Bert",
+			"Neil",
+			"Alice",
+			"Nadine"
 		]
 	},
 	{
@@ -165,6 +188,18 @@
 			"Rock Falls",
 			"Kismet",
 			"Waterville"
+		],
+		"spyNames": [
+			"Bloodstar",
+			"Ghost Runner",
+			"Peacespeaker",
+			"Stained Bird",
+			"Screaming Eagle",
+			"Six Scars",
+			"Red Hammer",
+			"Thunder Hawk",
+			"Kicking Wing",
+			"Black Bull"
 		]
 	},
 	{
@@ -194,7 +229,6 @@
 			"Starts with [Writing]",
 			"Starts with [Construction]",
 			"Starts with [Machinery]",
-			"Starts with [Electronics]",
 			"[-2 Science] [in all cities] <before discovering [Education]>",
 			"Starts with [Monopoly] adopted",
 			"Can spend Gold to annex or puppet a City-State that has been your ally for [5] turns. <after adopting [Monopoly Complete]>"
@@ -220,6 +254,18 @@
 			"Forbes",
 			"Cornucopia"
 		],
+		"spyNames": [
+			"Al",
+			"Cofer",
+			"Richer",
+			"Ashcroft",
+			"Quinn",
+			"Bonfiglio",
+			"Danielle",
+			"Inman",
+			"Robinson",
+			"Folsom"
+		],
 		"civilopediaText": [
 			{
 				"text": "With over 250,000 employees across 40 nations, Blackwarden Associates is the first choice for any situation requiring a professional and discreet security solution. Our friendly, highly trained personnel are always ready to help  - from your local bank or supermarket, to immigration processing centers and border defense at home, to fallout remediation and nuclear site security in the Indus Exclusion Zone."
@@ -231,7 +277,6 @@
 		"name": "Atlas",
 		"leaderName": "John Kruger",
 		"adjective": ["Corporate"],
-		// "startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Scientific",
 		"favoredReligion": "Objectivism",
 
@@ -255,7 +300,6 @@
 			"Starts with [Writing]",
 			"Starts with [Construction]",
 			"Starts with [Machinery]",
-			"Starts with [Electronics]",
 			"[-2 Science] [in all cities] <before discovering [Education]>",
 			"Starts with [Rationalism] adopted",
 			"[100]% Production when constructing [Electrostatic Generator] buildings [in all cities] <after adopting [Rationalism Complete]>"
@@ -281,6 +325,18 @@
 			"Prometheus Laboratories",
 			"Zenith",
 			"Von Neumann Institute"
+		],
+		"spyNames": [
+			"Dagny",
+			"Rearden",
+			"Wyatt",
+			"Akston",
+			"Danagger",
+			"Midas",
+			"Kay",
+			"Quentin",
+			"Halley",
+			"Allen"
 		],
 		"civilopediaText": [
 			{
@@ -356,6 +412,18 @@
 			"Portville",
 			"Hamelin",
 			"High Gate"
+		],
+		"spyNames": [
+			"Jean",
+			"Pascal",
+			"Henri",
+			"Otto",
+			"Elise",
+			"Heinrich",
+			"Dietrich",
+			"Ivanoe",
+			"Pietro",
+			"Ugo"
 		]
 	},
 	{
@@ -387,7 +455,6 @@
 			"Starts with [Writing]",
 			"Starts with [Construction]",
 			"Starts with [Machinery]",
-			"Starts with [Electronics]",
 			"[-2 Science] [in all cities] <before discovering [Education]>"
 		],
 		"cities": [
@@ -413,6 +480,18 @@
 			"Fort Granite",
 			"Liberator Station",
 			"Camp Dawn"
+		],
+		"spyNames": [
+			"Ryan",
+			"Dirk",
+			"Fisher",
+			"Kurt",
+			"Ding",
+			"Isaac",
+			"Hansen",
+			"Dorn",
+			"Briggs",
+			"Remi"
 		]
 	},
 	{
@@ -446,15 +525,13 @@
 
 		"outerColor": [252, 227, 0],
 		"innerColor": [54, 72, 72],
-		// "outerColor": [0, 87, 0],
-		// "innerColor": [150, 254, 150],
 		"style": "Military",
 		"uniqueName": "Hills Have Eyes",
 		"uniques": [
 			"Units ignore terrain costs when moving into any tile with Hills",
 			"No Maintenance costs for improvements in [Hill] tiles",
 			"Land units may cross [Mountain] tiles after the first [Great General] is earned",
-			"[{Land} {Low Tech}] units gain the [Guerilla Warfare I] promotion",
+			"[Low Tech] units gain the [Guerilla Warfare I] promotion",
 			"[Personnel] units gain the [Guerilla Warfare I] promotion",
 			"Starts with [Redomestication]"
 		],
@@ -478,6 +555,18 @@
 			"Tappan Farm",
 			"Skousen Ranch",
 			"30-50 Feral Hogs"
+		],
+		"spyNames": [
+			"Gummer",
+			"Krantz",
+			"Cawdor",
+			"Neville",
+			"Eli",
+			"Quinelle",
+			"Rouke",
+			"Redeker",
+			"Verney",
+			"Brown"
 		],
 		"civilopediaText": [
 			{
@@ -509,11 +598,12 @@
 		"style": "Gang",
 		"uniqueName": "Regulators",
 		"uniques": [
-			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [67]% chance>",
 			"[+1] Sight <for [{Military} {Land}] units>",
 			"City-State Influence recovers at twice the normal rate",
 			"[Personnel] units gain the [Clansman] promotion",
-			"[Scout] units gain the [Clansman] promotion"
+			"[Scout] units gain the [Clansman] promotion",
+			"[-25]% enemy spy effectiveness [in all cities]",
+			"Gain an extra spy <upon entering the [Rebuilding era]>"
 		],
 		"cities": [
 			"Xanadu",
@@ -538,6 +628,18 @@
 			"Straight Flush",
 			"Five Aces",
 			"Show Low"
+		],
+		"spyNames": [
+			"Bugsy",
+			"Whitey",
+			"Soapy",
+			"Mickey",
+			"Babyface",
+			"Ducks",
+			"Chin",
+			"Bomp",
+			"Owney",
+			"Lilo"
 		]
 	},
 	{
@@ -596,6 +698,18 @@
 			"Corpus Vile",
 			"Canis Canem Edit",
 			"Ad Astra"
+		],
+		"spyNames": [
+			"Vulpes",
+			"Cato",
+			"Alerio",
+			"Caius",
+			"Ulysses",
+			"Silus",
+			"Picus",
+			"Aurelius",
+			"Severus",
+			"Livius"
 		],
 		"civilopediaText": [
 			{
@@ -662,6 +776,18 @@
 			"Death Race",
 			"God Box"
 		],
+		"spyNames": [
+			"Rictus",
+			"Scabrous",
+			"Rizzdale",
+			"Fang",
+			"Smeg",
+			"Nux",
+			"Slit",
+			"Morsov",
+			"Wez",
+			"Zanetti"
+		],
 		"civilopediaText": [
 			{
 				"text": "In the beginning, the earth was without form, cold and void. And the Divine Engine moved upon the face of the earth, and brought forth humans, to serve her. And she blessed the people upon the earth with steel and holy oil, to make engines of their own. But the people of the earth forgot the Divine Engine who had blessed them. So the Engine sent forth the Flame to destroy the people who had sinned, and the earth was cleansed. But the Flame had mercy upon the people, and spared the people who repented and swore to serve the Engine. And it came to pass that Divine Engine blessed the people once more, and gave them steel and holy oil, and commanded them to multiply and replenish the earth, for the engine's glory."
@@ -700,8 +826,8 @@
 			"Defense bonus when embarked <for [All] units>",
 			"[+1] Sight <for [Embarked] units>",
 			"[+1] Movement <for [Water] units>",
-			"[{Land} {Low Tech}] units gain the [Amphibious] promotion",
-			"[{Land} {Personnel}] units gain the [Amphibious] promotion",
+			"[Low Tech] units gain the [Amphibious] promotion",
+			"[Personnel] units gain the [Amphibious] promotion",
 			"Starts with [Sailing]"
 		],
 		"cities": [
@@ -721,6 +847,18 @@
 			"Giuntoli Bay",
 			"Whalen Cove",
 			"Arenberg Fjord"
+		],
+		"spyNames": [
+			"Enola",
+			"Gregor",
+			"Sawzall",
+			"Priam",
+			"Bone",
+			"Toby",
+			"Smitty",
+			"Djeng",
+			"Truan",
+			"Ledger"
 		]
 	},
 	{
@@ -789,6 +927,18 @@
 			"Pi-Ramesses",
 			"Giza",
 			"Byblos"
+		],
+		"spyNames": [
+			"Mumia",
+			"Ashanti",
+			"Sundiata",
+			"Kuwasi",
+			"Dhoruba",
+			"Safiya",
+			"Kwaku",
+			"Kom'boa",
+			"Bashir",
+			"Jamal"
 		]
 	},
 	{
@@ -829,11 +979,12 @@
 			"No movement cost to pillage"
 		],
 		"cities": ["Shchyolkovo-14","Kartaly-6","Arzamas-75","Stupino-7","Krasnoyarsk-45","Krasnoyarsk-66","Sverdlovsk-44","Murmansk-150","Bologoe-4","Krasnoyarsk-26",
-		"Beloretsk-15","Zlatoust-20","Chita-46","Zlatoust-36","Perm'-76","Yur'ya-2","Petropavlovsk-Kamchatskiy-35","Semipalatinsk-121","Shkotovo-17","Zagorsk-7",
-		"Kosulino-1","Uzhur-4","Tatishchevo-5","Kapustin Yar-1","Olovyannaya-4","Dombrovskiy-3","Petropavlovsk-Kamchatskiy-50","Nizhny-Tagil-39","Beloretsk-16",
-		"Chelyabinsk-65","Chelyabinsk-115","Alkino-2","Murmansk-60","Svobodnyy-18","Tomsk-7","Murmansk-140","Murmansk-130","Krasnoyarsk-95","Chelyabinsk-40",
-		"Sverdlovsk-45","Chelyabinsk-95","Chelyabinsk-70","Arzamas-60","Shkotovo-26","Krasnoyarsk-35","Naro-Fominsk-5","Kurchatov-21","Penza-19","Novopetrovsk-2",
-		"Arzamas-16","Golitsino-2","Semipalatinsk-16","Krasnoyarsk-25","Shkotovo-22","Yairm-210"]
+			"Beloretsk-15","Zlatoust-20","Chita-46","Zlatoust-36","Perm'-76","Yur'ya-2","Petropavlovsk-Kamchatskiy-35","Semipalatinsk-121","Shkotovo-17","Zagorsk-7",
+			"Kosulino-1","Uzhur-4","Tatishchevo-5","Kapustin Yar-1","Olovyannaya-4","Dombrovskiy-3","Petropavlovsk-Kamchatskiy-50","Nizhny-Tagil-39","Beloretsk-16",
+			"Chelyabinsk-65","Chelyabinsk-115","Alkino-2","Murmansk-60","Svobodnyy-18","Tomsk-7","Murmansk-140","Murmansk-130","Krasnoyarsk-95","Chelyabinsk-40",
+			"Sverdlovsk-45","Chelyabinsk-95","Chelyabinsk-70","Arzamas-60","Shkotovo-26","Krasnoyarsk-35","Naro-Fominsk-5","Kurchatov-21","Penza-19","Novopetrovsk-2",
+			"Arzamas-16","Golitsino-2","Semipalatinsk-16","Krasnoyarsk-25","Shkotovo-22","Yairm-210"],
+		"spyNames": ["Redrick", "Victor", "Artyom", "Kirill", "Dr. Kruglov", "Mr. Strugatsky", "Vitalik", "Lebedev", "Letyaga", "Mirsky"]
 	},
 
 	// City-States
@@ -868,7 +1019,7 @@
 		"adjective": ["Bartertown"],
 		"cityStateType": "Trading",
 		"style": "Gang",
-		"declaringWar": "You leave us no choice. War it must be.",
+		"declaringWar": "Ladies and gentlemen, boys and girls, it's dyin' time!",
 		"attacked": "Two men enter, one man leaves!",
 		"defeated": "You run Bartertown.",
 		"outerColor": [0, 0, 0],
@@ -920,8 +1071,8 @@
 			"Cannot build [Helicopter] units",
 			"[Personnel] units gain the [Guerilla Warfare I] promotion",
 			"[Personnel] units gain the [Guerilla Warfare II] promotion",
-			"[{Land} {Low Tech}] units gain the [Guerilla Warfare I] promotion",
-			"[{Land} {Low Tech}] units gain the [Guerilla Warfare II] promotion",
+			"[Low Tech] units gain the [Guerilla Warfare I] promotion",
+			"[Low Tech] units gain the [Guerilla Warfare II] promotion",
 			"Units ignore terrain costs when moving into any tile with Hills"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
@@ -1063,6 +1214,7 @@
 		"style": "Barbarians",
 		"outerColor": [0, 0, 0],
 		"innerColor": [185, 12, 12],
-		"uniques": ["[-33]% Strength <vs cities> <before discovering [Steam Power]>"]
+		"uniques": ["[-33]% Strength <vs cities> <before discovering [Steam Power]>",
+			"[Water] units gain the [Unable to pillage tiles] promotion"]
 	}
 ]

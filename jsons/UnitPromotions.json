@@ -1352,6 +1352,10 @@
 		"name": "Control",
 		"uniques": ["Can remove other religions from cities <in [Friendly] tiles> <[1] additional time(s)>"]
 	},
+	{
+		"name": "Unable to pillage tiles",
+		"uniques": ["Unable to pillage tiles"]
+	},
 	// 'ability' promotions
 
 	{

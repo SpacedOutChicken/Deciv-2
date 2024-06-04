@@ -12,7 +12,7 @@
 		"unhappinessModifier": 0.4,
 		"barbarianBonus": 0.75,
 		"barbarianSpawnDelay": 8,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 1.6,
 		"aiUnitCostModifier": 1.75,
 		"aiBuildingCostModifier": 1.6,
@@ -21,11 +21,9 @@
 		"aiUnitMaintenanceModifier": 1,
 		"aiUnitSupplyModifier": 0,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": false,
@@ -44,7 +42,7 @@
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.5,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 1,
 		"aiUnitCostModifier": 1.25,
 		"aiBuildingCostModifier": 1,
@@ -52,11 +50,9 @@
 		"aiBuildingMaintenanceModifier": 0.75,
 		"aiUnitMaintenanceModifier": 0.75,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
@@ -75,7 +71,7 @@
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.45,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 0.5,
 		"aiUnitCostModifier": 0.5,
 		"aiBuildingCostModifier": 1,
@@ -83,11 +79,9 @@
 		"aiBuildingMaintenanceModifier": 0.5,
 		"aiUnitMaintenanceModifier": 0.5,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
@@ -106,7 +100,7 @@
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.35,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 0.5,
 		"aiUnitCostModifier": 0.5,
 		"aiBuildingCostModifier": 1,
@@ -114,7 +108,7 @@
 		"aiBuildingMaintenanceModifier": 0.35,
 		"aiUnitMaintenanceModifier": 0.35,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [
 			"Civilian Convoy",
 			"Scout",
@@ -137,7 +131,7 @@
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.25,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 0.5,
 		"aiUnitCostModifier": 0.5,
 		"aiBuildingCostModifier": 1,
@@ -145,11 +139,9 @@
 		"aiBuildingMaintenanceModifier": 0.25,
 		"aiUnitMaintenanceModifier": 0.25,
 		"aiFreeTechs": ["Redomestication", "Iron Working"],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 0.75,
 		"aisExchangeTechs": true,
@@ -168,7 +160,7 @@
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.15,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 0.4,
 		"aiUnitCostModifier": 0.4,
 		"aiBuildingCostModifier": 1,
@@ -176,11 +168,9 @@
 		"aiBuildingMaintenanceModifier": 0.2,
 		"aiUnitMaintenanceModifier": 0.2,
 		"aiFreeTechs": ["Redomestication", "Iron Working"],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 0.7,
 		"aisExchangeTechs": true,
@@ -199,7 +189,7 @@
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0.1,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 0.3,
 		"aiUnitCostModifier": 0.3,
 		"aiBuildingCostModifier": 0.8,
@@ -212,11 +202,9 @@
 			"Redomestication",
 			"Iron Working"
 		],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout", "Scout"],
+		"aiMajorCivBonusStartingUnits": ["Era Starting Unit"],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 0.6,
 		"aisExchangeTechs": true,
@@ -250,15 +238,12 @@
 		],
 		"aiMajorCivBonusStartingUnits": [
 			"Civilian Convoy",
-			"Civilian Convoy",
-			"Scout",
-			"Scout",
-			"Scout"
+			"Era Starting Unit",
+			"Era Starting Unit",
+			"Era Starting Unit"
 		],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 0.55,
 		"aisExchangeTechs": true,
@@ -277,7 +262,7 @@
 		"policyCostModifier": 1,
 		"unhappinessModifier": 1,
 		"barbarianBonus": 0,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 0.1,
 		"aiUnitCostModifier": 0.2,
 		"aiBuildingCostModifier": 0.75,
@@ -292,16 +277,13 @@
 		],
 		"aiMajorCivBonusStartingUnits": [
 			"Civilian Convoy",
-			"Civilian Convoy",
 			"Worker",
-			"Scout",
-			"Scout",
-			"Scout"
+			"Era Starting Unit",
+			"Era Starting Unit",
+			"Era Starting Unit"
 		],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 0.5,
 		"aisExchangeTechs": true,
@@ -320,7 +302,7 @@
 		"policyCostModifier": 0.01,
 		"unhappinessModifier": 0,
 		"barbarianBonus": 1,
-		"playerBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"playerBonusStartingUnits": [],
 		"aiCityGrowthModifier": 0.5,
 		"aiUnitCostModifier": 0.5,
 		"aiBuildingCostModifier": 1,
@@ -328,11 +310,9 @@
 		"aiBuildingMaintenanceModifier": 0.25,
 		"aiUnitMaintenanceModifier": 0.25,
 		"aiFreeTechs": [],
-		"aiMajorCivBonusStartingUnits": ["Civilian Convoy", "Scout"],
+		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
-			"Spearman"
+			"Era Starting Unit"
 		],
 		"aiUnhappinessModifier": 0.75,
 		"aisExchangeTechs": true,

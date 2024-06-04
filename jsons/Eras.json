@@ -2,7 +2,7 @@
 	{
 		"name": "Decivilized era",
 		"researchAgreementCost": 150,
-		"startingSettlerCount": 0, // These values should not include the values given in Difficulties.json
+		"startingSettlerCount": 0,
 		"startingWorkerCount": 0,
 		"startingMilitaryUnitCount": 0,
 		"startingMilitaryUnit": "Scout",
@@ -29,10 +29,10 @@
 	},
 	{
 		"name": "Neofeudal era",
-		"researchAgreementCost": 250,
-		"startingSettlerCount": 0,
-		"startingWorkerCount": 0,
-		"startingMilitaryUnitCount": 0,
+		"researchAgreementCost": 150,
+		"startingSettlerCount": 1,
+		"startingWorkerCount": 1,
+		"startingMilitaryUnitCount": 1,
 		"startingMilitaryUnit": "Scout",
 		"startingGold": 0,
 		"startingCulture": 0,
@@ -45,28 +45,31 @@
 	{
 		"name": "Rebuilding era",
 		"researchAgreementCost": 250,
-		"startingSettlerCount": 0,
-		"startingWorkerCount": 0,
-		"startingMilitaryUnitCount": 0,
-		"startingMilitaryUnit": "Scout",
+		"startingSettlerCount": 2,
+		"startingWorkerCount": 1,
+		"startingMilitaryUnitCount": 2,
+		"startingMilitaryUnit": "Forward Observer",
 		"startingGold": 0,
 		"startingCulture": 0,
 		"settlerPopulation": 1,
+		"settlerBuildings": ["Food Store", "Monument", "Shrine", "Library", "Greenhouse", "Forge", "Market"],
 		"startPercent": 37,
 		"citySound": "cityRenaissance",
 		"embarkDefense": 16,
-		"iconRGB": [104, 58, 183]
+		"iconRGB": [104, 58, 183],
+		"uniques": ["Every major Civilization gains a spy once a civilization enters this era"]
 	},
 	{
 		"name": "Industrial era",
 		"researchAgreementCost": 300,
-		"startingSettlerCount": 0,
-		"startingWorkerCount": 0,
-		"startingMilitaryUnitCount": 0,
-		"startingMilitaryUnit": "Scout",
-		"startingGold": 0,
-		"startingCulture": 0,
-		"settlerPopulation": 1,
+		"startingSettlerCount": 2,
+		"startingWorkerCount": 2,
+		"startingMilitaryUnitCount": 3,
+		"startingMilitaryUnit": "Soldier",
+		"startingGold": 100,
+		"startingCulture": 400,
+		"settlerPopulation": 3,
+		"settlerBuildings": ["Food Store", "Monument", "Library", "Greenhouse", "Forge", "Market", "Water Storage", "Barracks", "Distillery", "Listening Post"],
 		"startPercent": 50,
 		"citySound": "cityIndustrial",
 		"embarkDefense": 20,
@@ -74,19 +77,21 @@
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-			"Starting in this era disables religion"
+			"Starting in this era disables religion",
+			"Every major Civilization gains a spy once a civilization enters this era"
 		]
 	},
 	{
 		"name": "Postmodern era",
 		"researchAgreementCost": 350,
-		"startingSettlerCount": 0,
-		"startingWorkerCount": 0,
-		"startingMilitaryUnitCount": 0,
-		"startingMilitaryUnit": "Scout",
-		"startingGold": 0,
-		"startingCulture": 0,
-		"settlerPopulation": 1,
+		"startingSettlerCount": 2,
+		"startingWorkerCount": 2,
+		"startingMilitaryUnitCount": 4,
+		"startingMilitaryUnit": "Soldier",
+		"startingGold": 200,
+		"startingCulture": 500,
+		"settlerPopulation": 3,
+		"settlerBuildings": ["Food Store", "Monument", "Library", "Greenhouse", "Forge", "Market", "Water Storage", "Barracks", "Distillery", "Listening Post"],
 		"startPercent": 65,
 		"citySound": "cityAtomic",
 		"embarkDefense": 24,
@@ -94,19 +99,21 @@
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-			"Starting in this era disables religion"
+			"Starting in this era disables religion",
+			"Every major Civilization gains a spy once a civilization enters this era"
 		]
 	},
 	{
 		"name": "Information era",
 		"researchAgreementCost": 400,
-		"startingSettlerCount": 0,
-		"startingWorkerCount": 0,
-		"startingMilitaryUnitCount": 0,
-		"startingMilitaryUnit": "Scout",
-		"startingGold": 0,
-		"startingCulture": 0,
+		"startingSettlerCount": 3,
+		"startingWorkerCount": 3,
+		"startingMilitaryUnitCount": 5,
+		"startingMilitaryUnit": "Soldier",
+		"startingGold": 200,
+		"startingCulture": 500,
 		"settlerPopulation": 1,
+		"settlerBuildings": ["Food Store", "Monument", "Library", "Greenhouse", "Forge", "Market", "Water Storage", "Barracks", "Distillery", "Listening Post"],
 		"startPercent": 75,
 		"citySound": "cityInformation",
 		"embarkDefense": 29,
@@ -114,19 +121,21 @@
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-			"Starting in this era disables religion"
+			"Starting in this era disables religion",
+			"Every major Civilization gains a spy once a civilization enters this era"
 		]
 	},
 	{
 		"name": "New Future era",
 		"researchAgreementCost": 400,
-		"startingSettlerCount": 0,
-		"startingWorkerCount": 0,
-		"startingMilitaryUnitCount": 0,
-		"startingMilitaryUnit": "Scout",
-		"startingGold": 0,
-		"startingCulture": 0,
-		"settlerPopulation": 1,
+		"startingSettlerCount": 3,
+		"startingWorkerCount": 2,
+		"startingMilitaryUnitCount": 6,
+		"startingMilitaryUnit": "Soldier",
+		"startingGold": 400,
+		"startingCulture": 600,
+		"settlerPopulation": 5,
+		"settlerBuildings": ["Food Store", "Monument", "Library", "Greenhouse", "Forge", "Market", "Water Storage", "Barracks", "Distillery", "Listening Post", "Stadium"],
 		"startPercent": 80,
 		"citySound": "cityFuture",
 		"embarkDefense": 33,
@@ -134,19 +143,23 @@
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-			"Starting in this era disables religion"
+			"Starting in this era disables religion",
+			"Every major Civilization gains a spy once a civilization enters this era"
 		]
 	},
 	{
-		"name": "Singularity era", // mostly for testing far future stuff
+		"name": "Singularity era",
 		"researchAgreementCost": 400,
-		"startingSettlerCount": 0,
-		"startingWorkerCount": 0,
-		"startingMilitaryUnitCount": 0,
-		"startingMilitaryUnit": "Scout",
-		"startingGold": 0,
-		"startingCulture": 0,
-		"settlerPopulation": 1,
+		"startingSettlerCount": 3,
+		"startingSettlerUnit": "Civilian Convoy",
+		"startingWorkerCount": 3,
+		"startingWorkerUnit": "Worker",
+		"startingMilitaryUnitCount": 6,
+		"startingMilitaryUnit": "Soldier",
+		"startingGold": 400,
+		"startingCulture": 600,
+		"settlerPopulation": 5,
+		"settlerBuildings": ["Food Store", "Monument", "Library", "Greenhouse", "Forge", "Market", "Water Storage", "Barracks", "Distillery", "Listening Post", "Stadium"],
 		"startPercent": 80,
 		"citySound": "cityFuture",
 		"embarkDefense": 33,
@@ -154,7 +167,8 @@
 		"uniques": [
 			"May not generate great prophet equivalents naturally",
 			"May buy [Great Sage] units for [200] [Faith] [in all cities in which the majority religion is a major religion] at an increasing price ([100])",
-			"Starting in this era disables religion"
+			"Starting in this era disables religion",
+			"Every major Civilization gains a spy once a civilization enters this era"
 		]
 	}
 ]
