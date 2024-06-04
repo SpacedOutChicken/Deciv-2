@@ -110,8 +110,6 @@
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
 		"aiCityStateBonusStartingUnits": [
-			"Civilian Convoy",
-			"Scout",
 			"Spearman"
 		],
 		"aiUnhappinessModifier": 1,
