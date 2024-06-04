@@ -2806,7 +2806,7 @@
 		"culture": 1,
 		"cost": 150,
 		"uniques": ["[-15]% enemy spy effectiveness [in all cities]",
-			"New spies start with [+1] level",
+			"New spies start with [1] level(s)",
 			"Promotes all spies",
 			"Gain an extra spy",
 			"Only available <if [Field Office] is constructed in all [non-[Puppeted]] cities>",
