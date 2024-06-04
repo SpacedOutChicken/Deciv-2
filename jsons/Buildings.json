@@ -1009,6 +1009,17 @@
 		]
 	},
 	{
+		"name": "Virtual Panopticon",
+		"isWonder": true,
+		"uniques": [
+			"[-99]% enemy spy effectiveness [in this city]",
+			"[-25]% enemy spy effectiveness [in all cities]",
+			"[-10]% Unhappiness from [Population] [in all cities]"
+		],
+		"requiredTech": "Social Engineering",
+		"quote": "In our ardour for reform, we prepared the way for what we feared most."
+	},
+	{
 		"name": "Satnav Network",
 		"science": 1,
 		"greatPersonPoints": { "Great Engineer": 2 },
@@ -1825,9 +1836,21 @@
 		"requiredTech": "Botany"
 	},
 	{
+		"name": "Community Garden",
+		"food": 2,
+		"specialistSlots": { "Farmer": 1},
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+25]% Great Person generation [in this city]",
+			"Only available <in cities with a [Greenhouse]>"
+		],
+		"requiredTech": "Ecology"
+	},
+	{
 		"name": "Hydroponic Farming",
 		"food": 2,
-		"specialistSlots": { "Farmer": 3 },
+		"specialistSlots": { "Farmer": 2 },
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
@@ -2177,6 +2200,34 @@
 		"requiredTech": "Social Engineering"
 	},
 	{
+		"name": "Arena",
+		"replaces": "Stadium",
+		"uniqueTo": "Cult of Ignis",
+		"happiness": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"[+1 Happiness, +1 Culture] [in this city] <when above [0] [Slaves]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Machinery"
+	},
+	{
+		"name": "Colosseum",
+		"replaces": "Stadium",
+		"uniqueTo": "Crimson Legion",
+		"happiness": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"[+1 Happiness, +1 Culture] [in this city] <when above [0] [Slaves]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Engineering"
+	},
+	{
 		"name": "Distillery",
 		"happiness": 2,
 		"maintenance": 1,
@@ -2390,9 +2441,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 33,
 		"percentStatBonus": { "science": 10 },
-		"greatPersonPoints": {
-			"Great Administrator": 1 /*, "Great General": 1*/
-		},
+		"greatPersonPoints": { "Great Administrator": 1 },
 		"specialistSlots": { "Scientist": 1, "Merchant": 1 },
 		"uniques": [
 			"[+1 Science] from [Jungle] tiles [in this city]",
@@ -2458,7 +2507,6 @@
 		"uniqueTo": "Deadrock Clan",
 		"food": -1,
 		"science": 1,
-		// "greatPersonPoints": { "Great General": 1 },
 		"uniques": [
 			"[+1 Culture] per [3] population [in this city]",
 			"[+1 Gold] [in this city] <when above [0] [Slaves]>",
@@ -2484,7 +2532,6 @@
 			"New [Military] units start with [15] Experience [in this city]",
 			"Only available <in cities with a [Barracks]>"
 		],
-		// "greatPersonPoints": { "Great General": 1 },
 		"maintenance": 1,
 		"hurryCostModifier": 25,
 		"requiredTech": "Civil Service"
@@ -2574,10 +2621,9 @@
 		]
 	},
 	{
-		"name": "Media Center", // op
+		"name": "Media Center",
 		"happiness": 3,
 		"culture": 2,
-		"isNationalWonder": true,
 		"requiredNearbyImprovedResources": ["Data"],
 		"greatPersonPoints": { "Great Administrator": 2 },
 		"uniques": ["Consumes [1] [Power]"],
@@ -2622,7 +2668,7 @@
 		"requiredTech": "Incentivization"
 	},
 
-	// Military buildings
+	// Military and Espionage buildings
 	{
 		"name": "Walls",
 		"cityStrength": 1,
@@ -2722,44 +2768,51 @@
 		"hurryCostModifier": 25,
 		"uniques": [
 			"Remove extra unhappiness from annexed cities",
-			"[+75]% Great Person generation [in this city]",
-			"[+25]% Great Person generation [in this city] <after adopting [Constitution]>",
+			"[-25]% enemy spy effectiveness [in this city]",
 			"Only available <in cities without a [Prison Camp]>",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured",
+			"Hidden when espionage is disabled"
 		],
 		"requiredTech": "Civil Service"
 	},
 	{
-		"name": "Arena",
-		"replaces": "Listening Post",
-		"uniqueTo": "Cult of Ignis",
-		"happiness": 1,
-		"maintenance": 1,
-		"hurryCostModifier": 25,
-		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
-			"Remove extra unhappiness from annexed cities",
-			"[+1 Happiness, +1 Culture] [in this city] <when above [0] [Slaves]>",
-			"Only available <in cities without a [Prison Camp]>",
-			"Destroyed when the city is captured"
-		],
-		"requiredTech": "Machinery"
-	},
-	{
-		"name": "Colosseum",
+		"name": "Frumentarii Camp",
 		"replaces": "Listening Post",
 		"uniqueTo": "Crimson Legion",
-		"happiness": 1,
 		"maintenance": 1,
+		"happiness": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
 			"Remove extra unhappiness from annexed cities",
-			"[+1 Happiness, +1 Culture] [in this city] <when above [0] [Slaves]>",
+			"[-33]% enemy spy effectiveness [in this city]",
 			"Only available <in cities without a [Prison Camp]>",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured",
+			"Hidden when espionage is disabled"
 		],
-		"requiredTech": "Engineering"
+		"requiredTech": "Civil Service"
+	},
+	{
+		"name": "Field Office",
+		"maintenanceCost": 1,
+		"hurryCostModifier": 10,
+		"uniques": ["[-25]% enemy spy effectiveness [in this city]",
+			"Only available <if [Listening Post] is constructed in at least [3] of [Your] cities>",
+			"Hidden when espionage is disabled"],
+		"requiredTech": "Combined Arms"
+	},
+	{
+		"name": "Information Awareness Office",
+		"isNationalWonder": true,
+		"culture": 1,
+		"cost": 150,
+		"uniques": ["[-15]% enemy spy effectiveness [in all cities]",
+			"New spies start with [1] level(s)",
+			"Promotes all spies",
+			"Gain an extra spy",
+			"Only available <if [Field Office] is constructed in all [non-[Puppeted]] cities>",
+			"Cost increases by [30] per owned city",
+			"Hidden when espionage is disabled"],
+		"requiredTech": "Networking"
 	},
 	{
 		"name": "Prison Camp",
@@ -2872,7 +2925,6 @@
 	},
 	{
 		"name": "Military Academy",
-		// "greatPersonPoints": { "Great General": 1 },
 		"isNationalWonder": true,
 		"hurryCostModifier": 25,
 		"uniques": [

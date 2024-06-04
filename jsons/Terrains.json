@@ -122,6 +122,7 @@
 		"name": "Mountain",
 		"type": "Land",
 		"impassable": true,
+		"unbuildable": true,
 		"defenceBonus": 0.25,
 		"RGB": [120, 120, 120],
 		"uniques": [

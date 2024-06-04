@@ -30,6 +30,8 @@ Buildings:
 * Cryo Sanctum: [Cryogenic Vault](https://thenounproject.com/icon/cryogenic-vault-115036/) by Brandon Gamm, US
 * Electrostatic Generator: [generator](https://thenounproject.com/icon/generator-4308223/) by WiStudio, TH
 * Explore Underwater City: [sea level rise](https://thenounproject.com/icon/sea-level-rise-200223/) by Luis Prado, US
+* Field Office: [agency](https://thenounproject.com/icon/agency-984400/) by Tomasz Pasternak, PL
+* Frumentarii Camp: [military tent](https://thenounproject.com/icon/military-tent-4831044/) by Koson Rattanaphan, TH
 * Fusion Reactor: [Nuclear Reactor](https://thenounproject.com/term/nuclear-reactor/4110972/) by Robert Bjurshagen, SE
 * Greywater Treatment Plant: [Water Filter](https://thenounproject.com/icon/water-filter-1929073/) by Vectors Market
 * Listening Post: [peeping tom](https://thenounproject.com/term/peeping-tom/38344/) by Luis Prado, US
@@ -55,7 +57,8 @@ Buildings:
 * Syngas Plant: [gas plant](https://thenounproject.com/icon/gas-plant-1970746/) by ProSymbols, US
 * The Last Paradise: [Bird of Paradise](https://thenounproject.com/icon/bird-of-paradise-3890707/) by Kevin, US
 * Uranium Centrifuge: [centrifuge](https://thenounproject.com/icon/centrifuge-3771162/) by Carl Holderness, GB
-* Urine Recycler: [urine](https://thenounproject.com/term/urine/3650621/) by Llisole 
+* Urine Recycler: [urine](https://thenounproject.com/term/urine/3650621/) by Llisole
+* Virtual Panopticon: [panopticon](https://thenounproject.com/icon/panopticon-176669/) by Gregor Cresnar
 
 Nations:
 * Proklyatyye: [skeleton hand](https://thenounproject.com/icon/skeleton-hand-2108458/) by Vectors Market
@@ -128,12 +131,13 @@ Icons:
 ## From Flaticon
 
 Buildings:
-* Decontamination Center: [Shower](https://www.flaticon.com/free-icon/shower_9654790) by Freepik
+* Community Garden: [Community](https://www.flaticon.com/free-icon/community_10632234) by [inipagistudio](https://www.flaticon.com/authors/inipagistudio)
+* Decontamination Center: [Shower](https://www.flaticon.com/free-icon/shower_9654790) by [Freepik](https://www.flaticon.com/authors/freepik)
 * International Trade Center: [Industry](https://www.flaticon.com/free-icon/industry_48566) by Freepik
 
 Units:
 * Sky Cruiser: [Zeppelin](https://www.flaticon.com/free-icon/zeppelin_2073258) by Freepik
-* Warhead Truck: based on [Military Truck](https://www.flaticon.com/free-icon/military-truck_3939694) by iconixar
+* Warhead Truck: based on [Military Truck](https://www.flaticon.com/free-icon/military-truck_3939694) by [iconixar](https://www.flaticon.com/authors/iconixar)
 
 
 ## From Wikimedia Commons
