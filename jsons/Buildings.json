@@ -2807,7 +2807,7 @@
 		"cost": 150,
 		"uniques": ["[-15]% enemy spy effectiveness [in all cities]",
 			"New spies start with [1] level(s)",
-			"Promotes all spies",
+			"Promotes all spies [1] time(s)",
 			"Gain an extra spy",
 			"Only available <if [Field Office] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city",
