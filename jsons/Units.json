@@ -457,7 +457,6 @@
 		"requiredTech": "Machinery",
 		"uniques": [
 			"Promotion Nullifier",
-			"Purge Robot",
 			"Low Tech",
 			"Can move after attacking",
 			"No defensive terrain penalty",
@@ -932,7 +931,6 @@
 		"uniques": [
 		    "Personnel",
 			"Promotion Nullifier",
-			"Purge Robot",
 			"Can move after attacking",
 			"No defensive terrain penalty",
 			"Consumes [1] [Weapons]",
@@ -1789,7 +1787,6 @@
 		"upgradesTo": "Purge Robot",
 		"uniques": [
 			"Promotion Nullifier",
-			"Purge Robot",
 			"[+25]% Strength <vs [Air] units>",
 			"[70]% chance to intercept air attacks",
 			"Can move after attacking",
@@ -1887,7 +1884,6 @@
 		"obsoleteTech": "Future Tech",
 		"uniques": [
 			"Promotion Nullifier",
-			"Purge Robot",
 			"Only available <if [Factory] is constructed>",
 			"[95]% chance to intercept air attacks",
 			"[+25]% Strength <vs [Air] units>",
@@ -1931,7 +1927,6 @@
 		"requiredTech": "Future Power",
 		"uniques": [
 			"Promotion Nullifier",
-			"Purge Robot",
 			"[100]% chance to intercept air attacks",
 			"[1] extra interceptions may be made per turn",
 			"[+50]% Strength <vs [Air] units>",
