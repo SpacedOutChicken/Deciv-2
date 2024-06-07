@@ -2198,7 +2198,6 @@
 		"obsoleteTech": "Lasers",
 		"upgradesTo": "Attack Helicopter",
 		"uniques": [
-			"[+3] Movement <in [Water] tiles>",
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
