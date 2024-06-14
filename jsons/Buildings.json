@@ -37,7 +37,7 @@
 		"isWonder": true,
 		"uniqueTo": "Enclavers",
 		"food": 1,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"[10]% Food is carried over after population increases [in this city]",
 			"Provides [2] [Weapons]",
@@ -53,7 +53,7 @@
 		"isWonder": true,
 		"uniqueTo": "New Star",
 		"culture": 1,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Free [Militia] appears",
 			"Can only be built <in [Capital] cities>",
@@ -73,7 +73,7 @@
 		"science": 2,
 		"production": 1,
 		"cityHealth": 20,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Provides [1] [Power]",
 			"Provides [2] [Encrypted Data]",
@@ -97,7 +97,7 @@
 		"gold": 1,
 		"cityStrength": 10,
 		"cityHealth": 60,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Provides [1] [Power]",
 			"Provides [1] [Weapons]",
@@ -119,7 +119,7 @@
 		"specialistSlots": { "Scientist": 1 },
 		"gold": 1,
 		"cityHealth": 40,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Provides [1] [Power]",
 			"[2] free [Surveyor] units appear",
@@ -141,7 +141,7 @@
 		"gold": 1,
 		"cityStrength": 20,
 		"cityHealth": 80,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"[10]% Food is carried over after population increases [in this city]",
 			"Provides [1] [Power]",
@@ -163,7 +163,7 @@
 		"uniqueTo": "Crimson Legion",
 		"cityHealth": 20,
 		"culture": 1,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Free [Swordsman] appears",
@@ -184,7 +184,7 @@
 		"specialistSlots": { "Administrator": 1 },
 		"happiness": 1,
 		"faith": 1,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"[+2 Culture] [in this city] <after discovering [Iron Working]>",
 			"Provides [2] [Oil]",
@@ -205,7 +205,7 @@
 		"isWonder": true,
 		"uniqueTo": "Commonwealth",
 		"culture": 1,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"[25]% Great Person generation [in this city]",
 			"[+1 Faith, +1 Happiness] [in this city] <when not at war>",
@@ -224,7 +224,7 @@
 		"name": "Longhouse",
 		"isWonder": true,
 		"uniqueTo": "Children of Rust",
-		"cost": 1,
+		"cost": 0,
 		"production": 1,
 		"culture": 1,
 		"cityStrength": 1,
@@ -246,7 +246,7 @@
 		"isWonder": true,
 		"uniqueTo": "The Mariners",
 		"culture": 1,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Can only be built <in [Capital] cities>",
 			"[+1 Faith] [in this city] <with [1] to [6] neighboring [Coast] tiles>",
@@ -264,7 +264,7 @@
 		"name": "Great Mosque",
 		"isWonder": true,
 		"uniqueTo": "New Afrika",
-		"cost": 1,
+		"cost": 0,
 		"culture": 1,
 		"food": 2,
 		"cityStrength": 1,
@@ -287,7 +287,7 @@
 		"name": "Clan Hideout",
 		"isWonder": true,
 		"uniqueTo": "Deadrock Clan",
-		"cost": 1,
+		"cost": 0,
 		"gold": 1,
 		"cityHealth": 10,
 		"uniques": [
@@ -308,7 +308,7 @@
 		"isWonder": true,
 		"uniqueTo": "Proklyatyye",
 		"cityHealth": 20,
-		"cost": 1,
+		"cost": 0,
 		"production": 1,
 		"uniques": [
 			"Provides [2] [Uranium]",
@@ -3899,7 +3899,7 @@
 	{
 		"name": "Archive of the Arts",
 		"uniqueTo": "The Archive",
-		"cost": 1,
+		"cost": 0,
 		"culture": 5,
 		"science": 1,
 		"happiness": 1,
@@ -3914,7 +3914,7 @@
 		"name": "Encyclopedia",
 		"uniqueTo": "The Archive",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 3,
 		"food": 2,
 		"cityHealth": 50,
@@ -3930,7 +3930,7 @@
 		"name": "Homestead",
 		"uniqueTo": "Jericho",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 5,
 		"food": 2,
 		"cityHealth": 50,
@@ -3954,7 +3954,7 @@
 		"food": 2,
 		"cityHealth": 50,
 		"cityStrength": 10,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Reveals the entire map",
@@ -3965,7 +3965,7 @@
 	{
 		"name": "Nuclear Storage",
 		"uniqueTo": "Devil's Canyon",
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Provides [2] [Uranium]",
 			"Never destroyed when the city is captured"
@@ -3975,7 +3975,7 @@
 		"name": "Devil's Nuclear Plant",
 		"uniqueTo": "Devil's Canyon",
 		"replaces": "Nuclear Plant",
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Will not be displayed in Civilopedia",
 			"Provides [8] [Power]",
@@ -3988,7 +3988,7 @@
 		"name": "Silk Road",
 		"uniqueTo": "Bartertown",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 1,
 		"food": 2,
 		"cityHealth": 50,
@@ -4005,7 +4005,7 @@
 	{
 		"name": "Paradise Alley",
 		"uniqueTo": "Bartertown",
-		"cost": 1,
+		"cost": 0,
 		"culture": 1,
 		"uniques": [
 			"Provides [2] [Soft Drinks]",
@@ -4015,7 +4015,7 @@
 	{
 		"name": "The Abbey",
 		"uniqueTo": "Order of Jerome",
-		"cost": 1,
+		"cost": 0,
 		"faith": 5,
 		"culture": 1,
 		"science": 3,
@@ -4029,7 +4029,7 @@
 		"name": "Divine Knowledge",
 		"uniqueTo": "Order of Jerome",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 3,
 		"food": 2,
 		"cityHealth": 50,
@@ -4046,7 +4046,7 @@
 		"name": "Arroyo",
 		"uniqueTo": "Arroyo",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"cityHealth": 50,
 		"cityStrength": 10,
 		"food": 2,
@@ -4073,7 +4073,7 @@
 		"name": "Ghost Mountain",
 		"uniqueTo": "Ghost Mountain",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"cityHealth": 100,
 		"cityStrength": 10,
 		"food": 2,
@@ -4101,7 +4101,7 @@
 		"uniqueTo": "Almaty",
 		"cityStrength": 10,
 		"cityHealth": 50,
-		"cost": 1,
+		"cost": 0,
 		"science": 1,
 		"production": 3,
 		"uniques": [
@@ -4116,7 +4116,7 @@
 		"uniqueTo": "Almaty",
 		"cityStrength": 5,
 		"cityHealth": 100,
-		"cost": 1,
+		"cost": 0,
 		"science": 1,
 		"production": 3,
 		"uniques": [
@@ -4129,7 +4129,7 @@
 		"name": "Alma Base",
 		"uniqueTo": "Almaty",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"cityHealth": 100,
 		"food": 2,
 		"cityStrength": 10,
@@ -4161,7 +4161,7 @@
 		"name": "Hub Monument",
 		"uniqueTo": "The Hub",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 2,
 		"food": 2,
 		"cityHealth": 50,
@@ -4176,7 +4176,7 @@
 	{
 		"name": "Trader's Hub",
 		"uniqueTo": "The Hub",
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Provides [2] [Oil]",
 			"Provides [2] [Weapons]",
@@ -4203,7 +4203,7 @@
 		"name": "Mormon Monument",
 		"uniqueTo": "Deseret Nation",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 2,
 		"food": 2,
 		"cityHealth": 50,
@@ -4218,7 +4218,7 @@
 	{
 		"name": "Grand Temple",
 		"uniqueTo": "Deseret Nation",
-		"cost": 1,
+		"cost": 0,
 		"faith": 5,
 		"culture": 1,
 		"happiness": 1,
@@ -4231,7 +4231,7 @@
 		"name": "Iron Rod Monument",
 		"uniqueTo": "Church of the Iron Rod",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 2,
 		"food": 2,
 		"cityHealth": 50,
@@ -4247,7 +4247,7 @@
 		"name": "Iron Rod Stockpile",
 		"uniqueTo": "Church of the Iron Rod",
 		"production": 1,
-		"cost": 1,
+		"cost": 0,
 		"uniques": [
 			"Provides [4] [Weapons]",
 			"Never destroyed when the city is captured"
@@ -4257,7 +4257,7 @@
 		"name": "Land Value Tax",
 		"uniqueTo": "Arden Club",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 2,
 		"gold": 2,
 		"food": 2,
@@ -4275,7 +4275,7 @@
 		"name": "Great Mountain Shrine",
 		"uniqueTo": "Fo Guang",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 2,
 		"gold": 2,
 		"food": 2,
@@ -4301,7 +4301,7 @@
 	{
 		"name": "Tea Room",
 		"uniqueTo": "Fo Guang",
-		"cost": 1,
+		"cost": 0,
 		"culture": 1,
 		"uniques": [
 			"Provides [2] [Tea Leaves]",
@@ -4312,7 +4312,7 @@
 		"name": "Tellus Forest",
 		"uniqueTo": "Tellus",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"cityHealth": 50,
 		"cityStrength": 10,
 		"food": 2,
@@ -4329,7 +4329,7 @@
 	{
 		"name": "Sacred Tree",
 		"uniqueTo": "Tellus",
-		"cost": 1,
+		"cost": 0,
 		"culture": 1,
 		"uniques": [
 			"[+1 Food, +2 Production, +1 Gold] from [Tree plantation] tiles [in this city]"
@@ -4339,7 +4339,7 @@
 		"name": "Royal Court",
 		"uniqueTo": "Dahomey",
 		"replaces": "Monument",
-		"cost": 1,
+		"cost": 0,
 		"culture": 2,
 		"gold": 2,
 		"food": 2,
@@ -4355,7 +4355,7 @@
 	{
 		"name": "Slave House",
 		"uniqueTo": "Dahomey",
-		"cost": 1,
+		"cost": 0,
 		"culture": 1,
 		"uniques": [
 			"Provides [2] [Slaves]",

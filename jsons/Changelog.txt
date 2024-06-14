@@ -18,11 +18,11 @@ Balance Changes
 -Arena/Colosseum now replace Stadium for Ignis/Legion
 -Atlas, Blackwarden, Hexlock, Patriots all lose free Electronics Tech
 -Barbarian Water units can no longer pillage tiles
--Bartertown's "declaring war" line was changed from the generic line to a more appropriate quote from Beyond Thunderdome
 -Deadrock Clan now has better defense from spies and an extra spy instead of Barbarian recruitment
 -Dinghy is no longer a Low Tech unit, addressing an issue caused for The Patriots
 -Enclavers can no longer place Great Improvements on Mountains
 -Fixed problem of Unhappiness penalties applying at 0 Happiness
+-Helicopter units no longer gain extra movement over water
 -Hydroponic Farming loses one Farmer slot
 -Media Center is now a normal building instead of the worst National Wonder in the game
 -Power is no longer tradable
@@ -35,7 +35,9 @@ Balance Changes
 MISC Changes
 //
 
--TBD
+-Bartertown's "declaring war" line was changed from the generic line to a more appropriate quote from Beyond Thunderdome
+-"Identity" UBs (Faction World Wonders + City-State Monuments) now cost 0 Production (previously 1)
+-Purge Robot fake unique has been removed from Purge Robot units
 
 //
 -Credits from Icons to The Noun Project, 
