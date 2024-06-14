@@ -788,6 +788,13 @@ TileSets/FantasyHex/Tiles/Hacking site+Data
   orig: 32, 32
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Research site+Data
+  rotate: false
+  xy: 885, 364
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Tiles/Hacking site+Encrypted data
   rotate: false
   xy: 885, 324
