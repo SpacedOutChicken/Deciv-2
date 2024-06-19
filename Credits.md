@@ -28,6 +28,7 @@ Buildings:
 * Calutron: [sensor](https://thenounproject.com/icon/sensor-4110877/) by Robert Bjurshagen, SE
 * Clan Hideout: [Bunker](https://thenounproject.com/icon/bunker-2972283/) by IcoLabs, BR
 * Cryo Sanctum: [Cryogenic Vault](https://thenounproject.com/icon/cryogenic-vault-115036/) by Brandon Gamm, US
+* Domesday Project: based on [Book](https://thenounproject.com/icon/book-2173674/) by scott desmond, FR, and [UK](https://thenounproject.com/icon/uk-695682/) by Tom Walsh, GB
 * Electrostatic Generator: [generator](https://thenounproject.com/icon/generator-4308223/) by WiStudio, TH
 * Explore Underwater City: [sea level rise](https://thenounproject.com/icon/sea-level-rise-200223/) by Luis Prado, US
 * Field Office: [agency](https://thenounproject.com/icon/agency-984400/) by Tomasz Pasternak, PL
