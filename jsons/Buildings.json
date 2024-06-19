@@ -1099,6 +1099,19 @@
 		]
 	},
 	{
+		"name": "Domesday Project",
+		"isWonder": true,
+		"culture": 1,
+		"greatPersonPoints": {"Great Scientist": 2},
+		"uniques": [
+			"[+25]% Great Person generation [in all cities]",
+			"[+3 Science, +3 Culture] from [Luxury resource] tiles [in this city]",
+			"Only available <if [Public School] is constructed in at least [4] of [Your] cities>"
+		],
+		"requiredTech": "Computers",
+		"quote": "'It is in the handling of data that children can best develop an understanding of what counts for knowledge. They can be led into the areas of critical interpretation. As the computer takes over the role of storing and sorting the data, children can increasingly involve themselves in analysing the significance of the data.' - Bill O'Neill"
+	},
+	{
 		"name": "Skunkworks",
 		"culture": 1,
 		"greatPersonPoints": { "Great Scientist": 2 },

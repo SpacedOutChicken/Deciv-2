@@ -13,6 +13,7 @@
 		"adjective": ["Star"],
 		"startBias": ["Wasteland"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Keiji",
 		"favoredReligion": "Humanism",
 
 		"startIntroPart1": "'When the Cataclysm happened, there were many that felt lost. Like the world was too far gone. I always had hope, but sometimes it's hard to keep it. Ever since we came out, the world has felt like a jungle. Ruled by wild beasts.'",
@@ -73,6 +74,7 @@
 		"adjective": ["Hexlock"],
 		"startBias": ["Fissure"],
 		"preferredVictoryType": "Domination",
+		"personality": "Aura",
 		"favoredReligion": "Objectivism",
 
 		"startIntroPart1": "'I will admit. There were times were even I felt stumped. Science is supposed to be free. To let you discover things to your heart's content without a single care. But for every step forward, there are some who wish to take two steps backwards. With their arbitrary regulations and limits. They had a system meant to hinder your progress. They... are gone now.'",
@@ -135,6 +137,7 @@
 		"adjective": ["Scavenger"],
 		"startBias": ["Forest"],
 		"preferredVictoryType": "Cultural",
+		"personality": "Scarlett",
 		"favoredReligion": "Ghost Dance",
 
 		// "startIntroPart1": "TBA",
@@ -207,6 +210,7 @@
 		"leaderName": "Eric Price",
 		"adjective": ["Mercenary"],
 		"preferredVictoryType": "Domination",
+		"personality": "Price",
 		"favoredReligion": "Capitalism",
 
 		"startIntroPart1": "With over 250,000 employees across 40 nations, Blackwarden Associates is the first choice for any situation requiring a professional and discreet security solution. Our friendly, highly trained personnel are always ready to help  - from your local bank or supermarket, to immigration processing centers and border defense at home, to fallout remediation and nuclear site security in the Indus Exclusion Zone.",
@@ -278,6 +282,7 @@
 		"leaderName": "John Kruger",
 		"adjective": ["Corporate"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Kruger",
 		"favoredReligion": "Objectivism",
 
 		"startIntroPart1": "At the Refuge, I am creating more than a town, more even than a polity; it is a new world, where individuals will be free to act without the burden of taxation or the specter of injustice. Here, I have created a truly voluntary society, where the citizens associate in rational self interest; from love, not from fear of punishment. I have sent you this invitation because you have greatness within you; think of all you have achieved in your life, and how much more you could do, if you were not held back.",
@@ -351,6 +356,7 @@
 		"adjective": ["Commonwealth"],
 		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Diplomatic",
+		"personality": "Hawkins",
 		"favoredReligion": "Humanism",
 
 		// "startIntroPart1": "TBA",
@@ -432,6 +438,7 @@
 		"adjective": ["Patriot"],
 		"startBias": ["Avoid [Desert]"],
 		"preferredVictoryType": "Domination",
+		"personality": "Cameron",
 		"favoredReligion": "Liberty",
 
 		// "startIntroPart1": "TBA",
@@ -500,6 +507,7 @@
 		"adjective": ["Survivalist"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Survivalist",
 		"favoredReligion": "Liberty",
 
 		"startIntroPart1": "Take a look out there, kid. There used to be green trees everywhere, and bright blue water, and white snow on the mountain tops. I know it's hard for you to believe, but there was a time when everything wasn't covered in ash. But those dumb sons of bitches had to go and ruin it all. They didn't know how good they had it, and they killed themselves. But they didn't kill us. Know why? Because we knew how to survive, that's why. We knew how to make do with less, how to hide when they came hunting, and how to hit them where it hurt. That's why we're still here. And that's why we're going to keep living.",
@@ -583,6 +591,7 @@
 		"adjective": ["Regulator"],
 		"startBias": ["Jungle"],
 		"preferredVictoryType": "Domination",
+		"personality": "Boss",
 		"favoredReligion": "Capitalism",
 
 		"declaringWar": "You are mine!",
@@ -647,6 +656,7 @@
 		"leaderName": "Caesar",
 		"adjective": ["Legion"],
 		"preferredVictoryType": "Domination",
+		"personality": "Caesar",
 		"favoredReligion": "Polytheism",
 
 		"startIntroPart1": "Behold! The nations of the past have fallen, their once marvelous cities crumbled into dust. And why? Because they were weak! In their hour of necessity, they could not stand together! They turned on themselves and devoured themselves, and now they are dead. But we are alive, because we are strong! And what is the source of our strength? Our unity! Like the fasces, we are bound together, and with the strength of our bond, we shall rebuild civilization!",
@@ -726,6 +736,7 @@
 		"adjective": ["Cult"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
+		"personality": "Ignitor",
 		"favoredReligion": "Divine Engine",
 
 		"startIntroPart1": "In the beginning, the earth was without form, cold and void. And the Divine Engine moved upon the face of the earth, and brought forth humans, to serve her. And she blessed the people upon the earth with steel and holy oil, to make engines of their own. But the people of the earth forgot the Divine Engine who had blessed them. So the Engine sent forth the Flame to destroy the people who had sinned, and the earth was cleansed. But the Flame had mercy upon the people, and spared the people who repented and swore to serve the Engine. And it came to pass that Divine Engine blessed the people once more, and gave them steel and holy oil, and commanded them to multiply and replenish the earth, for the engine's glory.",
@@ -803,6 +814,7 @@
 		"adjective": ["Marine"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Domination",
+		"personality": "Deacon",
 		"favoredReligion": "Rongorongo",
 
 		// "startIntroPart1": "",
@@ -867,6 +879,7 @@
 		"adjective": ["Afrikan"],
 		"startBias": ["Avoid [Tundra]"],
 		"preferredVictoryType": "Scientific",
+		"personality": "Makonnen",
 		"favoredReligion": "Rastafari",
 
 		// "startIntroPart1": "",
@@ -946,6 +959,7 @@
 		"leaderName": "Trofim Bugorski",
 		"adjective": ["Proklyatyy"],
 		"startBias": ["Tundra"],
+		"personality": "Bugorski",
 		"preferredVictoryType": "Scientific",
 	
 		"startIntroPart1": "Perhaps it would have been better if man had never split the atom. If only we could go back and make it so no one could harness nuclear energy... Maybe then, we would never have burned the world to the ground. Maybe then you would not feel the sickness in your bones. But all that is in the past. We have to live with it now, no? But here is our secret: we can live with it, and they cannot. They have no stomach for radiation. And so this curse upon the land is a blessing to us. The sickness goes before us and destroys our enemies, leaving only us alive. That is not so bad now, is it?",
