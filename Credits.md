@@ -153,4 +153,6 @@ Technologies:
 * Decontamination: [Biohazard symbol](https://commons.wikimedia.org/wiki/File:Biohazard_symbol.svg)
 * Energy Weapons: [Laser-symbol](https://commons.wikimedia.org/wiki/File:Laser-symbol.svg)
 
-Banner and Preview image: [Wasteland Main Gate](https://commons.wikimedia.org/wiki/File:Wasteland_Main_Gate.jpg) by Toglenn/Glenn Franciss
+## Other
+
+Banner and Preview image: from the defunct [Gone with the Blastwave](http://www.blastwave-comic.com/) by Kimmo Lemetti
