@@ -8,7 +8,9 @@ New Content
     - Field Office is the Tier 2 anti-spy building
     - Information Awareness Office is the National Intelligence Agency equivalent
     - Virtual Panopticon is the Great Firewall equivalent, but also reduces Unhappiness from population in all cities
+-Added personalities
 -Added Community Garden (Neofeudal era Food building that boosts Great Person spawn rate, replaces Listening Post's old function)
+-Added Domesday Project (Industrial era world wonder that boosts Great Person spawn rate and adds Science + Culture to luxuries worked by the city)
 -Added Frumentarii Camp (Legion replacement for Listening Post, better spy defense)
 
 //
