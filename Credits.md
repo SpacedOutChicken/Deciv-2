@@ -27,21 +27,27 @@ Buildings:
 * Bunker: [Bunker](https://thenounproject.com/icon/bunker-1189654/) by Salaidinovich, TR
 * Calutron: [sensor](https://thenounproject.com/icon/sensor-4110877/) by Robert Bjurshagen, SE
 * Clan Hideout: [Bunker](https://thenounproject.com/icon/bunker-2972283/) by IcoLabs, BR
+* Club Chapter: [Jacket](https://thenounproject.com/icon/jacket-97230/) by Eugene Belyakov, TH
 * Cryo Sanctum: [Cryogenic Vault](https://thenounproject.com/icon/cryogenic-vault-115036/) by Brandon Gamm, US
+* Discipline Camp: [whip](https://thenounproject.com/icon/whip-6740093/) by Danil Polshin, RU
 * Domesday Project: based on [Book](https://thenounproject.com/icon/book-2173674/) by scott desmond, FR, and [UK](https://thenounproject.com/icon/uk-695682/) by Tom Walsh, GB
 * Electrostatic Generator: [generator](https://thenounproject.com/icon/generator-4308223/) by WiStudio, TH
 * Explore Underwater City: [sea level rise](https://thenounproject.com/icon/sea-level-rise-200223/) by Luis Prado, US
 * Field Office: [agency](https://thenounproject.com/icon/agency-984400/) by Tomasz Pasternak, PL
+* First Chapter: [Piston](https://thenounproject.com/icon/piston-6027703/) by roni pambudi, ID
 * Frumentarii Camp: [military tent](https://thenounproject.com/icon/military-tent-4831044/) by Koson Rattanaphan, TH
 * Fusion Reactor: [Nuclear Reactor](https://thenounproject.com/term/nuclear-reactor/4110972/) by Robert Bjurshagen, SE
 * Greywater Treatment Plant: [Water Filter](https://thenounproject.com/icon/water-filter-1929073/) by Vectors Market
+* Jamci: based on [post station](https://thenounproject.com/icon/post-station-6507806/) by Agus Rene, ID
 * Listening Post: [peeping tom](https://thenounproject.com/term/peeping-tom/38344/) by Luis Prado, US
 * Medical Network: [medical symbol](https://thenounproject.com/icon/medical-symbol-4224166/) by VectorsLab, PK
 * Mining Operation: [canyon](https://thenounproject.com/icon/canyon-3005193/) by iconfield, ID
 * Mobile Encampment: [camp](https://thenounproject.com/icon/camp-3242188/) by Vectors Point, PK
 * Moonshinery: [Moonshine](https://thenounproject.com/icon/moonshine-1923/) by Andrew Nielsen, AU
+* Naadam Square: [arena](https://thenounproject.com/icon/arena-5746074/) by Icons Cart, PK
 * Open the Vault: [Cave](https://thenounproject.com/icon/cave-1842205/) by Bakunetsu Kaito
 * Pit of Sacrifice: [Mass Grave](https://thenounproject.com/icon/mass-grave-75126/) by Dan Hetteix, US
+* Place of Order: [Mongolia](https://thenounproject.com/icon/mongolia-2012938/) by WiStudio, TH
 * Publishing House: [Bookstore](https://thenounproject.com/icon/bookstore-3658621/) by AmruID, ID
 * Rainwater Purifier: [Filter Water](https://thenounproject.com/icon/filter-water-3923269/) by denimao, ID
 * Reactivate Underwater City: [rising sea level](https://thenounproject.com/icon/rising-sea-level-4197935/) by Eucalyp
@@ -60,6 +66,7 @@ Buildings:
 * Uranium Centrifuge: [centrifuge](https://thenounproject.com/icon/centrifuge-3771162/) by Carl Holderness, GB
 * Urine Recycler: [urine](https://thenounproject.com/term/urine/3650621/) by Llisole
 * Virtual Panopticon: [panopticon](https://thenounproject.com/icon/panopticon-176669/) by Gregor Cresnar
+* Yassa: [Scroll](https://thenounproject.com/icon/scroll-6952494/) by ramacae, ID
 
 Nations:
 * Proklyatyye: [skeleton hand](https://thenounproject.com/icon/skeleton-hand-2108458/) by Vectors Market
@@ -112,6 +119,7 @@ Units:
 * Mutant: [hunchback posture](https://thenounproject.com/icon/hunchback-posture-3666455/) by Pelin Kahraman, TR
 * Purge Robot: [space marine](https://thenounproject.com/icon/space-marine-118882/) by Robert Bjurshagen, SE 
 * Quadcopter Drone: [Quadcopter](https://thenounproject.com/icon/quadcopter-2003189/) by kareemov1000, ID
+* Rider: [Wheel](https://thenounproject.com/icon/wheel-1053398/) by Alina Oleynik
 * Slave Trader: [boss](https://thenounproject.com/icon/boss-990401/) by DinosoftLab
 * Stasis Cruiser: [warship](https://thenounproject.com/icon/warship-3863470/) by Andrejs Kirma, LV
 * Stealth Fighter: [F-22](https://thenounproject.com/icon/f-22-751638/) by RomanP, US

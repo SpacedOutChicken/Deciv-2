@@ -501,6 +501,7 @@
 			"[+2 Science] <after discovering [Electronics]>",
 			"[+2 Science] <after discovering [Decryption]>",
 			"Removes removable features when built",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -520,6 +521,7 @@
 			"Removes removable features when built",
 			"Can be built just outside your borders",
 			"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -535,6 +537,7 @@
 			"Removes removable features when built",
 			"Can be built just outside your borders",
 			"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -549,6 +552,7 @@
 			"[+1 Culture, +1 Food] <after discovering [Hydroponics]>",
 			"Provides [1] [Narcotics]",
 			"Removes removable features when built",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -563,6 +567,7 @@
 			"[+1 Food, -1 Gold] from [Fresh water] tiles",
 			"[+1 Food] <after discovering [Land Remediation]>",
 			"Removes removable features when built",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -579,6 +584,7 @@
 			"Provides [1] [Oil] <after discovering [Biology]>",
 			"Removes removable features when built",
 			"[+1 Culture, +1 Faith] <after discovering [Chemistry]>",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -594,6 +600,7 @@
 			"[+1 Production] <after discovering [Electronics]>",
 			"[+1 Production, +1 Science] <after discovering [Robotics]>",
 			"Removes removable features when built",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -608,7 +615,8 @@
 			"Great Improvement",
 			"Constructing it will take over the tiles around it and assign them to your closest city",
 			"Can be built just outside your borders",
-			"Removes removable features when built"
+			"Removes removable features when built",
+			"Will not be replaced by automated units"
 		]
 	},
 	{
@@ -620,6 +628,7 @@
 			"Gives a defensive bonus of [10]%",
 			"[+1 Culture, +1 Faith] <after discovering [Education]>",
 			"Removes removable features when built",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -637,6 +646,7 @@
 			"Can be built just outside your borders",
 			"Constructing it will take over the tiles around it and assign them to your closest city",
 			"Removes removable features when built",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -653,6 +663,7 @@
 			"[+1 Food] <after discovering [Hydroponics]>",
 			"[+1 Production, +1 Food] <after discovering [Genetics]>",
 			"Removes removable features when built",
+			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
 	},
@@ -753,8 +764,7 @@
 		"uniques": [
 			"Gives a defensive bonus of [10]%",
 			"Unpillagable",
-			"Unbuildable",
-			"Will be replaced by automated workers"
+			"Unbuildable"
 		]
 	},
 	{

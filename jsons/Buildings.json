@@ -33,6 +33,25 @@
 		]
 	},
 	{
+		"name": "First Chapter",
+		"uniqueTo": "The Hunnu",
+		"replaces": "Bomb Shelter",
+		"isNationalWonder": false,
+		"food": 2,
+		"production": 2,
+		"cityStrength": 5,
+		"cityHealth": 50,
+		"science": 3,
+		"gold": 1,
+		"culture": 1,
+		"cost": 200,
+		"uniques": [
+			"Indicates the capital city",
+			"Limited to [2] per Civilization",
+			"New [Military] units start with [15] Experience [in this city]"
+		]
+	},
+	{
 		"name": "Stockpile",
 		"isWonder": true,
 		"uniqueTo": "Enclavers",
@@ -322,6 +341,24 @@
 		"civilopediaText": [
 			{
 				"text": "There is a sickness in the earth. You can feel it in the air we breathe and the water we drink. We have poisoned our mother. All we can do now is try to make things right."
+			}
+		]
+	},
+	{
+		"name": "Place of Order",
+		"isWonder": true,
+		"uniqueTo": "The Hunnu",
+		"cost": 0,
+		"gold": 1,
+		"uniques": [
+			"Can only be built <in [Capital] cities>",
+			"Free [Khan] appears",
+			"Gain a free [Food Store] [in this city]"
+		],
+		"quote": "We begin here, and we will bring order to this barren land. Join with us... or die.",
+		"civilopediaText": [
+			{
+				"text": "We begin here, and we will bring order to this barren land. Join with us... or die."
 			}
 		]
 	},
@@ -676,7 +713,7 @@
 		"cost": 100,
 		"requiredTech": "Currency",
 		"uniques": [
-			"Provides a sum of gold each time you spend a Great Person",
+			"Gain [100] [Gold] <upon expending a [Great Person] unit> <(modified by game speed)>",
 			"[Great Merchant] is earned [25]% faster",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Grand Clan Manor]>",
@@ -877,6 +914,38 @@
 			"Only available <if [Search for Survivors] is constructed>",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Five-Year Plan]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Recruitment Initiative",
+		"uniqueTo": "The Hunnu",
+		"replaces": "Congress",
+		"cost": 100,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Culture] per [4] population [in all cities]",
+			"[-25]% City-State Influence degradation",
+			"[+15]% Strength <for [All] units> <when fighting in [Friendly Land] tiles>",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Kurultai]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Kurultai",
+		"uniqueTo": "The Hunnu",
+		"replaces": "Council",
+		"cost": 50,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+10]% growth [in all cities]",
+			"[+30]% Strength <vs [City-States]>",
+			"[+1] Movement <for [{Military} {Land}] units>",
+			"Only available <if [Search for Survivors] is constructed>",
+			"Can only be built <in [Capital] cities>",
+			"Only available <in cities without a [Recruitment Initiative]>",
 			"Destroyed when the city is captured"
 		]
 	},
@@ -2022,6 +2091,17 @@
 		"hurryCostModifier": 40
 	},
 	{
+		"name": "Jamci",
+		"uniqueTo": "The Hunnu",
+		"replaces": "Monument",
+		"culture": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": [
+			"Gain a free [Stable] [in this city]"
+		]
+	},
+	{
 		"name": "Domestic Electrification",
 		"isNationalWonder": true,
 		"uniques": [
@@ -2124,6 +2204,21 @@
 		],
 		"cost": 40,
 		"hurryCostModifier": 25
+	},
+	{
+		"name": "Club Chapter",
+		"replaces": "Town Hall",
+		"uniqueTo": "The Hunnu",
+		"specialistSlots": { "Administrator": 1 },
+		"maintenance": 1,
+		"uniques": [
+			"New [Military] units start with [15] Experience [in this city]",
+			"[-25]% Culture cost of natural border growth [in this city]",
+			"[-25]% Gold cost of acquiring tiles [in this city]",
+			"[+1 Happiness] [in this city] <when above [0] [Power]>"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Civil Service"
 	},
 	{
 		"name": "Museum",
@@ -2239,6 +2334,19 @@
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Engineering"
+	},
+	{
+		"name": "Naadam Square",
+		"replaces": "Stadium",
+		"uniqueTo": "The Hunnu",
+		"happiness": 2,
+		"maintenance": 2,
+		"hurryCostModifier": 25,
+		"uniques": [
+			"[+1 Culture, +1 Happiness] from [Horses] tiles [in this city]",
+			"[+15]% Production when constructing [Mounted] units [in this city]"
+		],
+		"requiredTech": "Civil Service"
 	},
 	{
 		"name": "Distillery",
@@ -2415,6 +2523,18 @@
 			"[+1 Science] [in this city] <when above [0] [Power]>",
 			"[+1 Science, +1 Culture] from [Books] tiles [in this city]",
 			"[+1 Science] per [4] population [in this city]"
+		],
+		"hurryCostModifier": 25,
+		"requiredTech": "Writing"
+	},
+	{
+		"name": "Yassa",
+		"replaces": "Library",
+		"uniqueTo": "The Hunnu",
+		"uniques": [
+			"Gain [2]-[5] [Science] <upon gaining a [Low Tech] unit>",
+			"[+1 Science] per [3] population [in this city]",
+			"[+1 Science, +1 Culture] from [Books] tiles [in this city]"
 		],
 		"hurryCostModifier": 25,
 		"requiredTech": "Writing"
@@ -2890,6 +3010,22 @@
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Construction"
+	},
+	{
+		"name": "Discipline Camp",
+		"replaces": "Prison Camp",
+		"uniqueTo": "The Hunnu",
+		"food": -1,
+		"maintenance": 1,
+		"cost": 50,
+		"uniques": [
+			"Remove extra unhappiness from annexed cities",
+			"Can only be built <in [Annexed] cities>",
+			"Only available <in cities without a [Listening Post]>",
+			"Destroyed when the city is captured"
+		],
+		"requiredTech": "Construction",
+		"hurryCostModifier": -50
 	},
 	{
 		"name": "Narcotics Refinery",

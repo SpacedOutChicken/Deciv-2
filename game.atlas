@@ -6,35 +6,35 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 CityStateIcons/Culture
   rotate: false
-  xy: 860, 802
+  xy: 752, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Farming
   rotate: false
-  xy: 1292, 802
+  xy: 1184, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Labor
   rotate: false
-  xy: 1832, 694
+  xy: 1940, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Prayer
   rotate: false
-  xy: 544, 478
+  xy: 436, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 CityStateIcons/Research
   rotate: false
-  xy: 436, 154
+  xy: 760, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -62,7 +62,7 @@ EmojiIcons/Faith
   index: -1
 EmojiIcons/Gold
   rotate: false
-  xy: 1590, 578
+  xy: 1648, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
@@ -139,147 +139,147 @@ ImprovementIcons/VX Refinery
   index: -1
 ImprovementIcons/Crystal Refinery
   rotate: false
-  xy: 860, 910
+  xy: 752, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Drum site
   rotate: false
-  xy: 1076, 910
+  xy: 968, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Energy farm
   rotate: false
-  xy: 1076, 694
+  xy: 1184, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Factory farm
   rotate: false
-  xy: 1184, 694
+  xy: 1292, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Grassland
   rotate: false
-  xy: 1508, 802
+  xy: 1400, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Modular island
   rotate: false
-  xy: 112, 278
+  xy: 112, 386
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Moisture trap
   rotate: false
-  xy: 112, 170
+  xy: 112, 278
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Nature preserve
   rotate: false
-  xy: 220, 586
+  xy: 112, 62
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Oracle
   rotate: false
-  xy: 436, 586
+  xy: 328, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Outpost
   rotate: false
-  xy: 220, 262
+  xy: 436, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Prison farm
   rotate: false
-  xy: 652, 586
+  xy: 544, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Slaves
   rotate: false
-  xy: 652, 586
+  xy: 544, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Remove Forest
   rotate: false
-  xy: 652, 478
+  xy: 544, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Remove Jungle
   rotate: false
-  xy: 652, 478
+  xy: 544, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Remove Toxic Waste
   rotate: false
-  xy: 760, 586
+  xy: 652, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Research site
   rotate: false
-  xy: 544, 262
+  xy: 436, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Salvage site
   rotate: false
-  xy: 760, 478
+  xy: 652, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Seminary
   rotate: false
-  xy: 652, 262
+  xy: 544, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Settlement
   rotate: false
-  xy: 760, 370
+  xy: 652, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Solar collector
   rotate: false
-  xy: 976, 586
+  xy: 868, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Survivor camp
   rotate: false
-  xy: 760, 262
+  xy: 652, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -347,65 +347,65 @@ NationIcons/Commonwealth
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Contagion
+NationIcons/Crimson Legion
   rotate: false
   xy: 644, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-NationIcons/Crimson Legion
-  rotate: false
-  xy: 752, 802
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
 NationIcons/Cult of Ignis
   rotate: false
-  xy: 752, 694
+  xy: 860, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Deadrock Clan
   rotate: false
-  xy: 860, 694
+  xy: 968, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Enclavers
   rotate: false
-  xy: 1076, 802
+  xy: 968, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Hexlock
   rotate: false
-  xy: 1616, 802
+  xy: 1508, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/New Afrika
   rotate: false
-  xy: 328, 586
+  xy: 220, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/New Star
   rotate: false
-  xy: 220, 370
+  xy: 328, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Proklyatyye
   rotate: false
-  xy: 328, 154
+  xy: 652, 586
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/The Hunnu
+  rotate: false
+  xy: 868, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -433,84 +433,84 @@ ReligionIcons/Capitalism
   index: -1
 ReligionIcons/Divine Engine
   rotate: false
-  xy: 968, 802
+  xy: 860, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Ghost Dance
   rotate: false
-  xy: 1400, 802
+  xy: 1292, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Humanism
   rotate: false
-  xy: 1832, 910
+  xy: 1724, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Idolatry
   rotate: false
-  xy: 1724, 694
+  xy: 1832, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Liberty
   rotate: false
-  xy: 1940, 802
+  xy: 1832, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Naturism
   rotate: false
-  xy: 220, 478
+  xy: 220, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Objectivism
   rotate: false
-  xy: 328, 478
+  xy: 220, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Paganism
   rotate: false
-  xy: 328, 370
+  xy: 220, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Polytheism
   rotate: false
-  xy: 220, 154
+  xy: 544, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Posadism
   rotate: false
-  xy: 328, 262
+  xy: 220, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Rastafari
   rotate: false
-  xy: 436, 262
+  xy: 328, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ReligionIcons/Rongorongo
   rotate: false
-  xy: 652, 370
+  xy: 544, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -566,210 +566,210 @@ ResourceIcons/C8H17
   index: -1
 ResourceIcons/Data
   rotate: false
-  xy: 968, 910
+  xy: 860, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Electronics
   rotate: false
-  xy: 968, 694
+  xy: 1076, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Encrypted Data
   rotate: false
-  xy: 1184, 910
+  xy: 1076, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Exotic Seeds
   rotate: false
-  xy: 1184, 802
+  xy: 1076, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Fabrics
   rotate: false
-  xy: 1292, 910
+  xy: 1184, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Fungus
   rotate: false
-  xy: 1400, 910
+  xy: 1292, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Furs
   rotate: false
-  xy: 1292, 694
+  xy: 1400, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Goats
   rotate: false
-  xy: 1508, 910
+  xy: 1400, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Grain
   rotate: false
-  xy: 1400, 694
+  xy: 1508, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Groundwater
   rotate: false
-  xy: 1616, 910
+  xy: 1508, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Harvested Organs
   rotate: false
-  xy: 1508, 694
+  xy: 1616, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Hogs
   rotate: false
-  xy: 1724, 910
+  xy: 1616, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Honey
   rotate: false
-  xy: 1616, 694
+  xy: 1724, 910
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Hostile Fauna
   rotate: false
-  xy: 1724, 802
+  xy: 1616, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Insects
   rotate: false
-  xy: 1832, 802
+  xy: 1724, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Jellyfish
   rotate: false
-  xy: 1940, 910
+  xy: 1832, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Machine Parts
   rotate: false
-  xy: 1940, 694
+  xy: 1940, 802
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Medicine
   rotate: false
-  xy: 112, 494
+  xy: 1940, 694
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Metal
   rotate: false
-  xy: 112, 386
+  xy: 112, 494
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Narcotics
   rotate: false
-  xy: 112, 62
+  xy: 112, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ImprovementIcons/Narcotics farm
   rotate: false
-  xy: 112, 62
+  xy: 112, 170
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Plankton
   rotate: false
-  xy: 436, 478
+  xy: 328, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Plastics
   rotate: false
-  xy: 544, 586
+  xy: 436, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Power
   rotate: false
-  xy: 436, 370
+  xy: 328, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Refined Narcotics
   rotate: false
-  xy: 544, 370
+  xy: 436, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/SbF5
   rotate: false
-  xy: 868, 586
+  xy: 760, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Scrap
   rotate: false
-  xy: 544, 154
+  xy: 868, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Soft Drinks
   rotate: false
-  xy: 868, 478
+  xy: 760, 370
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Stimulants
   rotate: false
-  xy: 652, 154
+  xy: 976, 586
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 ResourceIcons/Tea Leaves
   rotate: false
-  xy: 868, 370
+  xy: 760, 262
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -1047,219 +1047,247 @@ UnitPromotionIcons/Forage
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Gas Mask
+UnitPromotionIcons/Full Patch
   rotate: false
   xy: 1532, 520
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Guerilla Warfare
+UnitPromotionIcons/Gas Mask
   rotate: false
-  xy: 1648, 636
+  xy: 1590, 578
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hazard Pay
+UnitPromotionIcons/Guerilla Warfare
   rotate: false
   xy: 626, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Headhunter
+UnitPromotionIcons/Hang-Around
   rotate: false
   xy: 1590, 520
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Hull Down
+UnitPromotionIcons/Hazard Pay
   rotate: false
   xy: 1648, 578
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Infantry Mortar
+UnitPromotionIcons/Headhunter
   rotate: false
   xy: 1706, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Infantry Weapons
+UnitPromotionIcons/Hull Down
   rotate: false
   xy: 684, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Littoral Warfare
+UnitPromotionIcons/Infantry Mortar
   rotate: false
   xy: 1648, 520
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Loose Formation
+UnitPromotionIcons/Infantry Weapons
   rotate: false
   xy: 1706, 578
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Napalm
+UnitPromotionIcons/Littoral Warfare
   rotate: false
   xy: 1764, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Point Defense Laser
+UnitPromotionIcons/Loose Formation
   rotate: false
   xy: 742, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Portable Power Cell
+UnitPromotionIcons/Napalm
   rotate: false
   xy: 1706, 520
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Powered Armor
+UnitPromotionIcons/One Percent
   rotate: false
   xy: 1764, 578
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Precision
+UnitPromotionIcons/Point Defense Laser
   rotate: false
   xy: 1822, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Pride
+UnitPromotionIcons/Portable Power Cell
   rotate: false
   xy: 800, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Promotion Nullifier
+UnitPromotionIcons/Powered Armor
   rotate: false
   xy: 1764, 520
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Pursuit
+UnitPromotionIcons/Precision
   rotate: false
   xy: 1822, 578
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Strike
-  rotate: false
-  xy: 1822, 578
-  size: 50, 50
-  orig: 50, 50
-  offset: 0, 0
-  index: -1
-UnitPromotionIcons/Radioactive
+UnitPromotionIcons/Pride
   rotate: false
   xy: 1880, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Raider
+UnitPromotionIcons/Promotion Nullifier
   rotate: false
   xy: 858, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Reconnaissance
+UnitPromotionIcons/Prospect
   rotate: false
   xy: 1822, 520
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Seafarer
+UnitPromotionIcons/Pursuit
   rotate: false
   xy: 1880, 578
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Skirmish
+UnitPromotionIcons/Strike
+  rotate: false
+  xy: 1880, 578
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Radioactive
   rotate: false
   xy: 1938, 636
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Smokescreen
+UnitPromotionIcons/Raider
   rotate: false
   xy: 916, 96
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Stormfront
+UnitPromotionIcons/Reconnaissance
   rotate: false
   xy: 1880, 520
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Super Alloy
+UnitPromotionIcons/Seafarer
   rotate: false
   xy: 1938, 578
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Suppression
+UnitPromotionIcons/Skirmish
   rotate: false
   xy: 1938, 520
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Surface-to-Air Missile
+UnitPromotionIcons/Smokescreen
   rotate: false
   xy: 1084, 254
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Tear Gas
+UnitPromotionIcons/Stormfront
   rotate: false
   xy: 1142, 312
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/Urban Warfare
+UnitPromotionIcons/Super Alloy
   rotate: false
   xy: 1142, 254
   size: 50, 50
   orig: 50, 50
   offset: 0, 0
   index: -1
-UnitPromotionIcons/White Phosphorus Munitions
+UnitPromotionIcons/Suppression
   rotate: false
   xy: 1250, 420
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Surface-to-Air Missile
+  rotate: false
+  xy: 976, 145
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Tear Gas
+  rotate: false
+  xy: 974, 87
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Urban Warfare
+  rotate: false
+  xy: 178, 4
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/White Phosphorus Munitions
+  rotate: false
+  xy: 236, 38
   size: 50, 50
   orig: 50, 50
   offset: 0, 0

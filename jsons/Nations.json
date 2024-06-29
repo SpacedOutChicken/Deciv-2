@@ -1000,6 +1000,41 @@
 			"Arzamas-16","Golitsino-2","Semipalatinsk-16","Krasnoyarsk-25","Shkotovo-22","Yairm-210"],
 		"spyNames": ["Redrick", "Victor", "Artyom", "Kirill", "Dr. Kruglov", "Mr. Strugatsky", "Vitalik", "Lebedev", "Letyaga", "Mirsky"]
 	},
+	{
+		"name": "The Hunnu",
+		"leaderName": "Modu Chanyu",
+		"adjective": ["Hunnu"],
+		"startBias": ["Badlands"],
+		"preferredVictoryType": "Domination",
+		"personality": "Modu",
+		"favoredReligion": "Idolatry",
+	
+		"startIntroPart1": "Brothers, you've always known what it's like to ride high and live free. I know it, you know it, but more importantly, our ancestors knew it. They rode across these lands with pride, and no one could stop them. They started out like us, just a loose band of tribes working together, but they became the largest empire in the world. It's time for us to do the same. We haven't got any fuel left for our bikes, but we've got horses, and if that was good enough for them, then it's good enough for us.",
+		"startIntroPart2": "The world is broken right now, but we can put it back together, and those who come after us will know that we were the ones who won the war and brought lasting peace. Everyone will join with us or fall before us. Saddle up, brothers. It's time to ride.",
+	
+		"declaringWar": "You stand in the way of my riders. Let's solve this like warriors!",
+		"attacked": "Today, we charge toward your defeat. Expect no mercy.",
+		"defeated": "You've hobbled our clans. My respect for you nearly matches the loathing. Go ahead and finish me off.",
+		"introduction": "I am Modu, leader of the Hunnu, uniter of clans. Come join with us.",
+		"neutralHello": "Hello.",
+		"hateHello": "So what now?",
+		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
+	
+		"outerColor": [81,0,9],
+		"innerColor": [255,120,0],
+		"uniqueName": "Ride or Die",
+		"uniques": [
+			"When conquering an encampment, earn [25] Gold and recruit a Barbarian unit <with [75]% chance>",
+			"When defeating a [Military] unit, earn [25] Gold and recruit it <with [50]% chance>",
+			"[+50]% Strength <vs [Barbarian] units>",
+			"[Military] units gain the [Hang-Around] promotion",
+			"Cities are razed [2] times as fast",
+			"Starts with [Redomestication]",
+			"\"Borrows\" city names from other civilizations in the game"
+		],
+		"cities": ["New Otuken"],
+		"spyNames": ["Gala", "Jaya", "Enkush", "Temka", "Ono", "Jamba", "Davaa", "Odko", "Batkhuu", "Tuga"]
+	},
 
 	// City-States
 	{
@@ -1060,7 +1095,7 @@
 		"startBias": ["Hill"],
 		"style": "Tribal",
 		"uniques": [
-			"Damage is ignored when determining unit Strength <for [All] units>",
+			"No damage penalty for wounded units",
 			"Cannot build [Armor] units",
 			"Cannot build [Siege] units",
 			"Cannot build [Helicopter] units"
@@ -1079,7 +1114,7 @@
 		"startBias": ["Hill"],
 		"style": "Ghost",
 		"uniques": [
-			"Damage is ignored when determining unit Strength <for [All] units>",
+			"No damage penalty for wounded units",
 			"Cannot build [Armor] units",
 			"Cannot build [Siege] units",
 			"Cannot build [Helicopter] units",
@@ -1176,7 +1211,7 @@
 		"cityStateType": "Prayer",
 		"style": "",
 		"uniques": [
-			"Damage is ignored when determining unit Strength <for [All] units>",
+			"No damage penalty for wounded units",
 			"Cannot build [Armor] units",
 			"Cannot build [Siege] units",
 			"Cannot build [Helicopter] units"

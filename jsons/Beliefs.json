@@ -405,7 +405,10 @@
 	{
 		"name": "Funeral Rites",
 		"type": "Enhancer",
-		"uniques": ["[+100 Faith, +20 Culture] whenever a Great Person is expended"]
+		"uniques": [
+			"Gain [100] [Faith] <upon expending a [Great Person] unit> <(modified by game speed)>",
+			"Gain [20] [Culture] <upon expending a [Great Person] unit> <(modified by game speed)>"
+		]
 	},
 	{
 		"name": "Thought Control",

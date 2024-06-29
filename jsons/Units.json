@@ -1673,6 +1673,31 @@
 		"attackSound": "tankshot"
 	},
 	{
+		"name": "Rider",
+		"unitType": "Scrapper",
+		"uniqueTo": "The Hunnu",
+		"replaces": "Attack Vehicle",
+		"movement": 5,
+		"strength": 30,
+		"interceptRange": 1,
+		"cost": 70,
+		"requiredTech": "Iron Working",
+		"upgradesTo": "Armored Car",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": [
+			"Consumes [1] [Oil]",
+			"Personnel",
+			"Mounted",
+			"[+50]% Strength <vs [Low Tech] units>",
+			"[-33]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"Can move after attacking"
+		],
+		"promotions": ["Raider", "Skirmish"],
+		"hurryCostModifier": 20,
+		"attackSound": "metalhit"
+	},	
+	{
 		"name": "Armored Car",
 		"unitType": "Armor",
 		"movement": 4,
@@ -3091,6 +3116,25 @@
 		],
 		"promotions": ["Gas Mask", "Radioactive"],
 		"movement": 2
+	},
+	{
+		"name": "Khan",
+		"unitType": "Scrapper",
+		"uniqueTo": "The Hunnu",
+		"replaces": "Great General",
+		"upgradesTo": "Hussar",
+		"movement": 4,
+		"strength": 20,
+		"cost": 500,
+		"uniques": [
+			"Low Tech",
+			"No defensive terrain bonus",
+			"Great Person - [War]",
+			"Can be earned through combat",
+			"Unbuildable"
+		],
+		"promotions": ["Reconnaissance I", "[Khan] ability"],
+		"attackSound": "shot"
 	},
 	{
 		"name": "Great Farmer",

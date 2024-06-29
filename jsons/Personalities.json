@@ -478,5 +478,36 @@
 			"Mechanization": 0,
 			"Bionics": 40
 		}
+	},
+	{
+		"name": "Modu",
+		"production": 6,
+		"food": 5,
+		"gold": 6,
+		"science": 4,
+		"culture": 5,
+		"happiness": 5,
+		"faith": 3,
+		"military": 6,
+		"aggressive": 8,
+		"declareWar": 7,
+		"commerce": 5,
+		"diplomacy": 4,
+		"loyal": 6,
+		"expansion": 8,
+		"priorities": {
+			"Adaptation": 0,
+			"Expansionism": 30,
+			"Sovereignty": 30,
+			"Theocracy": 30,
+			"Rationalism": 10,
+			"Constitution": 10,
+			"Supremacy": 30,
+			"Monopoly": 0,
+			"Collectivism": 30,
+			"Naturalism": 10,
+			"Mechanization": 40,
+			"Bionics": 0
+		}
 	}
 ]

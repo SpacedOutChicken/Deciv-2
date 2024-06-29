@@ -65,7 +65,7 @@
 	{
 		"name": "Skirmish",
 		"uniques": [
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [75]% chance>",
 			"[25]% XP gained from combat",
 			"Only available <for units without [Promotion Nullifier]>"
 		],
@@ -89,7 +89,7 @@
 		"name": "Loose Formation",
 		"uniques": [
 			"[+33]% Strength <vs [Ranged] units> <when defending>",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <for units without [Promotion Nullifier]>"
 		],
 		"unitTypes": ["Scrapper", "Mounted", "Armor"],
@@ -1345,6 +1345,36 @@
 		"row": 13
 	},
 	{
+		"name": "Hang-Around",
+		"uniques": ["This Unit gains the [Prospect] promotion <upon defeating a [Military] unit>"]
+	},
+	{
+		"name": "Prospect",
+		"prerequisites": ["Hang-Around"],
+		"uniques": [
+			"This Unit gains the [Full Patch] promotion <upon defeating a [Military] unit>",
+			"Earn [50]% of killed [Military] unit's [Strength] as [Culture]"
+		]
+	},
+	{
+		"name": "Full Patch",
+		"prerequisites": ["Prospect"],
+		"uniques": [
+			"Uncapturable",
+			"Heals [25] damage if it kills a unit",
+			"Earn [25]% of killed [Military] unit's [Strength] as [Faith]",
+			"This Unit gains the [One Percent] promotion <upon conquering a city> <for units without [One Percent]>"
+		]
+	},
+	{
+		"name": "One Percent",
+		"prerequisites": ["Full Patch"],
+		"uniques": [
+			"This Unit upgrades for free including special upgrades",
+			"Earn [33]% of the damage done to [All] units as [Gold]"
+		]
+	},
+	{
         "name": "Devout",
         "uniques": ["Can Spread Religion <[1] additional time(s)>"]
     },
@@ -1386,5 +1416,18 @@
 		],
 		"column": 6,
 		"row": 12
+	},
+	{
+		"name": "[Khan] ability",
+		"uniques": [
+			"Great General",
+			"[+15]% Strength <vs cities>",
+			"[+20]% Strength bonus for [Military] units within [1] tiles",
+			"[+15]% Strength bonus for [Military] units within [2] tiles",
+			"[+10]% Strength bonus for [Military] units within [3] tiles",
+			"[50]% XP gained from combat",
+			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
+			"Uncapturable"
+		]
 	}
 ]
