@@ -37,6 +37,7 @@ Buildings:
 * First Chapter: [Piston](https://thenounproject.com/icon/piston-6027703/) by roni pambudi, ID
 * Frumentarii Camp: [military tent](https://thenounproject.com/icon/military-tent-4831044/) by Koson Rattanaphan, TH
 * Fusion Reactor: [Nuclear Reactor](https://thenounproject.com/term/nuclear-reactor/4110972/) by Robert Bjurshagen, SE
+* Garage: [Garage](https://thenounproject.com/icon/garage-6886587/) by Andi Nur Abdillah, ID
 * Greywater Treatment Plant: [Water Filter](https://thenounproject.com/icon/water-filter-1929073/) by Vectors Market
 * Jamci: based on [post station](https://thenounproject.com/icon/post-station-6507806/) by Agus Rene, ID
 * Listening Post: [peeping tom](https://thenounproject.com/term/peeping-tom/38344/) by Luis Prado, US
@@ -132,6 +133,7 @@ Tile improvements:
 * Drum site: [radioactive waste](https://thenounproject.com/icon/radioactive-waste-1086494/) by b farias, CL
 * Factory farm: [silo](https://thenounproject.com/icon/silo-2860577/) by MHD AZMI DWIPRANATA, ID
 * Trench: [dent](https://thenounproject.com/icon/dent-3355848/) by Andrejs Kirma, LV
+* Yurt: [Yurt](https://thenounproject.com/icon/yurt-4673233/) by M. Oki Orlando, ID
 
 Icons:
 * Faith icon: [Thought](https://thenounproject.com/term/thought/608383/) by Hea Poh Lin, MY 

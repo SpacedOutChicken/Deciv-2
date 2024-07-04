@@ -410,6 +410,24 @@
 		"shortcutKey": "I"
 	},
 
+	{
+		"name": "Yurt",
+		"uniqueTo": "The Hunnu",
+		"terrainsCanBeBuiltOn": ["Badlands", "Wasteland", "Desert"],
+		"food": 1,
+		"production": 1,
+		"turnsToBuild": 7,
+		"uniques": [
+			"[+1 Food] for each adjacent [Pasture]",
+			"[+1 Food] <after discovering [Ecology]>",
+			"[+1 Production, +1 Food] <after discovering [Genetics]>",
+			"[+1 Faith] <after discovering [Education]>",
+			"Unbuildable <in [resource] tiles>",
+			"Unbuildable <in tiles adjacent to [Yurt]>"
+		],
+		"shortcutKey": "Z"
+	},
+
 	// Transportation
 	{
 		"name": "Road",

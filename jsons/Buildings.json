@@ -36,7 +36,7 @@
 		"name": "First Chapter",
 		"uniqueTo": "The Hunnu",
 		"replaces": "Bomb Shelter",
-		"isNationalWonder": false,
+		"isNationalWonder": true,
 		"food": 2,
 		"production": 2,
 		"cityStrength": 5,
@@ -44,10 +44,9 @@
 		"science": 3,
 		"gold": 1,
 		"culture": 1,
-		"cost": 200,
+		"cost": 1,
 		"uniques": [
 			"Indicates the capital city",
-			"Limited to [2] per Civilization",
 			"New [Military] units start with [15] Experience [in this city]"
 		]
 	},
@@ -62,7 +61,8 @@
 			"Provides [2] [Weapons]",
 			"Free [Guerilla] appears",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Deep Larder] [in this city]"
+			"Gain a free [Deep Larder] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "An armed society is a polite society.",
 		"civilopediaText": [{ "text": "An armed society is a polite society." }]
@@ -76,7 +76,8 @@
 		"uniques": [
 			"Free [Militia] appears",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "I look around and see that others have begun to build bases. Operation centers made of steel. But not us. Because the true home is not some building made of lead, but rather the people around you. Surround yourself with them. And you'l be home forever.",
 		"civilopediaText": [
@@ -98,7 +99,8 @@
 			"Provides [2] [Encrypted Data]",
 			"[2] free [Purge Robot Proto] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Compound Mixer] [in this city]"
+			"Gain a free [Compound Mixer] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "'I will tell you a secret. Truth is, I'm not human. Not fully, at least. For some reason, Hexlock decided that it would be best having a computer lead them, instead of a person. And so their president decided to alter the head of his own daugther. Maybe the fact that I killed him as soon as I came out meant that I was now different. But to be honest? I feel the same. Just get bored of things much faster.'",
 		"civilopediaText": [
@@ -122,7 +124,8 @@
 			"Provides [1] [Weapons]",
 			"Free [Security] appears",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "While your deposit clears, you may want to read through this guide for potential residents. The Ark One shelter comprises a unique set of secure luxury accomodation based within a former military facility. In addition to their private living space, residents will have access to a complete set of facilities including two restaurants, a cinema, a bowling alley, and a fitness area with gym, spa, sauna and pool. The Ark One shelter is protected by a world-class professional security company, and is hardened to resist a nuclear strike and any armed attack.",
 		"civilopediaText": [
@@ -143,7 +146,8 @@
 			"Provides [1] [Power]",
 			"[2] free [Surveyor] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "At the Refuge, I am creating more than a town, more even than a polity; it is a new world, where individuals will be free to act without the burden of taxation or the specter of injustice. Here, I have created a truly voluntary society, where the citizens associate in rational self interest; from love, not from fear of punishment. I have sent you this invitation because you have greatness within you; think of all you have achieved in your life, and how much more you could do, if you were not held back. Choose something different. Choose Atlas.",
 		"civilopediaText": [
@@ -167,7 +171,8 @@
 			"Provides [2] [Weapons]",
 			"Free [Spec Ops] appears",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "We are here to protect the people, and we will do it here. Here we make our stand against anarchy and tyranny. Here, we will once again establish freedom and order. This is the oath we have taken, and we will keep that oath.",
 		"civilopediaText": [
@@ -187,7 +192,8 @@
 			"[-10]% Unhappiness from [Population] [in all cities]",
 			"Free [Swordsman] appears",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "Whatsoever any man either doth or saith, thou must be good; not for any man's sake, but for thine own nature's sake; as if either gold, or the emerald, or purple, should ever be saying to themselves, Whatsoever any man either doth or saith, I must still be an emerald, and I must keep my colour.",
 		"civilopediaText": [
@@ -210,7 +216,8 @@
 			"Gain enough Faith for a Pantheon",
 			"Free [War Buggy] appears",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Fuel Depot] [in this city]"
+			"Gain a free [Fuel Depot] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "Be thy hands, anointed, with holy oil.\nBe thy breast, anointed, with holy oil.\nBe thy head, anointed, with holy oil.\nAs kings, priests, and prophets were anointed.\nAnd as Solomon was anointed king by Zadok the priest and Nathan the prophet, so be thee anointed.",
 		"civilopediaText": [
@@ -230,7 +237,8 @@
 			"[+1 Faith, +1 Happiness] [in this city] <when not at war>",
 			"Free [Ranger] appears",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Monument] [in this city]"
+			"Gain a free [Monument] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "Lasting peace is sought, it is essential to adopt international measures to improve the lot of the masses. The welfare of the entire human race must replace hunger and oppression. People of the world must be taught to give up envy, avarice and rancour.",
 		"civilopediaText": [
@@ -251,7 +259,8 @@
 		"uniques": [
 			"[2] free [Scavenger] units appear",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Salvage Yard] [in this city]"
+			"Gain a free [Salvage Yard] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "Now there are no doors left in the houses for they have all been kicked off. So, also, there are no fires in the village and have not been for many days. Now the men full of strong drink have trodden in the fireplaces. They alone track there and there are no fires and their footprints are in all the fireplaces.",
 		"civilopediaText": [
@@ -270,7 +279,8 @@
 			"Can only be built <in [Capital] cities>",
 			"[+1 Faith] [in this city] <with [1] to [6] neighboring [Coast] tiles>",
 			"[2] free [Sharkman] units appear",
-			"Gain a free [Lighthouse] [in this city]"
+			"Gain a free [Lighthouse] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "Brightly beams our father's mercy\nFrom his lighthouse evermore\nBut to us he gives the keeping\nOf the lights along the shore.",
 		"civilopediaText": [
@@ -293,7 +303,8 @@
 			"Provides [1] [Weapons]",
 			"Free [Panther] appears",
 			"Gain a free [Mosque] [in this city]",
-			"May choose [1] additional belief(s) of any type when [enhancing] a religion"
+			"May choose [1] additional belief(s) of any type when [enhancing] a religion",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "We declare our right on this earth to be a human being, to be respected as a human being, to be given the rights of a human being in this society, on this earth, in this day, which we intend to bring into existence by any means necessary.",
 		"civilopediaText": [
@@ -313,7 +324,8 @@
 			"Can only be built <in [Capital] cities>",
 			"Provides [1] [Weapons]",
 			"[2] free [Clansman] units appear",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "If you would keep your secret from an enemy, tell it not to a friend.",
 		"civilopediaText": [
@@ -335,7 +347,8 @@
 			"[+2 Culture, +1 Happiness] [in this city] <after discovering [Decontamination]>",
 			"Free [Mutant] appears",
 			"Can only be built <in [Capital] cities>",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "There is a sickness in the earth. You can feel it in the air we breathe and the water we drink. We have poisoned our mother. All we can do now is try to make things right.",
 		"civilopediaText": [
@@ -353,7 +366,8 @@
 		"uniques": [
 			"Can only be built <in [Capital] cities>",
 			"Free [Khan] appears",
-			"Gain a free [Food Store] [in this city]"
+			"Gain a free [Food Store] [in this city]",
+			"Automatically built in all cities where it is buildable"
 		],
 		"quote": "We begin here, and we will bring order to this barren land. Join with us... or die.",
 		"civilopediaText": [
@@ -2094,11 +2108,13 @@
 		"name": "Jamci",
 		"uniqueTo": "The Hunnu",
 		"replaces": "Monument",
-		"culture": 1,
+		"culture": 2,
 		"cost": 40,
 		"hurryCostModifier": 40,
 		"uniques": [
-			"Gain a free [Stable] [in this city]"
+			"Gain a free [Stable] [in this city]",
+			"[+1 Production, +1 Culture] from [Pasture] tiles [in this city]",
+			"[+1 Culture] from [Yurt] tiles [in this city]"
 		]
 	},
 	{
@@ -3104,7 +3120,7 @@
 		"cost": 50,
 		"hurryCostModifier": -25,
 		"uniques": [
-			"[+2 Production, -1 Food] from [Horses] tiles [in this city]"
+			"[+2 Production] from [Horses] tiles [in this city]"
 		],
 		"requiredTech": "Redomestication",
 		"civilopediaText": [
@@ -3466,6 +3482,27 @@
 			"[+1 Production] [in this city] <with [Machine Parts]>",
 			"[+1 Production] from [Machine Parts] tiles [in this city]",
 			"Provides [1] [Encrypted Data]",
+			"Consumes [1] [Power]"
+		],
+		"requiredTech": "Manufacturing"
+	},
+	{
+		"name": "Garage",
+		"uniqueTo": "The Hunnu",
+		"replaces": "Factory",
+		// "food": -1,
+		"cityStrength": 5,
+		"cityHealth": 25,
+		"percentStatBonus": { "production": 10 },
+		"specialistSlots": { "Engineer": 2 },
+		"maintenance": 2,
+		"hurryCostModifier": 0,
+		"uniques": [
+			"Only available <in cities with a [Yassa]>",
+			"[+2 Production] [in this city] <when above [0] [Power]>",
+			"[+1 Production] [in this city] <with [Machine Parts]>",
+			"[+1 Production] from [Machine Parts] tiles [in this city]",
+			"All newly-trained [relevant] units [in this city] receive the [Resupply] promotion",
 			"Consumes [1] [Power]"
 		],
 		"requiredTech": "Manufacturing"

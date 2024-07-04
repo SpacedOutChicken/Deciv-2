@@ -1432,6 +1432,13 @@ TileSets/FantasyHex/Tiles/Wind farm-Hexlock
   orig: 32, 37
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Yurt
+  rotate: false
+  xy: 1845, 107
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
 TileSets/FantasyHex/Units/Advanced Armor
   rotate: false
   xy: 72, 233

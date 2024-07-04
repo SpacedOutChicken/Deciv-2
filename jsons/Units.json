@@ -64,8 +64,8 @@
 		"uniques": [
 			"Mounted",
 			"Can build [Land] improvements on tiles",
-			"May withdraw before melee ([50]%)",
-			"Only available <if [Stable] is constructed>",
+			"Withdraws before melee combat <with [50]% chance>",
+			"Can only be built <in cities with a [Stable]>",
 			"Automation is a primary action"
 		],
 		"cost": 130
@@ -112,7 +112,7 @@
 		"uniques": [
 			"Consumes [1] [Oil]",
 			"Only available <if [Factory] is constructed>",
-			"May withdraw before melee ([50]%)",
+			"Withdraws before melee combat <with [50]% chance>",
 			"Can build [Land] improvements on tiles",
 			"[-25]% construction time for [All] improvements",
 			"Automation is a primary action"
@@ -605,7 +605,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"Only available <if [Stable] is constructed>"
+			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -630,7 +630,7 @@
 			"[+50]% Strength <vs [Low Tech] units>",
 			"[-25]% Strength <vs cities> <when attacking>",
 			"Only available <if [Clubhouse] is constructed>",
-			"Only available <if [Stable] is constructed>"
+			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse",
@@ -654,7 +654,7 @@
 			"Can move after attacking",
 			"[+33]% Strength <vs [Low Tech] units>",
 			"[-33]% Strength <vs cities> <when attacking>",
-			"Only available <if [Stable] is constructed>"
+			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -679,7 +679,7 @@
 			"Can move after attacking",
 			"[+33]% Strength <vs [Low Tech] units>",
 			"[-33]% Strength <vs cities> <when attacking>",
-			"Only available <if [Stable] is constructed>",
+			"Can only be built <in cities with a [Stable]>",
 			"Consumes [1] [Slaves]"
 		],
 		"hurryCostModifier": 20,
@@ -1308,7 +1308,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
-			"Only available <if [Stable] is constructed>",
+			"Can only be built <in cities with a [Stable]>",
 			"Consumes [1] [Weapons]"
 		],
 		"hurryCostModifier": 20,
@@ -1329,7 +1329,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
-			"Only available <if [Stable] is constructed>"
+			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
@@ -1351,7 +1351,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
-			"Only available <if [Stable] is constructed>"
+			"Can only be built <in cities with a [Stable]>"
 			],
 		"promotions": ["Pursuit"],
 		"hurryCostModifier": 20,
@@ -1375,7 +1375,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
-			"Only available <if [Stable] is constructed>",
+			"Can only be built <in cities with a [Stable]>",
 			"Consumes [1] [Weapons]"
 		],
 		"hurryCostModifier": 20,
@@ -1398,7 +1398,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
-			"Only available <if [Stable] is constructed>"
+			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
@@ -2009,7 +2009,7 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs [Armor] units>",
 			"[-50]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([50]%)",
+			"Withdraws before melee combat <with [50]% chance>",
 			"Consumes [1] [Oil]"
 		],
 		"hurryCostModifier": 20,
@@ -2033,7 +2033,7 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs [Armor] units>",
 			"[-50]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [75]% chance>",
 			"Consumes [1] [Oil]"
 		],
 		"hurryCostModifier": 20,
@@ -2054,7 +2054,7 @@
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs [Helicopter] units>",
 			"[-1] Sight",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Can carry [1] [Missile] units",
 			"Consumes [1] [Oil]",
@@ -2081,7 +2081,7 @@
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs [Helicopter] units>",
 			"[-1] Sight",
-			"May withdraw before melee ([50]%)",
+			"Withdraws before melee combat <with [50]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
 			"Ranged attacks may be performed over obstacles"
@@ -2103,7 +2103,7 @@
 			"Can move after attacking",
 			"No defensive terrain bonus",
 			"[+150]% Strength <vs [Armor] units>",
-			"May withdraw before melee ([50]%)",
+			"Withdraws before melee combat <with [50]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -2126,7 +2126,7 @@
 			"[+200]% Strength <vs [Air] units>",
 			"[+200]% Strength <vs [Helicopter] units>",
 			"No defensive terrain bonus",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -2177,10 +2177,9 @@
 		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([25]%)",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 20,
@@ -2204,7 +2203,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"[+25]% Strength <when defending>"
 		],
 		"hurryCostModifier": 20,
@@ -2226,7 +2225,7 @@
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -2250,7 +2249,7 @@
 			"[+1] Sight",
 			"Can move after attacking",
 			"Ranged attacks may be performed over obstacles",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Aerospace Facility] is constructed>",
 			"[-25]% Strength <vs cities> <when attacking>",
 			"Consumes [1] [Oil]",
@@ -2275,7 +2274,7 @@
 			"[+1] Sight",
 			"Can move after attacking",
 			"Ranged attacks may be performed over obstacles",
-			"May withdraw before melee ([100]%)",
+			"Withdraws before melee combat <with [100]% chance>",
 			"Only available <if [Aerospace Facility] is constructed>",
 			"[-25]% Strength <vs cities> <when attacking>",
 			"Consumes [1] [Oil]",
@@ -2300,7 +2299,7 @@
 			"Automated",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Aerospace Facility] is constructed>",
 			"Consumes [1] [Aluminum]",
 			"Never appears as a Barbarian unit"
@@ -2535,7 +2534,7 @@
 		"upgradesTo": "Patrol Boat",
 		"uniques": [
 			"Cannot enter ocean tiles",
-			"May withdraw before melee ([33]%)"
+			"Withdraws before melee combat <with [33]% chance>"
 		],
 		"attackSound": "nonmetalhit"
 	},
@@ -2551,7 +2550,7 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Patrol Boat",
 		"uniques": [
-			"May withdraw before melee ([66]%)"
+			"Withdraws before melee combat <with [66]% chance>"
 		],
 		"attackSound": "nonmetalhit",
 		"promotions": ["Littoral Warfare"]
@@ -2564,10 +2563,10 @@
 		"cost": 90,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Attack Boat",
-		"obsoleteTech": "Steam Power",
+		"obsoleteTech": "Manufacturing",
 		"uniques": [
 			"Double movement in [Coast]",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"Consumes [1] [Oil]"
 		],
 		"hurryCostModifier": 20,
@@ -2583,10 +2582,10 @@
 		"cost": 90,
 		"requiredTech": "Navigation",
 		"upgradesTo": "Attack Boat",
-		"obsoleteTech": "Steam Power",
+		"obsoleteTech": "Manufacturing",
 		"uniques": [
 			"Double movement in [Coast]",
-			"May withdraw before melee ([66]%)",
+			"Withdraws before melee combat <with [66]% chance>",
 			"Consumes [1] [Oil]",
 			"May capture killed [Water] units",
 			"Earn [33]% of the damage done to [City] units as [Gold]"
@@ -2606,7 +2605,7 @@
 		"uniques": [
 			"Consumes [1] [Oil]",
 			"Double movement in [Coast]",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
@@ -2627,7 +2626,7 @@
 		"uniques": [
 			"Consumes [1] [Oil]",
 			"Double movement in [Coast]",
-			"May withdraw before melee ([66]%)",
+			"Withdraws before melee combat <with [66]% chance>",
 			"[+25]% Strength <when defending>",
 			"Only available <if [Factory] is constructed>"
 		],
@@ -2645,7 +2644,7 @@
 		    "Can move after attacking",
 			"Consumes [1] [Oil]",
 			"Double movement in [Coast]",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
@@ -2667,7 +2666,7 @@
 		"obsoleteTech": "Particle Physics",
 		"uniques": [
 			"Double movement in [Coast]",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"Can only attack [Water] tiles",
 			"Can move after attacking"
 		],
@@ -2689,7 +2688,7 @@
 		"obsoleteTech": "Particle Physics",
 		"uniques": [
 			"Double movement in [Coast]",
-			"May withdraw before melee ([66]%)",
+			"Withdraws before melee combat <with [66]% chance>",
 			"Can move after attacking"
 		],
 		"hurryCostModifier": 25,
@@ -2713,7 +2712,7 @@
 			"[+100]% Strength <vs [Air] units>",
 			"[+66]% Strength <vs [Submarine] units>",
 			"[+100]% Strength <vs [Helicopter] units>",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -2757,7 +2756,7 @@
 			"[+100]% Strength <vs [Air] units>",
 			"[+75]% Strength <vs [Submarine] units>",
 			"[+100]% Strength <vs [Helicopter] units>",
-			"May withdraw before melee ([33]%)",
+			"Withdraws before melee combat <with [33]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Can carry [2] [Missile] units",
 			"Never appears as a Barbarian unit",
@@ -2785,7 +2784,7 @@
 			"[+100]% Strength <vs [Air] units>",
 			"[+75]% Strength <vs [Submarine] units>",
 			"[+100]% Strength <vs [Helicopter] units>",
-			"May withdraw before melee ([66]%)",
+			"Withdraws before melee combat <with [66]% chance>",
 			"Ranged attacks may be performed over obstacles",
 			"Only available <if [Factory] is constructed>",
 			"Can carry [2] [Missile] units",
@@ -3128,13 +3127,16 @@
 		"cost": 500,
 		"uniques": [
 			"Low Tech",
+			"[+50]% Strength <vs [Low Tech] units>",
+			"[-25]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
+			"Can move after attacking",
 			"Great Person - [War]",
 			"Can be earned through combat",
 			"Unbuildable"
 		],
-		"promotions": ["Reconnaissance I", "[Khan] ability"],
-		"attackSound": "shot"
+		"promotions": ["[Khan] ability"],
+		"attackSound": "horse"
 	},
 	{
 		"name": "Great Farmer",
@@ -3192,7 +3194,7 @@
 		"obsoleteTech": "Rifling",
 		"uniques": [
 			"Low Tech",
-			"May withdraw before melee ([25]%)",
+			"Withdraws before melee combat <with [25]% chance>",
 			"[+33]% Strength <vs [Low Tech] units>"
 		],
 		"attackSound": "swarm"
@@ -3563,7 +3565,7 @@
 			"No defensive terrain bonus",
 			"[-33]% Strength <vs [Armor] units>",
 			"[-50]% Strength <vs cities> <when attacking>",
-			"May withdraw before melee ([75]%)"
+			"Withdraws before melee combat <with [75]% chance>"
 		],
 		"promotions": [
 			"Raider",
@@ -3632,7 +3634,7 @@
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
-			"May withdraw before melee ([75]%)",
+			"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Alma Air Base] is constructed>",
 			"Consumes [1] [Oil]"
 		],

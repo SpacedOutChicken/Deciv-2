@@ -1353,7 +1353,7 @@
 		"prerequisites": ["Hang-Around"],
 		"uniques": [
 			"This Unit gains the [Full Patch] promotion <upon defeating a [Military] unit>",
-			"Earn [50]% of killed [Military] unit's [Strength] as [Culture]"
+			"Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
 		]
 	},
 	{
@@ -1361,8 +1361,9 @@
 		"prerequisites": ["Prospect"],
 		"uniques": [
 			"Uncapturable",
-			"Heals [25] damage if it kills a unit",
-			"Earn [25]% of killed [Military] unit's [Strength] as [Faith]",
+			"Heals [15] damage if it kills a unit",
+			"Earn [10]% of killed [Military] unit's [Strength] as [Faith]",
+			"May capture killed [Military] units <with [25]% chance>",
 			"This Unit gains the [One Percent] promotion <upon conquering a city> <for units without [One Percent]>"
 		]
 	},
@@ -1421,11 +1422,9 @@
 		"name": "[Khan] ability",
 		"uniques": [
 			"Great General",
-			"[+15]% Strength <vs cities>",
 			"[+20]% Strength bonus for [Military] units within [1] tiles",
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"[+10]% Strength bonus for [Military] units within [3] tiles",
-			"[50]% XP gained from combat",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Uncapturable"
 		]
