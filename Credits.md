@@ -11,7 +11,7 @@ May contain art by [LynxRo](https://github.com/lynxro)<br>
 Borough and Hexlock art by [Sullien](https://github.com/Sullien)<br>
 Mining Pit art by ekids789789#4813 on Discord<br>
 Space Station Wreckage, Quadcopter Drone, Modular island, and Artificial glacier pixel art by [Indonesian Gentleman](https://www.instagram.com/indonesian_gentleman_portfolio/), AKA [greensniperhat](https://www.fiverr.com/greensniperhat/draw-science-fiction-and-fantasy-stuff)<br>
-Some pixel art, including Anti-Aircraft Gun and Anti-Tank Gun styles, by ReallyBasicName on Discord<br>
+Some pixel art, including Anti-Aircraft Gun and Anti-Tank Gun styles, by [ReallyBasicName](https://github.com/ReallyBasicName)<br>
 Some minor edits made by me
 
 
