@@ -12,6 +12,7 @@ Borough and Hexlock art by [Sullien](https://github.com/Sullien)<br>
 Mining Pit art by ekids789789#4813 on Discord<br>
 Space Station Wreckage, Quadcopter Drone, Modular island, and Artificial glacier pixel art by [Indonesian Gentleman](https://www.instagram.com/indonesian_gentleman_portfolio/), AKA [greensniperhat](https://www.fiverr.com/greensniperhat/draw-science-fiction-and-fantasy-stuff)<br>
 Plenty of pixel art, including different unit styles and all Afrikan units, by [ReallyBasicName](https://github.com/ReallyBasicName)<br>
+Some Barbarian pixel art by [Silent S](https://github.com/the-s-is-silent)
 Some minor edits made by me
 
 
