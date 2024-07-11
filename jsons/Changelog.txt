@@ -9,6 +9,7 @@ New Content
     - Information Awareness Office is the National Intelligence Agency equivalent
     - Virtual Panopticon is the Great Firewall equivalent, but also reduces Unhappiness from population in all cities
 -Added personalities
+-Added new faction: The Hunnu (Mongolian themed raider gang)
 -Added Community Garden (Neofeudal era Food building that boosts Great Person spawn rate, replaces Listening Post's old function)
 -Added Domesday Project (Industrial era world wonder that boosts Great Person spawn rate and adds Science + Culture to luxuries worked by the city)
 -Added Frumentarii Camp (Legion replacement for Listening Post, better spy defense)
@@ -22,7 +23,9 @@ Balance Changes
 -Barbarian Water units can no longer pillage tiles
 -Deadrock Clan now has better defense from spies and an extra spy instead of Barbarian recruitment
 -Dinghy is no longer a Low Tech unit, addressing an issue caused for The Patriots
+-Dinghy and Patrol Boat now obsolete at Manufacturing
 -Enclavers can no longer place Great Improvements on Mountains
+-"Faction Identity" World Wonders are now automatically built when the capital is founded, due to recent changes in AI reverting behavior that previously encouraged them to build the wonders immediately
 -Fixed problem of Unhappiness penalties applying at 0 Happiness
 -Helicopter units no longer gain extra movement over water
 -Hydroponic Farming loses one Farmer slot
@@ -37,9 +40,12 @@ Balance Changes
 MISC Changes
 //
 
+-Added a list of links to all known DeCiv mods
+-Added many missing style sprites along with a proper Afrikan sprite style drawn by ReallyBasicName
 -Bartertown's "declaring war" line was changed from the generic line to a more appropriate quote from Beyond Thunderdome
 -"Identity" UBs (Faction World Wonders + City-State Monuments) now cost 0 Production (previously 1)
 -Purge Robot fake unique has been removed from Purge Robot units
+-Suppressed certain mod checker warnings
 
 //
 -Credits from Icons to The Noun Project, 
