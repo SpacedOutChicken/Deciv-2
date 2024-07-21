@@ -3502,7 +3502,8 @@
 			"[+2 Production] [in this city] <when above [0] [Power]>",
 			"[+1 Production] [in this city] <with [Machine Parts]>",
 			"[+1 Production] from [Machine Parts] tiles [in this city]",
-			"All newly-trained [relevant] units [in this city] receive the [Resupply] promotion",
+			"[1] units cost no maintenance",
+			"[+1] Unit Supply",
 			"Consumes [1] [Power]"
 		],
 		"requiredTech": "Manufacturing"
