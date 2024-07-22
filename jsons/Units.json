@@ -3176,7 +3176,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking"
 		],
-		"promotions": ["Forage", "Raider", "Skirmish", "March"],
+		"promotions": ["Raider"],
 		"hurryCostModifier": 20,
 		"attackSound": "metalhit"
 	},
@@ -3294,12 +3294,9 @@
 		"upgradesTo": "Infantry",
 		"uniques": ["Personnel"],
 		"promotions": [
-			"Forage",
 			"Raider",
 			"Entrench",
-			"Guerilla Warfare I",
-			"Urban Warfare I",
-			"Ambush"
+			"Guerilla Warfare I"
 		],
 		"attackSound": "shot"
 	},
@@ -3320,11 +3317,9 @@
 		"hurryCostModifier": 20,
 		"uniques": ["Personnel"],
 		"promotions": [
-			"Skirmish",
 			"Raider",
 			"Entrench",
-			"Guerilla Warfare I",
-			"Urban Warfare I"
+			"Guerilla Warfare I"
 		],
 		"attackSound": "shot"
 	},
@@ -3342,13 +3337,11 @@
 		"hurryCostModifier": 20,
 		"uniques": ["Personnel"],
 		"promotions": [
-			"Skirmish",
 			"Raider",
 			"Entrench",
 			"Forage",
 			"Guerilla Warfare I",
-			"Urban Warfare I",
-			"March"
+			"Urban Warfare I"
 		],
 		"attackSound": "machinegun"
 	},
@@ -3371,13 +3364,10 @@
 			"[-20]% Strength <vs [Armor] units>"
 		],
 		"promotions": [
-			"Skirmish",
 			"Raider",
 			"Entrench",
-			"Extended Range",
-			"Guerilla Warfare I",
-			"Urban Warfare I",
-			"Precision"
+			"Forage",
+			"Guerilla Warfare I"
 		],
 		"attackSound": "shot"
 	},
@@ -3404,8 +3394,6 @@
 			"Forage",
 			"Raider",
 			"Entrench",
-			"Guerilla Warfare I",
-			"Urban Warfare I",
 			"Ambush"
 		],
 		"hurryCostModifier": 20,
@@ -3433,8 +3421,6 @@
 			"Forage",
 			"Raider",
 			"Entrench",
-			"Guerilla Warfare I",
-			"Urban Warfare I",
 			"Ambush"
 		],
 		"hurryCostModifier": 20,
@@ -3462,11 +3448,8 @@
 			"[-33]% Strength <vs cities> <when attacking>"
 		],
 		"promotions": [
-			"Skirmish",
 			"Raider",
-			"Entrench",
-			"Guerilla Warfare I",
-			"Urban Warfare I"
+			"Entrench"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
@@ -3492,11 +3475,8 @@
 			"[-33]% Strength <vs cities> <when attacking>"
 		],
 		"promotions": [
-			"Skirmish",
 			"Raider",
-			"Entrench",
-			"Guerilla Warfare I",
-			"Urban Warfare I"
+			"Entrench"
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
