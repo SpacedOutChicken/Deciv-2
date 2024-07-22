@@ -2,11 +2,12 @@
 
 #### Versions of DeCiv
 - [DeCiv](https://github.com/GeneralWadaling/DeCiv) (The original mod from 9kgsofrice and currently owned by The Bucketeer, long abandoned)
-- [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux) (The main branch of the resurrected mod, currently missing Espionage and personalities, has been somewhat abandoned while Lodo waits on Sullien to reappear and release his planned Rebirth Edition update)
+- [DeCiv Redux](https://github.com/SpacedOutChicken/DeCiv-Redux) (The main branch of the resurrected mod, has been somewhat abandoned while Lodo waits on Sullien to reappear and release his planned Rebirth Edition update)
 - [DeCiv 1](https://github.com/SpacedOutChicken/DeCiv-1) (Side branch that preserves the state of DeCiv as it was in before Lodo and Sullien revived it as best as possible, only updated as needed to fix bugs and deprecated uniques)
-- [DeCiv 2](https://github.com/SpacedOutChicken/Deciv-2) (Side branch that continues the "pre-Rebirth" state of DeCiv Redux and is currently the most up-to-date version of DeCiv, has Espionage and personalities along with one new faction not present in Redux)
+- [DeCiv 2](https://github.com/SpacedOutChicken/Deciv-2) (Side branch that continues the "pre-Rebirth" state of DeCiv Redux and is currently the most up-to-date version of DeCiv, has one new faction not present in Redux along with some balance changes)
 
 #### Active Expansion/Rebalance Mods
+- [A New Dawn](https://github.com/ReallyBasicName/A-New-Dawn) (WIP, will add several factions once finished)
 - [Communism on Wasteland](https://github.com/chenxing61/Communism-on-Wasteland) (Technically hasn't been updated for a while, but the owner is active and likely will update as needed)
 - [DeCiv Nation](https://github.com/EmperorVboiuerfg/Deciv-Nation)
 - [Fallout Factions for DeCiv](https://github.com/ReallyBasicName/Fallout-Factions-for-Deciv) (WIP, means to import many of the major factions and some of the minor factions from the Fallout series into DeCiv)

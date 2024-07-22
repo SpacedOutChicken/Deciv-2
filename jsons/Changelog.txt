@@ -30,6 +30,7 @@ Balance Changes
 -Helicopter units no longer gain extra movement over water
 -Hydroponic Farming loses one Farmer slot
 -Media Center is now a normal building instead of the worst National Wonder in the game
+-Multiple Barbarian units (Biker, Outlaw, etc.) have been stripped of at least two free promotions each
 -Power is no longer tradable
 -Rationalism now makes the player more vulnerable to spy theft
 -Rubble Gunman error of being a second Archer replacement for Deadrock is *finally* fixed (it now replaces Crossbowman)
