@@ -34,6 +34,7 @@ Balance Changes
 -Power is no longer tradable
 -Rationalism now makes the player more vulnerable to spy theft
 -Rubble Gunman error of being a second Archer replacement for Deadrock is *finally* fixed (it now replaces Crossbowman)
+-Springs can no longer have improvements other than Water pumps
 -Standard and Salvaged Purge Robots now automatically start with Portable Power Cell, so Hexlock loses that ability from its UA
 -Starting in a later era (Rebuilding onward) now actually gives the player extra units/buildings/population/etc. like it's supposed to
 

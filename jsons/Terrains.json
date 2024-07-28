@@ -273,7 +273,8 @@
 			"Fresh water",
 			"Considered [Desirable] when determining start locations",
 			"Considered [Food] when determining start locations",
-			"Always Fertility [4] for Map Generation"
+			"Always Fertility [4] for Map Generation",
+			"Only [Water pump] improvements may be built on this tile"
 		]
 	},
 	{
