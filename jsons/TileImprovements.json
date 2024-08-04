@@ -423,7 +423,7 @@
 			"[+1 Production, +1 Food] <after discovering [Genetics]>",
 			"[+1 Faith] <after discovering [Education]>",
 			"Unbuildable <in [resource] tiles>",
-			"Unbuildable <in tiles adjacent to [Yurt]>"
+			"Unbuildable <in tiles adjacent to [Yurt] tiles>"
 		],
 		"shortcutKey": "Z"
 	},
@@ -538,7 +538,7 @@
 			"[+1 Culture] <after discovering [Civil Service]>",
 			"Removes removable features when built",
 			"Can be built just outside your borders",
-			"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Gain control over [all] tiles in a [1]-tile radius",
 			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
@@ -554,7 +554,7 @@
 			"Provides [1] [Slaves]",
 			"Removes removable features when built",
 			"Can be built just outside your borders",
-			"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Gain control over [all] tiles in a [1]-tile radius",
 			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
 		]
@@ -631,7 +631,7 @@
 			"Gives a defensive bonus of [100]%",
 			"Adjacent enemy units ending their turn take [30] damage",
 			"Great Improvement",
-			"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Gain control over [all] tiles in a [1]-tile radius",
 			"Can be built just outside your borders",
 			"Removes removable features when built",
 			"Will not be replaced by automated units"
@@ -662,7 +662,7 @@
 			"Adjacent enemy units ending their turn take [30] damage",
 			"Great Improvement",
 			"Can be built just outside your borders",
-			"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Gain control over [all] tiles in a [1]-tile radius",
 			"Removes removable features when built",
 			"Will not be replaced by automated units",
 			"Pillaging this improvement yields approximately [+20 Gold]"
