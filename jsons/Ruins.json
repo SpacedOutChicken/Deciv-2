@@ -32,7 +32,7 @@
 	{
 		"name": "your exploring unit receives training",
 		"notification": "The survivors trained us in their ways of combat!",
-		"uniques": ["This Unit gains [10] XP"]
+		"uniques": ["[This Unit] gains [10] XP"]
 	},
 	{
 		"name": "survivors (adds population to a city)",
@@ -54,7 +54,7 @@
 	{
 		"name": "advanced weaponry for your explorer",
 		"notification": "Our unit finds advanced weaponry hidden in the camp!",
-		"uniques": ["This Unit upgrades for free including special upgrades"]
+		"uniques": ["[This Unit] upgrades for free including special upgrades"]
 	},
 	{
 		"name": "reveal nearby Barbarian camps",

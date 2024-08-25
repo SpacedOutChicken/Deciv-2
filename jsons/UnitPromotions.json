@@ -11,7 +11,7 @@
 	{
 		"name": "Heal Instantly",
 		"uniques": [
-			"Heal this unit by [50] HP",
+			"[This Unit] heals [50] HP",
 			"Doing so will consume this opportunity to choose a Promotion"
 		],
 		"unitTypes": [
@@ -1346,13 +1346,13 @@
 	},
 	{
 		"name": "Hang-Around",
-		"uniques": ["This Unit gains the [Prospect] promotion <upon defeating a [Military] unit>"]
+		"uniques": ["[This Unit] gains the [Prospect] promotion <upon defeating a [Military] unit>"]
 	},
 	{
 		"name": "Prospect",
 		"prerequisites": ["Hang-Around"],
 		"uniques": [
-			"This Unit gains the [Full Patch] promotion <upon defeating a [Military] unit>",
+			"[This Unit] gains the [Full Patch] promotion <upon defeating a [Military] unit>",
 			"Earn [25]% of killed [Military] unit's [Strength] as [Culture]"
 		]
 	},
@@ -1364,14 +1364,14 @@
 			"Heals [15] damage if it kills a unit",
 			"Earn [10]% of killed [Military] unit's [Strength] as [Faith]",
 			"May capture killed [Military] units <with [25]% chance>",
-			"This Unit gains the [One Percent] promotion <upon conquering a city> <for units without [One Percent]>"
+			"[This Unit] gains the [One Percent] promotion <upon conquering a city> <for units without [One Percent]>"
 		]
 	},
 	{
 		"name": "One Percent",
 		"prerequisites": ["Full Patch"],
 		"uniques": [
-			"This Unit upgrades for free including special upgrades",
+			"[This Unit] upgrades for free including special upgrades",
 			"Earn [33]% of the damage done to [All] units as [Gold]"
 		]
 	},
