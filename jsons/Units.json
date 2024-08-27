@@ -2243,7 +2243,7 @@
 		"interceptRange": 2,
 		"cost": 375,
 		"requiredTech": "Lasers",
-		"upgradesTo": "Hovercraft",
+		"upgradesTo": "VTOL Gunship",
 		"uniques": [
 			"[33]% chance to intercept air attacks",
 			"[+1] Sight",
@@ -2260,7 +2260,7 @@
 		"attackSound": "machinegun"
 	},
 	{
-		"name": "Hovercraft",
+		"name": "VTOL Gunship",
 		"unitType": "Helicopter",
 		"movement": 8,
 		"strength": 60,

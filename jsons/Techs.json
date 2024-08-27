@@ -342,21 +342,19 @@
 			{
 				"name": "Computers",
 				"row": 4,
-				"prerequisites": ["Plastics"],
+				"prerequisites": ["Plastics", "Electronics"],
 				"uniques": [
 					"[+10]% [Science] [in all cities]",
 					"[+10]% [Production] [in all cities]"
 				],
 				"quote": "This has been a challenging quarter with falls in demand from states and agencies. Blackwarden Associates has recalibrated its operations across geographies, moving away from security and relief operations in Asia and divesting from the radiological remediation sector. By focusing on core domestic operations for private sector clients, we have successfully generated free cashflows despite adverse market conditions."
 			},
-
 			{
 				"name": "Gyroscopes",
 				"row": 7,
 				"prerequisites": ["Flight", "Ballistics"],
 				"quote": "Things may be the same again; and we must fight\nNot in the hope of winning but rather of keeping\nSomething alive: so that when we meet our end,\nIt may be said that we tackled wherever we could,\nThat battle-fit we lived, and though defeated,\nNot without glory fought."
 			},
-
 			{
 				"name": "Combined Arms",
 				"row": 8,
@@ -366,7 +364,7 @@
 			{
 				"name": "Radar",
 				"row": 10,
-				"prerequisites": ["Radio"],
+				"prerequisites": ["Electronics", "Radio"],
 				"quote": "'Talent hits a target no one else can hit; Genius hits a target no one else can see.'"
 			}
 		]	
@@ -454,9 +452,8 @@
 				"name": "Lasers",
 				"row": 6,
 				"prerequisites": ["Avionics", "Rocketry", "Decryption"],
-				"quote": "The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light."
+				"quote": "The night is far spent; the day is at hand. Let us therefore cast off the works of darkness, and let us put on the armor of light."
 			},
-
 			{
 				"name": "Satellites",
 				"row": 7,
@@ -488,7 +485,7 @@
 			{
 				"name": "Advanced Materials",
 				"row": 8,
-				"prerequisites": ["Combined Arms"],
+				"prerequisites": ["Lasers", "Combined Arms"],
 				"quote": "Bunkers were spaces of exception, where democratic states could morph into autocracies in times of war by making the decision to sacrifice the polis from this space of protection."
 			},
 			{
@@ -515,7 +512,7 @@
 			{
 				"name": "Energy Weapons",
 				"row": 6,
-				"prerequisites": ["Lasers", "Advanced Materials"],
+				"prerequisites": ["Advanced Materials"],
 				"quote": "I believe that man will not merely endure: he will prevail. He is immortal, not because he alone among creatures has an inexhaustible voice, but because he has a soul, a spirit capable of compassion and sacrifice and endurance."
 			},
 			{
