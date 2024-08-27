@@ -3740,6 +3740,37 @@
 		]
 	},
 	{
+		"name": "Earthscraper Project",
+		"isNationalWonder": true,
+		"uniques": [
+			"[+1 Production] from every specialist [in all cities]",
+			"Gain a free [Earthscraper] [in this city]"
+		],
+		"requiredTech": "Advanced Materials",
+		"civilopediaText": [
+			{
+				"text": "This project enables the construction of Earthscraper buildings.","link":"Building/Earthscraper"
+			}
+		]
+	},
+	{
+		"name": "Earthscraper",
+		"cityHealth": 100,
+		"percentStatBonus": {"food": 10},
+		"specialistSlots": {"Administrator": 1, "Engineer": 1, "Farmer": 1, "Merchant": 1, "Scientist": 1},
+		"uniques": [
+			"[+1] population [in this city]",
+			"Population loss from nuclear attacks [-75]% [in this city]",
+			"Damage to garrison from nuclear attacks [-75]% [in this city]",
+			"Consumes [1] [Power]",
+			"Requires at least [15] population",
+			"Only available <if [Earthscraper Project] is constructed>",
+			"Unsellable",
+			"Never destroyed when the city is captured"
+		],
+		"requiredTech": "Advanced Materials"
+	},
+	{
 		"name": "Fusion Reactor",
 		"cost": 3750,
 		"isNationalWonder": true,
@@ -3762,7 +3793,7 @@
 		"requiredTech": "Future Materials",
 		"civilopediaText": [
 			{
-				"text": "This building enables the construction of Arcology Dome buildings.","link":"Building/Arcology Dome"
+				"text": "This project enables the construction of Arcology Dome buildings.","link":"Building/Arcology Dome"
 			}
 		]
 	},
@@ -3775,7 +3806,7 @@
 		"percentStatBonus": { "culture": 33, "gold": 5 },
 		"specialistSlots": {"Administrator": 1, "Engineer": 1, "Farmer": 1, "Merchant": 1, "Scientist": 1},
 		"cityStrength": 5,
-		"cityHealth": 25,
+		"cityHealth": 150,
 		"requiredTech": "Future Materials",
 		"uniques": [
 			"[+5]% growth [in this city] <when above [-2] [Power]>",
@@ -3783,7 +3814,7 @@
 			"[10]% Great Person generation [in this city]",
 			"[-5]% Unhappiness from [Population] [in this city] <when above [-2] [Power]>",
 			"Only available <if [Arcology Project] is constructed>",
-			"Requires at least [2] population",
+			"Requires at least [20] population",
 			"Destroyed when the city is captured",
 			"Consumes [1] [Power]",
 			"Consumes [1] [Aluminum]"

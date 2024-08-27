@@ -11,6 +11,7 @@ May contain art by [LynxRo](https://github.com/lynxro)<br>
 Borough and Hexlock art by [Sullien](https://github.com/Sullien)<br>
 Mining Pit art by ekids789789#4813 on Discord<br>
 Space Station Wreckage, Quadcopter Drone, Modular island, and Artificial glacier pixel art by [Indonesian Gentleman](https://www.instagram.com/indonesian_gentleman_portfolio/), AKA [greensniperhat](https://www.fiverr.com/greensniperhat/draw-science-fiction-and-fantasy-stuff)<br>
+VTOL Gunship unit icon by Indonesian Gentleman<br>
 Plenty of pixel art, including different unit styles and all Afrikan units, by [ReallyBasicName](https://github.com/ReallyBasicName)<br>
 Some minor edits made by me
 
@@ -32,6 +33,8 @@ Buildings:
 * Cryo Sanctum: [Cryogenic Vault](https://thenounproject.com/icon/cryogenic-vault-115036/) by Brandon Gamm, US
 * Discipline Camp: [whip](https://thenounproject.com/icon/whip-6740093/) by Danil Polshin, RU
 * Domesday Project: based on [Book](https://thenounproject.com/icon/book-2173674/) by scott desmond, FR, and [UK](https://thenounproject.com/icon/uk-695682/) by Tom Walsh, GB
+* Earthscraper: [skyscraper](https://thenounproject.com/icon/skyscraper-1811460/) by iconcheese, adapted slightly
+* Earthscraper Project: [Skyscraper](https://thenounproject.com/icon/skyscraper-1038032/) by Maxim Kulikov, adapted slightly
 * Electrostatic Generator: [generator](https://thenounproject.com/icon/generator-4308223/) by WiStudio, TH
 * Explore Underwater City: [sea level rise](https://thenounproject.com/icon/sea-level-rise-200223/) by Luis Prado, US
 * Field Office: [agency](https://thenounproject.com/icon/agency-984400/) by Tomasz Pasternak, PL

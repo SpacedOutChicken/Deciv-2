@@ -12,15 +12,20 @@ New Content
 -Added new faction: The Hunnu (Mongolian themed raider gang)
 -Added Community Garden (Neofeudal era Food building that boosts Great Person spawn rate, replaces Listening Post's old function)
 -Added Domesday Project (Industrial era world wonder that boosts Great Person spawn rate and adds Science + Culture to luxuries worked by the city)
+-Added Earthscraper (Information era building that adds more Food, more City HP, more protection from nukes, +1 population, and +1 of each specialist)
+-Added Earthscraper Project (Information era national wonder that adds Production to active specialists and enables building Earthscrapers)
 -Added Frumentarii Camp (Legion replacement for Listening Post, better spy defense)
 
 //
 Balance Changes
 //
 
+-Advanced Materials now requires Lasers
+-Arcology Dome now requires 20 population instead of 2 to build, but adds more City HP
 -Arena/Colosseum now replace Stadium for Ignis/Legion
 -Atlas, Blackwarden, Hexlock, Patriots all lose free Electronics Tech
 -Barbarian Water units can no longer pillage tiles
+-Computers and Radar now require Electronics
 -Deadrock Clan now has better defense from spies and an extra spy instead of Barbarian recruitment
 -Dinghy is no longer a Low Tech unit, addressing an issue caused for The Patriots
 -Dinghy and Patrol Boat now obsolete at Manufacturing
@@ -45,6 +50,7 @@ MISC Changes
 -Added a list of links to all known DeCiv mods
 -Added many missing style sprites along with a proper Afrikan sprite style drawn by ReallyBasicName
 -Bartertown's "declaring war" line was changed from the generic line to a more appropriate quote from Beyond Thunderdome
+-Hovercraft is now VTOL Gunship, with a new sprite from The Bucketeer
 -"Identity" UBs (Faction World Wonders + City-State Monuments) now cost 0 Production (previously 1)
 -Purge Robot fake unique has been removed from Purge Robot units
 -Suppressed certain mod checker warnings
