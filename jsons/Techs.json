@@ -17,7 +17,7 @@
 	{
 		"columnNumber": 1,
 		"era": "Decivilized era",
-		"techCost": 60,
+		"techCost": 35,
 		"buildingCost": 60,
 		"wonderCost": 125,
 		"techs": [
@@ -34,7 +34,6 @@
 				"prerequisites": ["The Wheel"],
 				"quote": "'Honestly, we're better off using oxen instead of cars.' - Shep Dogskull, Commonwealth rancher"
 			},
-
 			{
 				"name": "Secrets of the Past",
 				"row": 5,
@@ -58,7 +57,7 @@
 	{
 		"columnNumber": 2,
 		"era": "Decivilized era",
-		"techCost": 120,
+		"techCost": 65,
 		"buildingCost": 75,
 		"wonderCost": 185,
 		"techs": [
@@ -93,7 +92,7 @@
 	{
 		"columnNumber": 3,
 		"era": "Rediscovering era",
-		"techCost": 250,
+		"techCost": 105,
 		"buildingCost": 100,
 		"wonderCost": 250,
 		"techs": [
@@ -121,7 +120,6 @@
 				"quote": "For the days of my life have vanished like smoke, and my bones are grown dry like fuel for the fire.",
 				"uniques": ["Enables conversion of city production to [Gold]"]
 			},
-
 			{
 				"name": "Engineering",
 				"row": 8,
@@ -134,7 +132,7 @@
 	{
 		"columnNumber": 4,
 		"era": "Rediscovering era",
-		"techCost": 425,
+		"techCost": 250,
 		"buildingCost": 120,
 		"wonderCost": 300,
 		"techs": [
@@ -145,7 +143,6 @@
 				"uniques": ["Enables Research agreements"],
 				"quote": "Hereby it is manifest that during the time men live without a common Power to keep them all in awe, they are in that condition which is called War; and such a war as is of every man against every man."
 			},
-
 			{
 				"name": "Steel",
 				"row": 8,
@@ -163,7 +160,7 @@
 	{
 		"columnNumber": 5,
 		"era": "Neofeudal era",
-		"techCost": 650,
+		"techCost": 435,
 		"buildingCost": 160,
 		"wonderCost": 400,
 		"techs": [
@@ -209,7 +206,7 @@
 	{
 		"columnNumber": 6,
 		"era": "Neofeudal era",
-		"techCost": 1000,
+		"techCost": 650,
 		"buildingCost": 200,
 		"wonderCost": 500,
 		"techs": [
@@ -225,7 +222,6 @@
 				"prerequisites": ["Biology", "Steam Power"],
 				"quote": "And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food."
 			},
-
 			{
 				"name": "Manufacturing",
 				"row": 7,
@@ -249,7 +245,7 @@
 	{
 		"columnNumber": 7,
 		"era": "Rebuilding era",
-		"techCost": 1300,
+		"techCost": 950,
 		"buildingCost": 250,
 		"wonderCost": 625,
 		"techs": [
@@ -266,7 +262,6 @@
 				"prerequisites": ["Decontamination", "Refrigeration"],
 				"quote": "There is a plague on Man: his opinion that he knows something."
 			},
-
 			{
 				"name": "Electronics",
 				"row": 6,
@@ -296,7 +291,7 @@
 	{
 		"columnNumber": 8,
 		"era": "Rebuilding era",
-		"techCost": 2000,
+		"techCost": 1300,
 		"buildingCost": 300,
 		"wonderCost": 750,
 		"techs": [
@@ -329,7 +324,7 @@
 	{
 		"columnNumber": 9,
 		"era": "Industrial era",
-		"techCost": 2750,
+		"techCost": 1800,
 		"buildingCost": 360,
 		"wonderCost": 920,
 		"techs": [
@@ -372,7 +367,7 @@
 	{
 		"columnNumber": 10,
 		"era": "Industrial era",
-		"techCost": 3500,
+		"techCost": 2350,
 		"buildingCost": 500,
 		"wonderCost": 1060,
 		"techs": [
@@ -393,7 +388,7 @@
 	{
 		"columnNumber": 11,
 		"era": "Postmodern era",
-		"techCost": 4750,
+		"techCost": 3100,
 		"buildingCost": 500,
 		"wonderCost": 1250,
 		"techs": [
@@ -426,7 +421,7 @@
 	{
 		"columnNumber": 12,
 		"era": "Postmodern era",
-		"techCost": 5750,
+		"techCost": 3800,
 		"buildingCost": 500,
 		"wonderCost": 1250,
 		"techs": [
@@ -466,7 +461,7 @@
 	{
 		"columnNumber": 13,
 		"era": "Information era",
-		"techCost": 7250,
+		"techCost": 5100,
 		"buildingCost": 500,
 		"wonderCost": 1250,
 		"techs": [
@@ -499,7 +494,7 @@
 	{
 		"columnNumber": 14,
 		"era": "Information era",
-		"techCost": 10000,
+		"techCost": 6400,
 		"buildingCost": 750,
 		"wonderCost": 2000,
 		"techs": [
@@ -526,7 +521,7 @@
 	{
 		"columnNumber": 15,
 		"era": "New Future era",
-		"techCost": 17500,
+		"techCost": 12000,
 		"buildingCost": 750,
 		"wonderCost": 2000,
 		"techs": [
@@ -542,7 +537,6 @@
 				"prerequisites": ["Robotics"],
 				"quote": "This is only a foretaste of what is to come, and only the shadow of what is going to be."
 			},
-
 			{
 				"name": "Future Materials",
 				"row": 8,
@@ -551,11 +545,10 @@
 			}
 		]
 	},
-
 	{
 		"columnNumber": 16,
 		"era": "New Future era",
-		"techCost": 25000,
+		"techCost": 16000,
 		"buildingCost": 750,
 		"wonderCost": 2000,
 		"techs": [
@@ -582,7 +575,7 @@
 	{
 		"columnNumber": 17,
 		"era": "Singularity era",
-		"techCost": 35000,
+		"techCost": 20000,
 		"buildingCost": 750,
 		"wonderCost": 2000,
 		"techs": [
