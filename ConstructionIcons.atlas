@@ -1518,7 +1518,7 @@ BuildingIcons/Resource Management Server
   index: -1
 BuildingIcons/SS Cockpit
   rotate: false
-  xy: 1732, 968
+  xy: 1840, 1076
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -2687,14 +2687,14 @@ UnitIcons/Skirmisher
   index: -1
 UnitIcons/SS Cockpit
   rotate: false
-  xy: 1840, 1076
+  xy: 1732, 968
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 UnitIcons/Terraforming Lab
   rotate: false
-  xy: 1840, 1076
+  xy: 1732, 968
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
