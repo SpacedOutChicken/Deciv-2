@@ -351,6 +351,7 @@
 		"obsoleteTech": "Rifling",
 		"uniques": [
 			"Personnel",
+			"Can upgrade to [Horseman]",
 			"[-50]% Strength <vs cities>"
 		],
 		"attackSound": "nonmetalhit"
