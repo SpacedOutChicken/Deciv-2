@@ -1131,7 +1131,11 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Rifleman",
 		"hurryCostModifier": 20,
-		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"uniques": [
+			"Personnel",
+			"Can upgrade to [Dragoon]",
+			"Consumes [1] [Weapons]"
+		],
 		"attackSound": "shot"
 	},
 	{
