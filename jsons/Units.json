@@ -570,7 +570,11 @@
 		"requiredTech": "Iron Working",
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Gunman",
-		"uniques": ["Low Tech", "[+33]% Strength <vs [Low Tech] units>"],
+		"uniques": [
+			"Low Tech",
+			"Can upgrade to [Skirmisher]",
+			"[+33]% Strength <vs [Low Tech] units>"
+		],
 		"attackSound": "arrow"
 	},
 	{
@@ -590,6 +594,7 @@
 		"uniques": [
 			"Low Tech",
 			"Enslaved",
+			"Can upgrade to [Skirmisher]",
 			"[+33]% Strength <vs [Low Tech] units>",
 			"Consumes [1] [Slaves]",
 			"Only available <with [Slaves]>"
@@ -765,7 +770,11 @@
 		"requiredTech": "The Wheel",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Soldier",
-		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"uniques": [
+			"Personnel",
+			"Can upgrade to [Hussar]",
+			"Consumes [1] [Weapons]"
+		],
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
 	},
@@ -782,7 +791,11 @@
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Soldier",
 		"hurryCostModifier": 20,
-		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"uniques": [
+			"Personnel",
+			"Can upgrade to [Hussar]",
+			"Consumes [1] [Weapons]"
+		],
 		"promotions": ["Forage"],
 		"attackSound": "shot"
 	},
@@ -798,7 +811,11 @@
 		"upgradesTo": "Soldier",
 		"requiredTech": "The Wheel",
 		"obsoleteTech": "Replaceable Parts",
-		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"uniques": [
+			"Personnel",
+			"Can upgrade to [Hussar]",
+			"Consumes [1] [Weapons]"
+		],
 		"promotions": ["Hazard Pay", "Tear Gas"],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
@@ -815,7 +832,11 @@
 		"requiredTech": "The Wheel",
 		"obsoleteTech": "Replaceable Parts",
 		"upgradesTo": "Soldier",
-		"uniques": ["Personnel", "Consumes [1] [Weapons]"],
+		"uniques": [
+			"Personnel",
+			"Can upgrade to [Hussar]",
+			"Consumes [1] [Weapons]"
+		],
 		"hurryCostModifier": 20,
 		"promotions": ["Pride"],
 		"attackSound": "machinegun"
