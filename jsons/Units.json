@@ -35,6 +35,7 @@
 		"upgradesTo": "Mechanized Worker",
 		"uniques": [
 			"Can build [Land] improvements on tiles",
+			"Can upgrade to [Mounted Worker]",
 			"Automation is a primary action"
 		],
 		"cost": 70
@@ -311,6 +312,7 @@
 		"obsoleteTech": "Rifling",
 		"uniques": [
 			"Low Tech",
+			"Can upgrade to [Skirmisher]",
 			"[-50]% Strength <vs cities>",
 			"Unable to capture cities"
 		],
@@ -331,6 +333,7 @@
 		"uniques": [
 			"Low Tech",
 			"May capture killed [Barbarian] units <with [33]% chance>",
+			"Can upgrade to [Skirmisher]",
 			"[-50]% Strength <vs cities>",
 			"Unable to capture cities"
 		],
@@ -369,6 +372,7 @@
 		"obsoleteTech": "Rifling",
 		"uniques": [
 			"Low Tech",
+			"Can upgrade to [Horseman]",
 			"[+50]% Strength <vs [Mounted] units>"
 		],
 		"attackSound": "nonmetalhit"
@@ -386,6 +390,7 @@
 		"obsoleteTech": "Rifling",
 		"uniques": [
 			"Low Tech",
+			"Can upgrade to [Horseman]",
 			"[+50]% Strength <vs [Mounted] units>",
 			"Earn [50]% of killed [Military] unit's [Strength] as [Faith]"
 		],
@@ -404,6 +409,7 @@
 		"upgradesTo": "Militia",
 		"uniques": [
 			"Low Tech",
+			"Can upgrade to [Horseman]",
 			"Can instantly construct a [Salvage site] improvement <by consuming this unit>"
 		],
 		"promotions": ["Forage"],
@@ -422,6 +428,7 @@
 		"uniques": [
 			"Low Tech",
 			"Only available <if [Clubhouse] is constructed>",
+			"Can upgrade to [Horseman]",
 			"[+50]% Strength <vs [Mounted] units>"
 		],
 		"promotions": ["Clansman"],
@@ -440,6 +447,7 @@
 		"hurryCostModifier": 20,
 		"uniques": [
 			"Low Tech",
+			"Can upgrade to [Horseman]",
 			"[+50]% Strength <when defending>"
 		],
 		"promotions": ["Medic I", "[Surveyor] ability"],
@@ -480,6 +488,7 @@
 		"hurryCostModifier": 20,
 		"uniques": [
 			"Low Tech",
+			"Can upgrade to [Horseman]",
 			"[+25]% Strength <vs cities>",
 			"[+25]% Strength <vs [Low Tech] units>"
 		],
