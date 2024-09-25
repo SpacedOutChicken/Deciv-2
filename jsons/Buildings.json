@@ -1182,6 +1182,24 @@
 		]
 	},
 	{
+		"name": "The Green Palace",
+		"isWonder": true,
+		"culture": 1,
+		"happiness": 4,
+		"greatPersonPoints": {"Great Engineer": 1},
+		"uniques": [
+			"Creates a [Factory farm] improvement on a specific tile",
+			"[+4 Food] from every [Factory farm]"
+		],
+		"requiredTech": "Hydroponics",
+		"quote": "'When people around me died of the atomic bomb sickness, and I also wondered whether I would survive, I saw this tree putting out shoots and thought I could somehow go on living.' - Anonymous Hiroshima survivor",
+		"civilopediaText": [
+			{
+				"text": "This magnificent architectural wonder generates its own climate control environment, where the best crops bloom and thrive, feeding settlements even in the most desolate lands."
+			}
+		]
+	},
+	{
 		"name": "Domesday Project",
 		"isWonder": true,
 		"culture": 1,

@@ -67,6 +67,7 @@ Buildings:
 * Smart Grid: [power line](https://thenounproject.com/icon/power-line-1832965/) by Pause08, TH
 * Software Lab: [Software](https://thenounproject.com/icon/software-2882603/) by Aficons, ID
 * Syngas Plant: [gas plant](https://thenounproject.com/icon/gas-plant-1970746/) by ProSymbols, US
+* The Green Palace: [factory green](https://thenounproject.com/icon/factory-green-2266867/) by Eucalyp
 * The Last Paradise: [Bird of Paradise](https://thenounproject.com/icon/bird-of-paradise-3890707/) by Kevin, US
 * Uranium Centrifuge: [centrifuge](https://thenounproject.com/icon/centrifuge-3771162/) by Carl Holderness, GB
 * Urine Recycler: [urine](https://thenounproject.com/term/urine/3650621/) by Llisole

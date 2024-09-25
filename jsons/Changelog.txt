@@ -15,6 +15,7 @@ New Content
 -Added Earthscraper (Information era building that adds more Food, more City HP, more protection from nukes, +1 population, and +1 of each specialist)
 -Added Earthscraper Project (Information era national wonder that adds Production to active specialists and enables building Earthscrapers)
 -Added Frumentarii Camp (Legion replacement for Listening Post, better spy defense)
+-Added The Green Palace (Rebuilding era world wonder that creates a Factory farm, increases the yields of Factory farms, and increases Happiness in its city)
 
 //
 Balance Changes
