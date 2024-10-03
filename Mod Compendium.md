@@ -17,6 +17,7 @@
 - [Followers of the Green for DeCiv](https://github.com/carriontrooper/Followers-of-the-Green-for-Deciv) (WIP, faction pack focused on naturalist / solarpunk / biotech themes)
 - [Forgotten Factions for DeCiv](https://github.com/carriontrooper/Forgotten-Factions-for-Deciv) (A collection of factions from other users' expansion mods that were ultimately abandoned and revived here, though some had to be built from scratch. Current number of factions resurrected or reimagined: 11.)
 - [Free Cities to DeCiv](https://github.com/Inkognito-secret/Free-Cites-to-DeCiv) (WIP, includes one faction: Svobodnie Goroda, the "Free Cities Conference")
+- [Kingdom of DeCiv](https://github.com/EPG333/Kingdom-of-Deciv) (Includes one faction, the very appropriately named Forgotten Kingdom. Owner is currently on hiatus)
 - [Lights, Camera, Destruction](https://github.com/PAFR2003/LightsCameraDestruction) (Includes two factions, Reactorland and Red Lotus Society)
 - [More Wonders for DeCiv](https://github.com/the-s-is-silent/More-Wonders-for-DeCiv) (For those who want to reintroduce a race for wonders which is absent from DeCiv Redux. WIP, community project, also allows players access to the wonders from Deciv 2 and Outlaws without using those mods)
 - [Order of Dagon for DeCiv](https://github.com/ReallyBasicName/Order-of-Dagon-for-Deciv) (Self-explanatory, bit of a WIP)
