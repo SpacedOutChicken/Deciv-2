@@ -306,9 +306,9 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 25,
-		"upgradesTo": "Gunman",
+		"upgradesTo": "Forward Observer",
 		"hurryCostModifier": 20,
-		"obsoleteTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
 		"uniques": [
 			"Low Tech",
 			"[-50]% Strength <vs cities>",
@@ -325,7 +325,7 @@
 		"movement": 2,
 		"strength": 12,
 		"cost": 25,
-		"upgradesTo": "Gunman",
+		"upgradesTo": "Forward Observer",
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Rifling",
 		"uniques": [
@@ -334,7 +334,7 @@
 			"[-50]% Strength <vs cities>",
 			"Unable to capture cities"
 		],
-		"promotions": ["Reconnaissance I", "Medic I","Skirmish"],
+		"promotions": ["Reconnaissance I", "Medic I", "Skirmish"],
 		"attackSound": "nonmetalhit"
 	},
 	{
@@ -462,7 +462,7 @@
 			"No defensive terrain penalty",
 			"Consumes [1] [Encrypted Data]"
 		],
-		"promotions": ["Promotion Nullifier","Portable Power Cell"],
+		"promotions": ["Promotion Nullifier", "Portable Power Cell"],
 		"attackSound": "metalhit"
 	},
 	{
@@ -2177,9 +2177,8 @@
 		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
-			"Withdraws before melee combat <with [25]% chance>",
-			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
+			"Can move after attacking",
 			"Never appears as a Barbarian unit"
 		],
 		"hurryCostModifier": 20,
@@ -2201,9 +2200,8 @@
 		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
-			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [25]% chance>",
+			"Can move after attacking",
 			"[+25]% Strength <when defending>"
 		],
 		"hurryCostModifier": 20,
@@ -2214,7 +2212,7 @@
 		"unitType": "Helicopter",
 		"range": 1,
 		"interceptRange": 1,
-		"movement": 7,
+		"movement": 5,
 		"strength": 40,
 		"rangedStrength": 50,
 		"cost": 225,
@@ -2222,10 +2220,10 @@
 		"obsoleteTech": "Lasers",
 		"upgradesTo": "Attack Helicopter",
 		"uniques": [
+			"Can only attack [Military] units",
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -2236,7 +2234,7 @@
 	{
 		"name": "Attack Helicopter",
 		"unitType": "Helicopter",
-		"movement": 7,
+		"movement": 6,
 		"strength": 45,
 		"rangedStrength": 60,
 		"range": 2,
@@ -2245,24 +2243,24 @@
 		"requiredTech": "Lasers",
 		"upgradesTo": "VTOL Gunship",
 		"uniques": [
+			"Can only attack [Military] units",
 			"[33]% chance to intercept air attacks",
 			"[+1] Sight",
 			"Can move after attacking",
 			"Ranged attacks may be performed over obstacles",
-			"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Aerospace Facility] is constructed>",
 			"[-25]% Strength <vs cities> <when attacking>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Advanced Weapons", "Antitank Missile","Artillery"],
+		"promotions": ["Advanced Weapons", "Antitank Missile", "Artillery"],
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
 	},
 	{
 		"name": "VTOL Gunship",
 		"unitType": "Helicopter",
-		"movement": 8,
+		"movement": 7,
 		"strength": 60,
 		"rangedStrength": 80,
 		"range": 2,
@@ -2270,18 +2268,18 @@
 		"cost": 500,
 		"requiredTech": "Future Materials",
 		"uniques": [
+			"Can only attack [Military] units",
 			"[50]% chance to intercept air attacks",		
 			"[+1] Sight",
 			"Can move after attacking",
 			"Ranged attacks may be performed over obstacles",
-			"Withdraws before melee combat <with [100]% chance>",
 			"Only available <if [Aerospace Facility] is constructed>",
 			"[-25]% Strength <vs cities> <when attacking>",
 			"Consumes [1] [Oil]",
 			"Consumes [1] [Aluminum]",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Advanced Weapons", "Antitank Missile","Artillery"],
+		"promotions": ["Advanced Weapons", "Antitank Missile", "Artillery"],
 		"hurryCostModifier": 20,
 		"attackSound": "jetgun"
 	},
@@ -2299,7 +2297,7 @@
 			"Automated",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
-			"Withdraws before melee combat <with [75]% chance>",
+			"Withdraws before melee combat <with [25]% chance>",
 			"Only available <if [Aerospace Facility] is constructed>",
 			"Consumes [1] [Aluminum]",
 			"Never appears as a Barbarian unit"
@@ -2533,8 +2531,7 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Patrol Boat",
 		"uniques": [
-			"Cannot enter ocean tiles",
-			"Withdraws before melee combat <with [33]% chance>"
+			"Cannot enter ocean tiles"
 		],
 		"attackSound": "nonmetalhit"
 	},
@@ -2550,7 +2547,7 @@
 		"obsoleteTech": "Steam Power",
 		"upgradesTo": "Patrol Boat",
 		"uniques": [
-			"Withdraws before melee combat <with [66]% chance>"
+			"Withdraws before melee combat <with [20]% chance>"
 		],
 		"attackSound": "nonmetalhit",
 		"promotions": ["Littoral Warfare"]
@@ -2565,8 +2562,6 @@
 		"upgradesTo": "Attack Boat",
 		"obsoleteTech": "Manufacturing",
 		"uniques": [
-			"Double movement in [Coast]",
-			"Withdraws before melee combat <with [33]% chance>",
 			"Consumes [1] [Oil]"
 		],
 		"hurryCostModifier": 20,
@@ -2584,8 +2579,7 @@
 		"upgradesTo": "Attack Boat",
 		"obsoleteTech": "Manufacturing",
 		"uniques": [
-			"Double movement in [Coast]",
-			"Withdraws before melee combat <with [66]% chance>",
+			"Withdraws before melee combat <with [20]% chance>",
 			"Consumes [1] [Oil]",
 			"May capture killed [Water] units",
 			"Earn [33]% of the damage done to [City] units as [Gold]"
@@ -2596,7 +2590,7 @@
 	{
 		"name": "Attack Boat",
 		"unitType": "Melee Water",
-		"movement": 4,
+		"movement": 5,
 		"strength": 40,
 		"cost": 100,
 		"requiredTech": "Steam Power",
@@ -2604,8 +2598,6 @@
 		"upgradesTo": "Assault Ship",
 		"uniques": [
 			"Consumes [1] [Oil]",
-			"Double movement in [Coast]",
-			"Withdraws before melee combat <with [33]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
@@ -2625,8 +2617,8 @@
 		"upgradesTo": "Assault Ship",
 		"uniques": [
 			"Consumes [1] [Oil]",
-			"Double movement in [Coast]",
-			"Withdraws before melee combat <with [66]% chance>",
+			"[+1] Movement <in [Coast] tiles>",
+			"Withdraws before melee combat <with [20]% chance>",
 			"[+25]% Strength <when defending>",
 			"Only available <if [Factory] is constructed>"
 		],
@@ -2643,7 +2635,6 @@
 		"uniques": [
 		    "Can move after attacking",
 			"Consumes [1] [Oil]",
-			"Double movement in [Coast]",
 			"Withdraws before melee combat <with [33]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
@@ -2665,8 +2656,7 @@
 		"upgradesTo": "Submarine",
 		"obsoleteTech": "Particle Physics",
 		"uniques": [
-			"Double movement in [Coast]",
-			"Withdraws before melee combat <with [33]% chance>",
+			"[+1] Movement <in [Coast] tiles>",
 			"Can only attack [Water] tiles",
 			"Can move after attacking"
 		],
@@ -2687,8 +2677,8 @@
 		"upgradesTo": "Submarine",
 		"obsoleteTech": "Particle Physics",
 		"uniques": [
-			"Double movement in [Coast]",
-			"Withdraws before melee combat <with [66]% chance>",
+			"[+1] Movement <in [Coast] tiles>",
+			"Withdraws before melee combat <with [20]% chance>",
 			"Can move after attacking"
 		],
 		"hurryCostModifier": 25,
@@ -3258,7 +3248,7 @@
 		"obsoleteTech": "Rifling",
 		"upgradesTo": "Rifleman",
 		"uniques": ["Low Tech", "[+33]% Strength <vs [Low Tech] units>"],
-		"promotions": ["Skirmish", "Raider"],
+		"promotions": ["Forage", "Raider"],
 		"attackSound": "arrow"
 	},
 	{
@@ -3605,16 +3595,16 @@
 		"uniqueTo": "Almaty",
 		"replaces": "Skirmisher",
 		"range": 1,
-		"movement": 6,
+		"movement": 5,
 		"strength": 15,
 		"rangedStrength": 50,
 		"cost": 200,
 		"requiredTech": "Steel",
 		"upgradesTo": "Helicopter",
 		"uniques": [
+			"Can only attack [Military] units",
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
-			"Withdraws before melee combat <with [75]% chance>",
 			"Only available <if [Alma Air Base] is constructed>",
 			"Consumes [1] [Oil]"
 		],

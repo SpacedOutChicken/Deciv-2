@@ -58,7 +58,7 @@
 			"Earn [100]% of killed [Military] unit's [Strength] as [Science]",
 			"Only available <for units without [Promotion Nullifier]>"
 		],
-		"unitTypes": ["Scrapper"],
+		"unitTypes": ["Scrapper", "Shooter"],
 		"column": 1,
         "row": 2
 	},
@@ -69,7 +69,7 @@
 			"[25]% XP gained from combat",
 			"Only available <for units without [Promotion Nullifier]>"
 		],
-		"unitTypes": ["Shooter"],
+		"unitTypes": ["Scout"],
 		"column": 1,
         "row": 3
 	},
@@ -534,7 +534,7 @@
 	},
 	{
 		"name": "Precision",
-		"prerequisites": ["Entrench", "Skirmish"],
+		"prerequisites": ["Entrench", "Forage"],
 		"uniques": [
 			"[+25]% Strength <vs [Wounded] units>",
 			"Only available <for units without [Promotion Nullifier]>"
@@ -545,7 +545,7 @@
 	},
 	{
 		"name": "Suppression",
-		"prerequisites": ["Entrench", "Skirmish"],
+		"prerequisites": ["Entrench", "Forage"],
 		"uniques": [
 			"[+33]% Strength <vs [Melee] units>",
 			"Only available <for units without [Promotion Nullifier]>"
