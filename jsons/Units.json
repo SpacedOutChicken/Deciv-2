@@ -327,7 +327,7 @@
 		"cost": 25,
 		"upgradesTo": "Forward Observer",
 		"hurryCostModifier": 20,
-		"obsoleteTech": "Rifling",
+		"obsoleteTech": "Replaceable Parts",
 		"uniques": [
 			"Low Tech",
 			"May capture killed [Barbarian] units <with [33]% chance>",
