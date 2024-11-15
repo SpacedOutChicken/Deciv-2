@@ -65,6 +65,7 @@
 			"Mounted",
 			"Can build [Land] improvements on tiles",
 			"Withdraws before melee combat <with [50]% chance>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>",
 			"Automation is a primary action"
 		],
@@ -605,6 +606,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
@@ -630,6 +632,7 @@
 			"[+50]% Strength <vs [Low Tech] units>",
 			"[-25]% Strength <vs cities> <when attacking>",
 			"Only available <if [Clubhouse] is constructed>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
@@ -654,6 +657,7 @@
 			"Can move after attacking",
 			"[+33]% Strength <vs [Low Tech] units>",
 			"[-33]% Strength <vs cities> <when attacking>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
@@ -679,6 +683,7 @@
 			"Can move after attacking",
 			"[+33]% Strength <vs [Low Tech] units>",
 			"[-33]% Strength <vs cities> <when attacking>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>",
 			"Consumes [1] [Slaves]"
 		],
@@ -1308,6 +1313,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>",
 			"Consumes [1] [Weapons]"
 		],
@@ -1329,6 +1335,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
@@ -1351,6 +1358,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>"
 			],
 		"promotions": ["Pursuit"],
@@ -1375,6 +1383,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>",
 			"Consumes [1] [Weapons]"
 		],
@@ -1398,6 +1407,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"[-33]% Strength <vs cities> <when attacking>",
+			"Only available <if [Stable] is constructed>",
 			"Can only be built <in cities with a [Stable]>"
 		],
 		"hurryCostModifier": 20,
