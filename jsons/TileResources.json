@@ -22,8 +22,20 @@
 		"improvedBy": ["Fishing Boats", "Bioculture"],
 		"improvementStats": { "food": 1 },
 		"uniques": [
-			"Generated on every [10] tiles <in [{Featureless} {Coast}] tiles>",
+			"Generated on every [15] tiles <in [{Featureless} {Coast}] tiles>",
 			"Generated on every [33] tiles <in [{Featureless} {Ocean}] tiles> <with [1] to [6] neighboring [Coast] tiles>"
+		]
+	},
+	{
+		"name": "Plankton",
+		"resourceType": "Bonus",
+		"terrainsCanBeFoundOn": ["Coast","Ocean"],
+		"food": 1,
+		"improvedBy": ["Fishing Boats", "Bioculture"],
+		"improvementStats": { "food": 1 },
+		"uniques": [
+			"Generated on every [33] tiles <in [{Featureless} {Ocean}] tiles> <with [1] to [6] neighboring [Coast] tiles>",
+			"Generated on every [15] tiles <in [{Featureless} {Coast}] tiles>"
 		]
 	},
 	{
@@ -41,7 +53,30 @@
 			"Generated on every [16] tiles <in [{Featureless} {Tundra}] tiles> <in [Hill] Regions>"
 		]
 	},
-
+	{
+		"name": "Deep-sea Fish",
+		"resourceType": "Bonus",
+		"revealedBy": "Oceanography",
+		"terrainsCanBeFoundOn": ["Ocean"],
+		"food": 1,
+		"improvedBy": ["Fishing Boats", "Bioculture"],
+		"improvementStats": { "food": 1 },
+		"uniques": [
+			"Generated on every [20] tiles <in [{Featureless} {Ocean}] tiles> <with [1] to [6] neighboring [Coast] tiles>"
+		]
+	},
+	{
+		"name": "Lithium",
+		"resourceType": "Bonus",
+		"revealedBy": "Oceanography",
+		"terrainsCanBeFoundOn": ["Ocean"],
+		"production": 1,
+		"improvedBy": ["Offshore mine"],
+		"improvementStats": { "production": 1 },
+		"uniques": [
+			"Generated on every [33] tiles <in [{Featureless} {Ocean}] tiles> <with [1] to [6] neighboring [Coast] tiles>"
+		]
+	},
 	{
 		"name": "Scrap",
 		"resourceType": "Bonus",
@@ -207,7 +242,6 @@
 			"Generated with weight [10] <in [{Featureless} {Ocean}] tiles>"
 		]
 	},
-
 	{
 		"name": "Oil",
 		"resourceType": "Strategic",
@@ -553,6 +587,18 @@
 		]
 	},
 	{
+		"name": "Cactus",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Desert"],
+		"food": 1,
+		"improvedBy": ["Farm"],
+		"improvementStats": { "food": 1, "gold": 1 },
+		"uniques": [
+			"Generated with weight [30] <in [Desert] Regions>",
+			"Generated near City States with weight [10]"
+		]
+	},
+	{
 		"name": "Hostile Fauna",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Toxic Waste", "Fallout"],
@@ -588,6 +634,7 @@
 		"name": "Salt",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Hill", "Badlands", "Desert", "Tundra"],
+		"food": 1,
 		"improvedBy": ["Mine", "Borehole"],
 		"improvementStats": { "food": 1 },
 		"uniques": [
@@ -631,19 +678,6 @@
 		]
 	},
 	{
-		"name": "Plankton",
-		"resourceType": "Luxury",
-		"terrainsCanBeFoundOn": ["Coast","Ocean"],
-		"food": 1,
-		"improvedBy": ["Fishing Boats", "Bioculture"],
-		"improvementStats": { "food": 1 },
-		"uniques": [
-			"Generated on every [33] tiles <in [{Featureless} {Ocean}] tiles> <with [1] to [6] neighboring [Coast] tiles>",
-			"Generated on every [33] tiles <in [{Featureless} {Coast}] tiles>",
-			"Generated near City States with weight [15]"
-		]
-	},
-	{
 		"name": "Gems",
 		"resourceType": "Luxury",
 		"terrainsCanBeFoundOn": ["Hill"],
@@ -667,6 +701,20 @@
 			"Generated near City States with weight [10]"
 		]
 	},
+	{
+		"name": "Cobalt",
+		"resourceType": "Luxury",
+		"terrainsCanBeFoundOn": ["Ocean"],
+		"revealedBy": "Oceanography",
+		"production": 1,
+		"improvedBy": ["Offshore mine"],
+		"improvementStats": { "production": 1 },
+		"uniques": [
+			"Generated on every [33] tiles <in [{Featureless} {Ocean}] tiles> <with [1] to [6] neighboring [Coast] tiles>",
+			"Generated near City States with weight [10]"
+		]
+	},
+
 	//Hexlock Unique
 	{
 		"name": "C1F3",

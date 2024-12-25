@@ -1,0 +1,113 @@
+[
+	{
+		"name": "Landing Event - Survivor camp",
+		"text": "We have received reinforcements from our space station!",
+		"choices": [
+			{
+				"text": "We did not expect this, but the aid is always welcomed.",
+				"uniques": [
+					"[+1] population in a random city",
+					"Free [Avatar] appears"
+				]
+			}
+		]
+	},
+	{
+		"name": "Landing Event - Neofeudal era",
+		"text": "We have received reinforcements from our space station!",
+		"choices": [
+			{
+				"text": "Receive civilian reinforcments",
+				"uniques": ["Free Great Person"]
+			},
+			{
+				"text": "Receive military reinforcments",
+				"uniques": ["Free [Avatar] appears", "[4] free [Machete] units appear"]
+			}
+		]
+	},
+	{
+		"name": "Landing Event - Rebuilding era",
+		"text": "We have received reinforcements from our space station!",
+		"choices": [
+			{
+				"text": "Receive civilian reinforcments",
+				"uniques": ["Free Great Person"]
+			},
+			{
+				"text": "Receive military reinforcments",
+				"uniques": ["Free [Avatar] appears", "[4] free [Soldier] units appear"]
+			}
+		]
+	},
+	{
+		"name": "Landing Event - Industrial era",
+		"text": "We have received reinforcements from our space station!",
+		"choices": [
+			{
+				"text": "Receive civilian reinforcments",
+				"uniques": ["Free Great Person"]
+			},
+			{
+				"text": "Receive military reinforcments",
+				"uniques": ["[2] free [Avatar] units appear", "[6] free [Soldier] units appear"]
+			}
+		]
+	},
+	{
+		"name": "Landing Event - Postmodern era",
+		"text": "We have received reinforcements from our space station!",
+		"choices": [
+			{
+				"text": "Receive civilian reinforcments",
+				"uniques": ["Free Great Person"]
+			},
+			{
+				"text": "Receive military reinforcments",
+				"niques": ["[2] free [Avatar] units appear", "[7] free [Soldier] units appear"]
+			}
+		]
+	},
+	{
+		"name": "Landing Event - Information era",
+		"text": "We have received reinforcements from our space station!",
+		"choices": [
+		{
+				"text": "Receive civilian reinforcments",
+				"uniques": ["Free Great Person"]
+		},
+		{
+				"text": "Receive military reinforcments",
+				"uniques": ["[2] free [Avatar] units appear", "[8] free [Soldier] units appear"]
+		}
+		]
+	},
+	{
+		"name": "Landing Event - New Future era",
+		"text": "We have received reinforcements from our space station!",
+		"choices": [
+			{
+				"text": "Receive civilian reinforcments",
+				"uniques": ["Free Great Person"]
+			},
+			{
+				"text": "Receive military reinforcments",
+				"uniques": ["[2] free [Avatar] units appear", "[8] free [Soldier] units appear"]
+			}
+		]
+	},
+	{
+		"name": "Landing Event - Singularity era",
+		"text": "We have received reinforcements from our space station!",
+		"choices": [
+			{
+				"text": "Receive civilian reinforcments",
+				"uniques": ["Free Great Person"]
+			},
+			{
+				"text": "Receive military reinforcments",
+				"uniques": ["[3] free [Avatar] units appear", "[10] free [Soldier] units appear"]
+			}
+		]
+	}
+]

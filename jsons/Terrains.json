@@ -122,7 +122,6 @@
 		"name": "Mountain",
 		"type": "Land",
 		"impassable": true,
-		"unbuildable": true,
 		"defenceBonus": 0.25,
 		"RGB": [120, 120, 120],
 		"uniques": [
@@ -132,6 +131,20 @@
 			"Units ending their turn on this terrain take [50] damage",
 			"Always Fertility [-2] for Map Generation",
 			"Considered [Undesirable] when determining start locations"
+		]
+	},
+	{
+		"name": "Mountain Tunnel",
+		"type": "Land",
+		"impassable": false,
+		"production": 1,
+		"movementCost": 2,
+		"defenceBonus": 0.25,
+		"RGB": [120, 120, 120],
+		"uniques": [
+			"Rough terrain",
+			"Doesn't generate naturally",
+			"Has an elevation of [4] for visibility calculations"
 		]
 	},
 	{

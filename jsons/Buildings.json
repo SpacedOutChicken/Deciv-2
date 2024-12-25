@@ -8,7 +8,7 @@
 		"cityStrength": 5,
 		"cityHealth": 50,
 		"science": 3,
-		"gold": 1,
+		"gold": 3,
 		"culture": 1,
 		"cost": 1,
 		"uniques": ["Indicates the capital city"]
@@ -23,9 +23,8 @@
 		"cityStrength": 5,
 		"cityHealth": 50,
 		"science": 3,
-		"gold": 1,
+		"gold": 3,
 		"culture": 1,
-		"specialistSlots": { "Administrator": 1 },
 		"cost": 1,
 		"uniques": [
 			"Indicates the capital city",
@@ -42,7 +41,7 @@
 		"cityStrength": 5,
 		"cityHealth": 50,
 		"science": 3,
-		"gold": 1,
+		"gold": 3,
 		"culture": 1,
 		"cost": 1,
 		"uniques": [
@@ -90,7 +89,7 @@
 		"name": "Hex Corporation",
 		"isWonder": true,
 		"uniqueTo": "Hexlock",
-		"science": 2,
+		"science": 1,
 		"production": 1,
 		"cityHealth": 20,
 		"cost": 0,
@@ -116,7 +115,7 @@
 		"culture": 1,
 		"happiness": 1,
 		"gold": 1,
-		"cityStrength": 10,
+		"cityStrength": 5,
 		"cityHealth": 60,
 		"cost": 0,
 		"uniques": [
@@ -138,9 +137,10 @@
 		"name": "Atlas Refuge",
 		"isWonder": true,
 		"uniqueTo": "Atlas",
-		"specialistSlots": { "Scientist": 1 },
+		"science": 1,
 		"gold": 1,
-		"cityHealth": 40,
+		"cityStrength": 5,
+		"cityHealth": 60,
 		"cost": 0,
 		"uniques": [
 			"Provides [1] [Power]",
@@ -160,9 +160,9 @@
 		"name": "Eagle Rock Complex",
 		"isWonder": true,
 		"uniqueTo": "The Patriots",
-		"specialistSlots": { "Engineer": 1 },
+		"production": 1,
 		"gold": 1,
-		"cityStrength": 20,
+		"cityStrength": 5,
 		"cityHealth": 80,
 		"cost": 0,
 		"uniques": [
@@ -190,7 +190,7 @@
 		"cost": 0,
 		"uniques": [
 			"[-10]% Unhappiness from [Population] [in all cities]",
-			"Free [Swordsman] appears",
+			"[2] free [Swordsman] units appear",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Food Store] [in this city]",
 			"Automatically built in all cities where it is buildable"
@@ -206,14 +206,12 @@
 		"name": "Temple",
 		"isWonder": true,
 		"uniqueTo": "Cult of Ignis",
-		"specialistSlots": { "Administrator": 1 },
 		"happiness": 1,
 		"faith": 1,
 		"cost": 0,
 		"uniques": [
 			"[+2 Culture] [in this city] <after discovering [Iron Working]>",
 			"Provides [2] [Oil]",
-			"Gain enough Faith for a Pantheon",
 			"Free [War Buggy] appears",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Fuel Depot] [in this city]",
@@ -233,8 +231,8 @@
 		"culture": 1,
 		"cost": 0,
 		"uniques": [
-			"[25]% Great Person generation [in this city]",
-			"[+1 Faith, +1 Happiness] [in this city] <when not at war>",
+			"[+25]% Great Person generation [in this city]",
+			"[+1 Happiness] [in all cities] <when not at war>",
 			"Free [Ranger] appears",
 			"Can only be built <in [Capital] cities>",
 			"Gain a free [Monument] [in this city]",
@@ -277,7 +275,7 @@
 		"cost": 0,
 		"uniques": [
 			"Can only be built <in [Capital] cities>",
-			"[+1 Faith] [in this city] <with [1] to [6] neighboring [Coast] tiles>",
+			"[+2 Food] [in this city] <with [1] to [6] neighboring [Coast] tiles>",
 			"[2] free [Sharkman] units appear",
 			"Gain a free [Lighthouse] [in this city]",
 			"Automatically built in all cities where it is buildable"
@@ -376,6 +374,28 @@
 			}
 		]
 	},
+	{
+		"name": "Landing Beacon",
+		"isWonder": true,
+		"uniqueTo": "Prasiddh Shahar",
+		"cost": 0,
+		"gold": 1,
+		"science": 1,
+		"uniques": [
+			"Provides [1] [Power]",
+			"Provides [1] [Weapons]",
+			"Free [Vyomanaut] appears",
+			"Automatically built in all cities where it is buildable",
+			"Can only be built <in [Capital] cities>",
+			"Gain a free [Food Lab] [in this city]"
+		],
+		"quote": "Keep the signal going, and we'll help out whenever we can. Know that there's still life up here, and so what you need to do to keep life going down there.",
+		"civilopediaText": [
+			{
+				"text": "Keep the signal going, and we'll help out whenever we can. Know that there's still life up here, and so what you need to do to keep life going down there."
+			}
+		]
+	},
 
 	// Cultural victory
 	{
@@ -386,7 +406,8 @@
 			"Hidden until [6] social policy branches have been completed",
 			"Triggers a global alert upon build start",
 			"Triggers a Cultural Victory upon completion",
-			"Only available <when [Cultural] Victory is enabled>"
+			"Only available <when [Cultural] Victory is enabled>",
+			"Cannot be hurried"
 		]
 	},
 
@@ -399,7 +420,8 @@
 		"cost": 65,
 		"requiredTech": "Secrets of the Past",
 		"uniques": [
-			"Only available <when [Transmission] Victory is enabled>"
+			"Only available <when [Transmission] Victory is enabled>",
+			"Cannot be hurried"
 		],
 		"civilopediaText": [
 			{
@@ -420,7 +442,8 @@
 			"[15]% Production when constructing [Great Arc] wonders [in all cities]",
 			"Only available <if [Transmissions Center] is constructed>",
 			"Only available <when [Transmission] Victory is enabled>",
-			"Triggers a global alert upon completion"
+			"Triggers a global alert upon completion",
+			"Cannot be hurried"
 		],
 		"quote": "By 2040, the world was tense but still bright. There were lows, but we all had hope. That's why we never imagined it... That first strike."
 	},
@@ -437,7 +460,8 @@
 			"[15]% Production when constructing [Great Arc] wonders [in all cities]",
 			"Only available <if [Transmissions Center] is constructed>",
 			"Only available <when [Transmission] Victory is enabled>",
-			"Triggers a global alert upon completion"
+			"Triggers a global alert upon completion",
+			"Cannot be hurried"
 		],
 		"quote": "We never knew who it was that launched the first bombs... Or perhaps we did. It didn't matter. The gates to hell were open... And we all walked through the front door."
 	},
@@ -454,7 +478,8 @@
 			"[15]% Production when constructing [Great Arc] wonders [in all cities]",
 			"Only available <if [Transmissions Center] is constructed>",
 			"Only available <when [Transmission] Victory is enabled>",
-			"Triggers a global alert upon completion"
+			"Triggers a global alert upon completion",
+			"Cannot be hurried"
 		],
 		"quote": "After the bombs came the robots, bathed in metal. They did more damage to the great nations of old than the bombs ever did. They were ruthless. Killed anything that lived, it didn't matter who, or where. Not even the bunkers were safe."
 	},
@@ -471,7 +496,8 @@
 			"[15]% Production when constructing [Great Arc] wonders [in all cities]",
 			"Only available <if [Transmissions Center] is constructed>",
 			"Only available <when [Transmission] Victory is enabled>",
-			"Triggers a global alert upon completion"
+			"Triggers a global alert upon completion",
+			"Cannot be hurried"
 		],
 		"quote": "In a time when perhaps we all had lost hope, a sliver of hope appeared. We never knew where the robots came from. But there were rumors of a guy that went around fearlessly destroying them. And just as they came, one day they were all gone. Some of us didn't believe it. But we knew. The Hero was real. We've seen him."
 	},
@@ -488,7 +514,8 @@
 			"[15]% Production when constructing [Great Arc] wonders [in all cities]",
 			"Only available <if [Transmissions Center] is constructed>",
 			"Only available <when [Transmission] Victory is enabled>",
-			"Triggers a global alert upon completion"
+			"Triggers a global alert upon completion",
+			"Cannot be hurried"
 		],
 		"quote": "Just as if he existed solely for his mission, the Hero vanished. But some of us will remember him forever. Down 2/3 of our people. Supplies had run out. The atmosphere was toxic, but survivable. It was time to head out."
 	},
@@ -504,7 +531,8 @@
 			"[15]% Production when constructing [Great Arc] wonders [in all cities]",
 			"Only available <if [Transmissions Center] is constructed>",
 			"Only available <when [Transmission] Victory is enabled>",
-			"Triggers a global alert upon completion"
+			"Triggers a global alert upon completion",
+			"Cannot be hurried"
 		],
 		"quote": "When we came out, we saw many trying to remake their own societies, making the same mistakes of old. This might be my last entry. But we found it. The last wonder of the old world, Blueprints of the Arc. Meant to turn back the clock, bring us together once more. My life might be too short, but don't let this go to waste. Do better."
 	},
@@ -970,9 +998,10 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Triggers a global alert upon completion",
-			"Only available <when [Scientific] Victory is enabled>"
+			"Only available <when [Scientific] Victory is enabled>",
+			"Cannot be hurried"
 		],
-		"requiredTech": "Plastics Recycling",
+		"requiredTech": "Atmosphere Remediation",
 		"civilopediaText": [
 			{
 				"text": "Enables the construction of Terraformer Parts."
@@ -991,7 +1020,8 @@
 		"uniques": [
 			"Triggers voting for the Diplomatic Victory",
 			"Only available <when [Diplomatic] Victory is enabled>",
-			"Triggers a global alert upon build start"
+			"Triggers a global alert upon build start",
+			"Cannot be hurried"
 		],
 		"quote": "We must all hang together, or surely we will all hang separately."
 	},
@@ -1005,7 +1035,8 @@
 		"requiredTech": "Globalization",
 		"uniques": [
 			"Influence of all other civilizations with all city-states degrades [33]% faster",
-			"Triggers a global alert upon build start"
+			"Triggers a global alert upon build start",
+			"Cannot be hurried"
 		],
 		"quote": "By pursuing our own interest we frequently promote that of the society more effectually than when we really intend to promote it."
 	},
@@ -1088,7 +1119,8 @@
 		"requiredTech": "Nuclear Fission",
 		"uniques": [
 			"Enables nuclear weapon",
-			"Triggers a global alert upon completion"
+			"Triggers a global alert upon completion",
+			"Cannot be hurried"
 		]
 	},
 	{
@@ -1165,9 +1197,21 @@
 		]
 	},
 	{
+		"name": "Oasis Atoll",
+		"isWonder": true,
+		"culture": 1,
+		"gold": 5,
+		"greatPersonPoints": {"Great Merchant": 1},
+		"uniques": [
+			"Must be next to [Coast]",
+			"[+25]% Production when constructing [Water] units [in this city]",
+			"[+1 Production, +1 Gold] from every [Water resource]"
+		],
+		"requiredTech": "Optics"
+	},
+	{
 		"name": "Public Broadcast",
 		"isWonder": true,
-		"cost": 100,
 		"requiredTech": "Radio",
 		"uniques": [
 			"[+1] population [in all cities]",
@@ -1191,7 +1235,7 @@
 			"Creates a [Factory farm] improvement on a specific tile",
 			"[+4 Food] from every [Factory farm]"
 		],
-		"requiredTech": "Hydroponics",
+		"requiredTech": "Ecotheory",
 		"quote": "'When people around me died of the atomic bomb sickness, and I also wondered whether I would survive, I saw this tree putting out shoots and thought I could somehow go on living.' - Anonymous Hiroshima survivor",
 		"civilopediaText": [
 			{
@@ -1533,7 +1577,7 @@
 	{
 		"name": "Open the Vault",
 		"isWonder": true,
-		"requiredTech": "Secrets of the Past",
+		"requiredTech": "Record Keeping",
 		"uniques": [
 			"Free [Great Sage] appears",
 			"[+1 Culture, +1 Faith] from [Vault of Records] tiles [in all cities]",
@@ -1690,6 +1734,7 @@
 	{
 		"name": "Public Works Administration",
 		"isNationalWonder": true,
+		"cost": 150,
 		"culture": 1,
 		"science": 1,
 		"greatPersonPoints": { "Great Administrator": 2 },
@@ -1702,7 +1747,6 @@
 			"Gain [20] [Culture] <upon declaring a defensive pact>"
 		]
 	},
-
 	{
 		"name": "Chemical Weapons Laboratory",
 		"isNationalWonder": true,
@@ -1719,7 +1763,6 @@
 			"Consumes [1] [Power]"
 		]
 	},
-
 	{
 		"name": "Content Farm",
 		"percentStatBonus": { "production": -5 },
@@ -1807,6 +1850,7 @@
 	{
 		"name": "Grand Monastery",
 		"isNationalWonder": true,
+		"cost": 125,
 		"culture": 1,
 		"faith": 8,
 		"requiredTech": "Civil Service",
@@ -1823,6 +1867,7 @@
 	{
 		"name": "Execution Chamber",
 		"isNationalWonder": true,
+		"cost": 125,
 		"culture": 1,
 		"faith": 10,
 		"food": -2,
@@ -1841,9 +1886,9 @@
 			"[-1] population [in this city]"
 		]
 	},
-
 	{
 		"name": "Medical Network",
+		"cost": 150,
 		"isNationalWonder": true,
 		"science": 1,
 		"requiredTech": "Biology",
@@ -1852,7 +1897,8 @@
 			"Only available <after adopting [Rationalism]>",
 			"[5]% Food is carried over after population increases [in all cities]",
 			"[+5]% growth [in all cities] <after adopting [Rationalism Complete]>",
-			"[All] Units adjacent to this city heal [30] HP per turn when healing"
+			"[All] Units adjacent to this city heal [30] HP per turn when healing",
+			"Cost increases by [30] per owned city"
 		],
 		"civilopediaText": [
 			{
@@ -1907,6 +1953,20 @@
 		]
 	},
 	{
+		"name": "Food Lab",
+		"replaces": "Food Store",
+		"uniqueTo": "Prasiddh Shahar",
+		"cost": 10,
+		"hurryCostModifier": -25,
+		"uniques": [
+			"[10]% Food is carried over after population increases [in this city]",
+			"[10]% Food is carried over after population increases [in this city] <after discovering [Refrigeration]>",
+			"[+1 Food] [in this city] <with [Salt]>",
+			"[-1 Production, +1 Gold] [in this city] <with [Alcohol]>",
+			"[-1 Production, +1 Gold] [in this city] <with [Narcotics]>"
+		]
+	},
+	{
 		"name": "Cold Store",
 		"percentStatBonus": { "food": 10 },
 		"maintenance": 1,
@@ -1943,7 +2003,24 @@
 		"specialistSlots": { "Farmer": 1 },
 		"uniques": [
 			"[+1 Food] from [Tubers] tiles [in this city]",
-			"[+1 Food] from [Grain] tiles [in this city]"
+			"[+1 Food] from [Grain] tiles [in this city]",
+			"[+1 Food] from [Cactus] tiles [in this city]"
+		],
+		"maintenance": 1,
+		"hurryCostModifier": 25,
+		"requiredTech": "Botany"
+	},
+	{
+		"name": "Vegetable Apparatus",
+		"uniqueTo": "Prasiddh Shahar",
+		"replaces": "Greenhouse",
+		"food": 2,
+		"specialistSlots": { "Farmer": 1 },
+		"uniques": [
+			"[+1 Food] from [Tubers] tiles [in this city]",
+			"[+1 Food] from [Grain] tiles [in this city]",
+			"[+1 Food] from [Cactus] tiles [in this city]",
+			"[+1 Food, +1 Happiness] [in this city] <after discovering [Refrigeration]>"
 		],
 		"maintenance": 1,
 		"hurryCostModifier": 25,
@@ -1990,6 +2067,7 @@
 		"percentStatBonus": { "food": 25 },
 		"maintenance": 4,
 		"hurryCostModifier": 25,
+		"uniques": ["Consumes [1] [Power]"],
 		"requiredTech": "Human Genome"
 	},
 	{
@@ -2093,7 +2171,7 @@
 		]
 	},
 
-	// Culture and Hapiness buildings
+	// Culture and Happiness buildings
 	{
 		"name": "Monument",
 		"culture": 2,
@@ -2137,13 +2215,14 @@
 	},
 	{
 		"name": "Domestic Electrification",
+		"cost": 150,
 		"isNationalWonder": true,
 		"uniques": [
 			"[+2 Happiness, +2 Culture] [in this city] <when above [0] [Power]>",
 			"[+2 Happiness] [in this city] <with [Data]>",
 			"[+2 Happiness] [in this city] <with [Electronics]>",
 			"[+2 Happiness] [in this city] <with [Machine Parts]>",
-			"Cost increases by [50] per owned city",
+			"Cost increases by [30] per owned city",
 			"Can only be built <in [Capital] cities>",
 			"Consumes [1] [Power]"
 		],
@@ -2258,11 +2337,28 @@
 		"name": "Museum",
 		"culture": 1,
 		"science": 1,
-		"faith": 1,
-		"cost": 40,
+		"percentStatBonus": {"culture": 10},
 		"requiredNearbyImprovedResources": ["Artifacts"],
 		"hurryCostModifier": 25,
-		"requiredTech": "Secrets of the Past"
+		"uniques": [
+			"[+1 Science, +1 Culture] from [Artifacts] tiles [in this city]"
+		],
+		"requiredTech": "Record Keeping"
+	},
+	{
+		"name": "State Archive",
+		"isNationalWonder": true,
+		"cost": 125,
+		"culture": 3,
+		"uniques": [
+			"[+1 Science] [in this city] <with [Artifacts]>",
+			"[+1 Science] [in this city] <with [Books]>",
+			"[+1 Science] [in this city] <with [Data]>",
+			"[+1 Science] [in this city] <with [Electronics]>",
+			"[+2 Science] [in this city] <when above [0] [Power]>",
+			"Gain a free [Library] [in this city]"
+		],
+		"requiredTech": "Record Keeping"
 	},
 	{
 		"name": "Broadcast Tower",
@@ -2276,10 +2372,10 @@
 	},
 	{
 		"name": "Television Studio",
-		"culture": 1,
+		"culture": 2,
 		"happiness": 2,
 		"specialistSlots": { "Administrator": 1 },
-		"maintenance": 1,
+		"maintenance": 2,
 		"uniques": [
 			"Only available <in cities with a [Broadcast Tower]>",
 			"Consumes [1] [Power]"
@@ -2330,6 +2426,17 @@
 			"[+1 Science, +1 Production] [in this city] <with [Exotic Seeds]>"
 		],
 		"requiredTech": "Hydroponics"
+	},
+	{
+		"name": "Eco-Sanctuary",
+		"happiness": 3,
+		"maintenance": 3,
+		"hurryCostModifier": 30,
+		"uniques": [
+			"[+1 Food, +1 Gold, +1 Culture] from [Nature preserve] tiles [in this city]",
+			"Must have an owned [Nature preserve] within [3] tiles"
+		],
+		"requiredTech": "Rewilding"
 	},
 	{
 		"name": "Stadium",
@@ -2407,8 +2514,6 @@
 		"name": "Chemical Extractor",
 		"replaces": "Distillery",
 		"uniqueTo": "Hexlock",
-		"requiredNearbyImprovedResources": ["Grain", "Tubers"],
-		"culture": -1,
 		"maintenance": 1,
 		"uniques": [
 			"[+1 Production] from [Refinery] tiles [in this city]"
@@ -2420,7 +2525,8 @@
 	// Water buildings
 	{
 		"name": "Market",
-		"specialistSlots": { "Merchant": 2 },
+		"gold": 2,
+		"specialistSlots": { "Merchant": 1 },
 		"hurryCostModifier": 25,
 		"requiredTech": "Trade",
 		"uniques": [
@@ -2431,21 +2537,21 @@
 		"name": "Private Label",
 		"replaces": "Market",
 		"uniqueTo": "Hexlock",
-		"specialistSlots": { "Merchant": 2 },
+		"gold": 3,
+		"specialistSlots": { "Merchant": 1 },
 		"hurryCostModifier": 25,
 		"requiredTech": "Trade",
 		"uniques": [
-			"[+1 Gold, +1 Science] from [Refinery] tiles [in this city]"
+			"[+1 Gold] from [Refinery] tiles [in this city]"
 		]
 	},
 	{
 		"name": "Caravan Office",
 		"replaces": "Market",
 		"uniqueTo": "Commonwealth",
-		"gold": 2,
-		"specialistSlots": { "Merchant": 2 },
+		"gold": 3,
+		"specialistSlots": { "Merchant": 1 },
 		"hurryCostModifier": 25,
-		"greatPersonPoints": { "Great Merchant": 1 },
 		"uniques": [
 			"[+1 Gold] from [Luxury resource] tiles [in this city]",
 			"Provides 1 extra copy of each improved luxury resource near this City"
@@ -2454,7 +2560,9 @@
 	},
 	{
 		"name": "Water Plant",
+		"gold": 2,
 		"percentStatBonus": { "gold": 20 },
+		"specialistSlots": { "Merchant": 1 },
 		"maintenance": 0,
 		"uniques": [
 			"[+1 Gold] from [Groundwater] tiles [in this city]",
@@ -2465,16 +2573,28 @@
 	},
 	{
 		"name": "Water Storage",
+		"gold": 2,
 		"percentStatBonus": { "gold": 10 },
+		"specialistSlots": { "Merchant": 1 },
 		"requiredTech": "Currency",
 		"uniques": ["Doubles Gold given to enemy if city is captured"]
 	},
 	{
+		"name": "Condenser Cooler",
+		"percentStatBonus": { "gold": 10 },
+		"uniques": [
+			"[+1 Gold] from [Moisture trap] tiles [in this city]",
+			"Must have an owned [Moisture trap] within [3] tiles",
+			"Consumes [1] [Coal]",
+			"Obsolete with [Atmosphere Remediation]",
+			"Remove [Condenser Cooler] [in this city] <after discovering [Atmosphere Remediation]> <hidden from users>"
+		],
+		"requiredTech": "Moisture Harvesting"
+	},
+	{
 		"name": "Greywater Treatment Plant",
-		"gold": 3,
-		"food": 1,
-		"production": -2,
-		"percentStatBonus": { "production": -5, "gold": 10 },
+		"gold": 2,
+		"percentStatBonus": { "gold": 10 },
 		"specialistSlots": { "Merchant": 1 },
 		"uniques": [
 			"[+1 Gold] [in this city] <when above [0] [Power]>",
@@ -2487,7 +2607,7 @@
 	{
 		"name": "Rainwater Purifier",
 		"gold": 2,
-		"specialistSlots": { "Merchant": 1 },
+		"percentStatBonus": {"gold": 15},
 		"requiredTech": "Atmosphere Remediation",
 		"uniques": ["[+1 Gold] from [Moisture trap] tiles [in this city]"]
 	},
@@ -2499,7 +2619,7 @@
 		"uniques": [
 			"[+1 Science] [in this city] <when above [0] [Power]>",
 			"[+1 Science] per [2] population [in this city]",
-			"[+1 Science, +1 Culture] from [Books] tiles [in this city]"
+			"[+2 Science] from [Books] tiles [in this city]"
 		],
 		"requiredTech": "Writing",
 		"civilopediaText": [
@@ -2513,11 +2633,12 @@
 		"replaces": "Library",
 		"uniqueTo": "Hexlock",
 		"hurryCostModifier": 25,
-		"cost": 110,
 		"uniques": [
-			"[+1 Science] [in this city] <when above [0] [Power]>",
-			"[+1 Science] per [3] population [in this city]",
-			"Free [Field Scientist] appears"
+			"[+1 Science, +1 Happiness] [in this city] <when above [0] [Power]>",
+			"[+1 Science] per [2] population [in this city]",
+			"[+1 Science] from [Refinery] tiles [in this city]",
+			"Free [Field Scientist] appears",
+			"Unsellable"
 		],
 		"requiredTech": "Writing"
 	},
@@ -2525,12 +2646,12 @@
 		"name": "Information Market",
 		"replaces": "Library",
 		"uniqueTo": "Deadrock Clan",
-		"gold": 1,
-		"science": 1,
-		"greatPersonPoints": { "Great Scientist": 1 },
+		"gold": 2,
 		"uniques": [
 			"[+1 Science] [in this city] <when above [0] [Power]>",
-			"[+1 Science] per [4] population [in this city]"
+			"[+1 Science] per [2] population [in this city]",
+			"[+2 Gold] from [Books] tiles [in this city]",
+			"[+2 Gold] from [Data] tiles [in this city]"
 		],
 		"requiredTech": "Writing"
 	},
@@ -2539,10 +2660,9 @@
 		"replaces": "Library",
 		"uniqueTo": "Crimson Legion",
 		"science": 1,
-		"greatPersonPoints": { "Great Scientist": 1 },
 		"uniques": [
-			"[+1 Science] [in this city] <when above [0] [Power]>",
-			"[+1 Science] per [4] population [in this city]"
+			"[+1 Science] per [2] population [in this city]",
+			"[+2 Science] from [Books] tiles [in this city]"
 		],
 		"hurryCostModifier": 25,
 		"requiredTech": "Writing"
@@ -2554,9 +2674,9 @@
 		"culture": 1,
 		"science": 1,
 		"uniques": [
-			"[+1 Science] [in this city] <when above [0] [Power]>",
+			"[+1 Science, +1 Faith] [in this city] <when above [0] [Power]>",
 			"[+1 Science, +1 Culture] from [Books] tiles [in this city]",
-			"[+1 Science] per [4] population [in this city]"
+			"[+1 Science] per [3] population [in this city]"
 		],
 		"hurryCostModifier": 25,
 		"requiredTech": "Writing"
@@ -2574,11 +2694,27 @@
 		"requiredTech": "Writing"
 	},
 	{
-		"name": "National College",
+		"name": "Observatory",
+		"maintenance": 1,
 		"science": 2,
+		"hurryCostModifier": 15,
+		"replacementTextForUniques": "+2 Science from Mountain tiles in this city (excluding Ancient Wonders), increasing to +4 after discovering Ecotheory; +2 Science in this city with access to Power",
+		"uniques": [
+			"[+2 Science] from [{non-[Natural Wonder]} {Mountain}] tiles [in this city]",
+			"[+2 Science] from [Mountain Tunnel] tiles [in this city]",
+			"[+2 Science] from [{non-[Natural Wonder]} {Mountain}] tiles [in this city] <after discovering [Ecotheory]>",
+			"[+2 Science] from [Mountain Tunnel] tiles [in this city] <after discovering [Ecotheory]>",
+			"[+2 Science] [in this city] <when above [0] [Power]>"
+		],
+		"requiredTech": "Mountain Exploration"
+	},
+	{
+		"name": "National College",
+		"cost": 125,
+		"science": 3,
 		"culture": 1,
 		"isNationalWonder": true,
-		"percentStatBonus": { "science": 33 },
+		"percentStatBonus": { "science": 50 },
 		"uniques": [
 			"Only available <if [Library] is constructed in all [non-[Puppeted]] cities>",
 			"Cost increases by [30] per owned city"
@@ -2662,9 +2798,9 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": [
-			"[+1 Science, +1 Culture] per [3] population [in this city]",
+			"[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
 			"Only available <in cities with a [Library]>",
-			"[+1 Culture] [in this city] <when above [0] [Power]>"
+			"[+2 Science] [in this city] <when above [0] [Power]>"
 		],
 		"requiredTech": "Civil Service"
 	},
@@ -2675,7 +2811,7 @@
 		"food": -1,
 		"science": 1,
 		"uniques": [
-			"[+1 Culture] per [3] population [in this city]",
+			"[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
 			"[+1 Gold] [in this city] <when above [0] [Slaves]>",
 			"[+20]% Production when constructing [Military] units [in this city]"
 		],
@@ -2695,6 +2831,7 @@
 		"food": -1,
 		"science": 1,
 		"uniques": [
+			"[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
 			"[+15]% Production when constructing [Military] units [in this city]",
 			"New [Military] units start with [15] Experience [in this city]",
 			"Only available <in cities with a [Barracks]>"
@@ -2712,6 +2849,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": [
+			"[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
 			"New [Military] units start with [15] Experience [in this city]",
 			"[+1 Science] from [Jungle] tiles [in this city]",
 			"[+1 Science] from [Forest] tiles [in this city]",
@@ -2761,12 +2899,12 @@
 		"name": "Data Center",
 		"maintenance": 2,
 		"hurryCostModifier": 25,
-		"percentStatBonus": { "science": 50 },
+		"science": 5,
 		"specialistSlots": { "Scientist": 1 },
 		"requiredTech": "Networking",
 		"uniques": [
-			"[+1 Science, +1 Culture] from [Data] tiles [in this city]",
-			"[+1 Science, +1 Culture] from [Encrypted Data] tiles [in this city]",
+			"[+4 Science] from [Data] tiles [in this city]",
+			"[+4 Science] from [Encrypted Data] tiles [in this city]",
 			"Consumes [1] [Power]"
 		]
 	},
@@ -2777,12 +2915,12 @@
 		"maintenance": 2,
 		"cost": 550,
 		"hurryCostModifier": 25,
-		"percentStatBonus": { "science": 65 },
+		"science": 8,
 		"specialistSlots": { "Scientist": 2 },
 		"requiredTech": "Networking",
 		"uniques": [
-			"[+1 Science, +1 Culture] from [Data] tiles [in this city]",
-			"[+1 Science, +1 Culture] from [Encrypted Data] tiles [in this city]",
+			"[+4 Science] from [Data] tiles [in this city]",
+			"[+4 Science] from [Encrypted Data] tiles [in this city]",
 			"Provides [1] [Encrypted Data] <when above [-2] [Power]>",
 			"Consumes [1] [Power]"
 		]
@@ -2791,14 +2929,13 @@
 		"name": "Media Center",
 		"happiness": 3,
 		"culture": 2,
-		"requiredNearbyImprovedResources": ["Data"],
+		"requiredNearbyImprovedResources": ["Books", "Data"],
 		"greatPersonPoints": { "Great Administrator": 2 },
 		"uniques": ["Consumes [1] [Power]"],
 		"requiredTech": "Networking"
 	},
 	{
 		"name": "Decryption Center",
-		"culture": 1,
 		"greatPersonPoints": { "Great Scientist": 1 },
 		"uniques": [
 			"Consumes [1] [Encrypted Data]",
@@ -2940,7 +3077,7 @@
 			"Destroyed when the city is captured",
 			"Only available <when espionage is enabled>"
 		],
-		"requiredTech": "Civil Service"
+		"requiredTech": "Radio"
 	},
 	{
 		"name": "Frumentarii Camp",
@@ -3096,10 +3233,8 @@
 	},
 	{
 		"name": "Armory",
-		"cityStrength": 5,
 		"hurryCostModifier": 25,
-		"requiredTech": "Construction",
-		"requiredNearbyImprovedResources": ["Weapons"],
+		"requiredTech": "Hoplology",
 		"uniques": [
 			"New [Military] units start with [15] Experience [in this city]",
 			"[+1 Production] from [Weapons] tiles [in this city]",
@@ -3128,6 +3263,18 @@
 			"Destroyed when the city is captured"
 		],
 		"requiredTech": "Combined Arms"
+	},
+	{
+		"name": "Warnet",
+		"isNationalWonder": true,
+		"uniques": [
+			"[+20]% Strength <for [Military] units>",
+			"Only available <if [Armaments Production Line] is constructed in at least [4] of [Your] cities>",
+			"Only available <if [Armor Production Line] is constructed in at least [4] of [Your] cities>",
+			"Only available <if [Aerospace Facility] is constructed in at least [4] of [Your] cities>",
+			"Only available <if [Decryption Center] is constructed in at least [4] of [Your] cities>"
+		],
+		"requiredTech": "Full-Spectrum Dominance"
 	},
 
 	// Industry buldings
@@ -3355,7 +3502,8 @@
 			"Provides [6] [Power]",
 			"Provides [2] [Power] <when above [-2] [Coal]>",
 			"Consumes [1] [Coal]",
-			"Only available <in cities without a [Nuclear Plant]>","Only available <in cities without a [Recycling Plant]>",
+			"Only available <in cities without a [Nuclear Plant]>",
+			"Only available <in cities without a [Advanced Energy Recycling Plant]>",
 			"Only available <in cities with a [Library]>"
 		],
 		"requiredTech": "Steam Power"
@@ -3371,7 +3519,8 @@
 			"Provides [2] [Power] <when above [-2] [Uranium]>",
 			"[+33]% Production when constructing [Manhattan Project] wonders [in this city]",
 			"[+33]% Production when constructing [Nuclear Weapon] units [in this city]",
-			"Only available <in cities without a [Coal Plant]>","Only available <in cities without a [Recycling Plant]>",
+			"Only available <in cities without a [Coal Plant]>",
+			"Only available <in cities without a [Advanced Energy Recycling Plant]>",
 			"Only available <in cities with a [Library]>"
 		],
 		"requiredTech": "Nuclear Fission"
@@ -3393,23 +3542,25 @@
 			"[-10]% [Food] [in this city] <before discovering [Nuclear Fission]>",
 			"[+33]% Production when constructing [Manhattan Project] wonders [in this city]",
 			"[+33]% Production when constructing [Nuclear Weapon] units [in this city]",
-			"Only available <in cities without a [Coal Plant]>","Only available <in cities without a [Recycling Plant]>",
+			"Only available <in cities without a [Coal Plant]>",
+			"Only available <in cities without a [Advanced Energy Recycling Plant]>",
 			"Only available <in cities with a [Library]>"
 		],
 		"requiredTech": "Steam Power"
 	},
 	{
-		"name": "Recycling Plant",
+		"name": "Advanced Energy Recycling Plant",
 		"maintenance": 5,
 		"cost": 750,
 		"hurryCostModifier": 33,
 		"percentStatBonus": { "production": -15 },
 		"uniques": [
-			"Provides [6] [Power]",
-			"Only available <in cities without a [Coal Plant]>","Only available <in cities without a [Nuclear Plant]>",
+			"Provides [12] [Power]",
+			"Only available <in cities without a [Coal Plant]>",
+			"Only available <in cities without a [Nuclear Plant]>",
 			"Only available <in cities with a [Library]>"
 		],
-		"requiredTech": "Plastics Recycling"
+		"requiredTech": "Energy Weapons"
 	},
 	{
 		"name": "Smart Grid",
@@ -3508,7 +3659,6 @@
 		"name": "Garage",
 		"uniqueTo": "The Hunnu",
 		"replaces": "Factory",
-		// "food": -1,
 		"cityStrength": 5,
 		"cityHealth": 25,
 		"percentStatBonus": { "production": 10 },
@@ -3528,9 +3678,7 @@
 	},
 	{
 		"name": "Armaments Production Line",
-		"percentStatBonus": { "production": -10 },
-		"cityStrength": 5,
-		"production": -3,
+		"maintenance": 3,
 		"uniques": [
 			"Provides [2] [Weapons]",
 			"[+1] Unit Supply",
@@ -3538,17 +3686,14 @@
 			"[Personnel] units gain the [Infantry Weapons] promotion",
 			"[+10]% Production when constructing [Military] units [in this city] <when above [-2] [Power]>",
 			"Only available <in cities with a [Factory]>",
-			"Gain a free [Armory] [in this city]"
+			"Only available <in cities with a [Armory]>"
 		],
 		"requiredTech": "Munitions"
 	},
 	{
 		"name": "Armor Production Line",
-		"percentStatBonus": { "production": -10 },
-		"production": -3,
+		"maintenance": 3,
 		"uniques": [
-			"Free [Tank] appears",
-			"[+33]% Production when constructing [Armor] units [in this city]",
 			"[+33]% Production when constructing [Armor] units [in this city] <when above [-2] [Power]>",
 			"Only available <in cities with a [Factory]>",
 			"Consumes [1] [Power]"
@@ -3612,7 +3757,7 @@
 	{
 		"name": "Aerospace Facility",
 		"cityStrength": 10,
-		"production": -3,
+		"maintenance": 3,
 		"uniques": [
 			"[Aircraft] units gain the [Advanced Weapons] promotion",
 			"[+15]% Production when constructing [Air] units [in this city] <when above [-2] [Power]>",
@@ -3625,6 +3770,21 @@
 				"text": "You can construct advanced aircraft units after constructing this building."
 			}
 		]
+	},
+	{
+		"name": "Launchpad",
+		"uniqueTo": "Prasiddh Shahar",
+		"replaces": "Aerospace Facility",
+		"cityStrength": 15,
+		"culture": 1,
+		"uniques": [
+			"[Aircraft] units gain the [Advanced Weapons] promotion",
+			"[+15]% Production when constructing [Air] units [in this city] <when above [-2] [Power]>",
+			"[+15]% Production when constructing [All] wonders [in this city] <when above [-2] [Power]>",
+			"Only available <in cities with a [Factory]>",
+			"Consumes [1] [Power]"
+		],
+		"requiredTech": "Rocketry"
 	},
 	{
 		"name": "Automated Factory",
@@ -3700,7 +3860,7 @@
 			"Consumes [1] [Power]",
 			"Provides [1] [Oil]"
 		],
-		"requiredTech": "Plastics Recycling"
+		"requiredTech": "Re-Utilization"
 	},
 	{
 		"name": "Metal Reprocessor",
@@ -3790,10 +3950,9 @@
 	},
 	{
 		"name": "Fusion Reactor",
-		"cost": 3750,
 		"isNationalWonder": true,
 		"uniques": [
-			"Provides [8] [Power]",
+			"Provides [20] [Power]",
 			"Provides [2] [Uranium]",
 			"Can only be built <in [Capital] cities>",
 			"[+1 Production] [in all cities connected to capital]"
@@ -4522,16 +4681,6 @@
 			"Reveals the entire map",
 			"[+1] population [in this city]",
 			"Free [Spearman] appears"
-		]
-	},
-	{
-		"name": "Fo Guang Library",
-		"uniqueTo": "Fo Guang",
-		"replaces": "Library",
-		"science": 1,
-		"uniques": [
-			"Will not be displayed in Civilopedia",
-			"Unbuildable"
 		]
 	},
 	{

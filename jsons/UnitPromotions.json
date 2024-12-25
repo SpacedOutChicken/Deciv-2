@@ -1384,6 +1384,10 @@
 		"uniques": ["Can remove other religions from cities <in [Friendly] tiles> <[1] additional time(s)>"]
 	},
 	{
+		"name": "Mountaineer",
+		"uniques": ["Can pass through impassable tiles"]
+	},
+	{
 		"name": "Unable to pillage tiles",
 		"uniques": ["Unable to pillage tiles"]
 	},

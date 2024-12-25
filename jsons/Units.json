@@ -35,6 +35,7 @@
 		"upgradesTo": "Mechanized Worker",
 		"uniques": [
 			"Can build [Land] improvements on tiles",
+			"Can build [Lakes] improvements on tiles",
 			"Automation is a primary action"
 		],
 		"cost": 70
@@ -113,6 +114,8 @@
 			"Consumes [1] [Oil]",
 			"Only available <if [Factory] is constructed>",
 			"Withdraws before melee combat <with [50]% chance>",
+			"Ignores terrain cost",
+			"Can pass through impassable tiles",
 			"Can build [Land] improvements on tiles",
 			"[-25]% construction time for [All] improvements",
 			"Automation is a primary action"
@@ -447,7 +450,6 @@
 	{
 		"name": "Purge Robot Proto",
 		"unitType": "Scrapper",
-		"replaces": "Spearman",
 		"uniqueTo": "Hexlock",
 		"upgradesTo": "Purge Robot MKI",
 		"obsoleteTech": "Combined Arms",
@@ -811,6 +813,26 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Vyomanaut",
+		"unitType": "Scrapper",
+		"replaces": "Militia",
+		"uniqueTo": "Prasiddh Shahar",
+		"movement": 2,
+		"strength": 36,
+		"interceptRange": 1,
+		"cost": 55,
+		"upgradesTo": "Soldier",
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Replaceable Parts",
+		"uniques": [
+			"Personnel",
+			"Consumes [1] [Weapons]"
+		],
+		"promotions": ["Gas Mask"],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	},
+	{
 		"name": "Soldier",
 		"unitType": "Scrapper",
 		"movement": 2,
@@ -919,7 +941,6 @@
 	{
 		"name": "Purge Robot MKI",
 		"unitType": "Scrapper",
-		"replaces": "Infantry",
 		"uniqueTo": "Hexlock",
 		"upgradesTo": "Purge Robot MKII",
 		"movement": 2,
@@ -1475,9 +1496,9 @@
 			"Consumes [2] [Weapons]",
 			"Never appears as a Barbarian unit",
 			"Only available <if [Automated Factory] is constructed>"
-			],
+		],
 		"promotions": ["Gas Mask","Loose Formation","Reconnaissance I","Reconnaissance II"],
-		"attackSound": "shot"
+		"attackSound": "machinegun"
 	},
 
 	// Siege
@@ -1493,7 +1514,7 @@
 		"obsoleteTech": "Munitions",
 		"uniques": [
 			"[+20]% Strength <vs [Low Tech] units>",
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
 			"[-1] Sight",
@@ -1516,7 +1537,7 @@
 		"obsoleteTech": "Munitions",
 		"uniques": [
 			"[+33]% Strength <vs [Low Tech] units>",
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"Must set up to ranged attack",
 			"[-1] Sight"
@@ -1552,7 +1573,7 @@
 		"requiredTech": "Munitions",
 		"upgradesTo": "Rocket Artillery",
 		"uniques": [
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs [Helicopter] units>",
 			"Must set up to ranged attack",
@@ -1566,7 +1587,7 @@
 	},
 	{
 		"name": "Machine Gun",
-		"unitType": "Siege",
+		"unitType": "Shooter",
 		"range": 2,
 		"movement": 2,
 		"strength": 50,
@@ -1574,12 +1595,14 @@
 		"cost": 150,
 		"requiredTech": "Replaceable Parts",
 		"uniques": [
+			"Personnel",
 			"Must set up to ranged attack",
 			"[-33]% Strength <vs [Armor] units>",
 			"[-50]% Strength <vs cities> <when attacking>",
 			"Only available <if [Factory] is constructed>",
 			"Never appears as a Barbarian unit"
 		],
+		"promotions": ["Logistics"],
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
 	},
@@ -1791,7 +1814,7 @@
 		"cost": 225,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
-		"obsoleteTech": "Advanced Materials",
+		"obsoleteTech": "Full-Spectrum Dominance",
 		"uniques": [
 			"Can move after attacking",
 			"[-25]% Strength <vs cities> <when attacking>",
@@ -1842,7 +1865,7 @@
 		"cost": 265,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
-		"obsoleteTech": "Advanced Materials",
+		"obsoleteTech": "Full-Spectrum Dominance",
 		"uniques": [
 			"Only available <if [Factory] is constructed>",
 			"[+25]% Strength <vs [Air] units>",
@@ -1864,7 +1887,7 @@
 		"cost": 245,
 		"requiredTech": "Combined Arms",
 		"upgradesTo": "Modern Armor",
-		"obsoleteTech": "Advanced Materials",
+		"obsoleteTech": "Full-Spectrum Dominance",
 		"uniques": [
 		    "[+15]% Strength <when attacking>",
 			"[-15]% Strength <when defending>",
@@ -1883,7 +1906,7 @@
 		"movement": 5,
 		"strength": 80,
 		"cost": 375,
-		"requiredTech": "Advanced Materials",
+		"requiredTech": "Full-Spectrum Dominance",
 		"upgradesTo": "Advanced Armor",
 		"uniques": [
 			"Can move after attacking",
@@ -1899,7 +1922,6 @@
 	{
 		"name": "Purge Robot MKII",
 		"unitType": "Armor",
-		"replaces": "Modern Armor",
 		"uniqueTo": "Hexlock",
 		"upgradesTo": "Purge Robot",
 		"movement": 5,
@@ -1941,7 +1963,7 @@
 		],
 		"promotions": ["Powered Armor", "Drone Recon"],
 		"hurryCostModifier": 20,
-		"attackSound": "gdrAttack"
+		"attackSound": "tankshot"
 	},
 	{
 		"name": "Purge Robot",
@@ -2044,13 +2066,13 @@
 		"name": "Rocket Artillery",
 		"unitType": "Siege",
 		"movement": 3,
-		"strength": 25,
-		"rangedStrength": 40,
+		"strength": 45,
+		"rangedStrength": 60,
 		"range": 3,
 		"cost": 350,
 		"requiredTech": "Rocketry",
 		"uniques": [
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs [Helicopter] units>",
 			"[-1] Sight",
@@ -2070,14 +2092,14 @@
 		"replaces": "Rocket Artillery",
 		"uniqueTo": "Hexlock",
 		"movement": 1,
-		"strength": 40,
-		"rangedStrength": 60,
+		"strength": 60,
+		"rangedStrength": 80,
 		"range": 4,
 		"cost": 350,
 		"requiredTech": "Rocketry",
 		"uniques": [
 		    "Promotion Nullifier",
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs [Helicopter] units>",
 			"[-1] Sight",
@@ -2096,13 +2118,14 @@
 		"range": 2,
 		"movement": 5,
 		"strength": 35,
-		"rangedStrength": 40,
+		"rangedStrength": 55,
 		"cost": 325,
 		"requiredTech": "Lasers",
 		"uniques": [
 			"Can move after attacking",
 			"No defensive terrain bonus",
-			"[+150]% Strength <vs [Armor] units>",
+			"Can carry [1] [Missile] units",
+			"[+200]% Strength <vs [Armor] units>",
 			"Withdraws before melee combat <with [50]% chance>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
@@ -2140,8 +2163,8 @@
 		"replaces": "Mobile SAM",
 		"uniqueTo": "Hexlock",
 		"movement": 3,
-		"strength": 40,
-		"rangedStrength": 55,
+		"strength": 50,
+		"rangedStrength": 65,
 		"range": 2,
 		"interceptRange": 3,
 		"cost": 410,
@@ -2177,7 +2200,6 @@
 		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Can move after attacking",
 			"Never appears as a Barbarian unit"
 		],
@@ -2200,7 +2222,6 @@
 		"upgradesTo": "Helicopter",
 		"uniques": [
 			"[-25]% Strength <vs [Armor] units>",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Can move after attacking",
 			"[+25]% Strength <when defending>"
 		],
@@ -2223,7 +2244,6 @@
 			"Can only attack [Military] units",
 			"[-25]% Strength <vs [Armor] units>",
 			"Can move after attacking",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Only available <if [Factory] is constructed>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
@@ -2249,7 +2269,6 @@
 			"Can move after attacking",
 			"Ranged attacks may be performed over obstacles",
 			"Only available <if [Aerospace Facility] is constructed>",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Consumes [1] [Oil]",
 			"Never appears as a Barbarian unit"
 		],
@@ -2274,7 +2293,6 @@
 			"Can move after attacking",
 			"Ranged attacks may be performed over obstacles",
 			"Only available <if [Aerospace Facility] is constructed>",
-			"[-25]% Strength <vs cities> <when attacking>",
 			"Consumes [1] [Oil]",
 			"Consumes [1] [Aluminum]",
 			"Never appears as a Barbarian unit"
@@ -2362,7 +2380,7 @@
 		"range": 10,
 		"interceptRange": 10,
 		"cost": 500,
-		"requiredTech": "Future Materials",
+		"requiredTech": "Stealth",
 		"hurryCostModifier": 20,
 		"uniques": [
 			"[100]% chance to intercept air attacks",
@@ -2398,6 +2416,23 @@
 	},
 
 	//// Bomber
+	{
+		"name": "Avatar",
+		"unitType": "Bomber",
+		"uniqueTo": "Prasiddh Shahar",
+		"movement": 1,
+		"strength": 25,
+		"rangedStrength": 35,
+		"range": 4,
+		"cost": 125,
+		"upgradesTo": "Bomber",
+		"uniques": [
+			"Comment [Can only be obtained from Landing events]",
+			"Unbuildable"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "bombing"
+	},
 	{
 		"name": "Bomber",
 		"unitType": "Bomber",
@@ -2441,7 +2476,7 @@
 		"rangedStrength": 85,
 		"range": 20,
 		"cost": 500,
-		"requiredTech": "Future Materials",
+		"requiredTech": "Stealth",
 		"hurryCostModifier": 20,
 		"uniques": [
 			"Only available <if [Aerospace Facility] is constructed>",
@@ -3559,7 +3594,7 @@
 		"requiredTech": "The Wheel",
 		"upgradesTo": "Rocket Artillery",
 		"uniques": [
-			"[+100]% Strength <vs cities> <when attacking>",
+			"[+200]% Strength <vs cities> <when attacking>",
 			"No defensive terrain bonus",
 			"[-50]% Strength <vs [Helicopter] units>",
 			"Must set up to ranged attack",
@@ -3787,7 +3822,111 @@
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
 	},
-	
+	{
+		"name": "Gbeto",
+		"unitType": "Scrapper",
+		"uniqueTo": "Dahomey",
+		"replaces": "Spearman",
+		"movement": 2,
+		"strength": 20,
+		"interceptRange": 1,
+		"cost": 55,
+		"upgradesTo": "Militia",
+		"hurryCostModifier": 20,
+		"obsoleteTech": "Rifling",
+		"uniques": [
+			"Low Tech",
+			"No damage penalty for wounded units",
+			"[+50]% Strength <vs [Mounted] units>",
+			"May capture killed [Land] units <with [50]% chance>"
+		],
+		"attackSound": "nonmetalhit"
+	},
+	{
+		"name": "Gohento",
+		"unitType": "Shooter",
+		"replaces": "Archer",
+		"uniqueTo": "Dahomey",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 15,
+		"range": 1,
+		"cost": 40,
+		"hurryCostModifier": 15,
+		"obsoleteTech": "Steel",
+		"upgradesTo": "Gunman",
+		"uniques": [
+			"Low Tech",
+			"No damage penalty for wounded units",
+			"[+25]% Strength <when fighting in [Foreign Land] tiles>"
+		],
+		"attackSound": "arrow"
+	},
+	{
+		"name": "Nyekplohento",
+		"unitType": "Scrapper",
+		"replaces": "Machete",
+		"uniqueTo": "Dahomey",
+		"movement": 2,
+		"strength": 24,
+		"cost": 50,
+		"requiredTech": "Steel",
+		"obsoleteTech": "Rifling",
+		"upgradesTo": "Militia",
+		"uniques": [
+			"Low Tech",
+			"[+50]% Strength <vs [Low Tech] units>",
+			"No damage penalty for wounded units",
+ 			"May capture killed [Land] units <with [50]% chance>"
+		],
+		"attackSound": "metalhit"
+	},
+	{
+		"name": "Agbarya",
+		"unitType": "Siege",
+		"uniqueTo": "Dahomey",
+		"replaces": "Cannon",
+		"movement": 2,
+		"strength": 15,
+		"rangedStrength": 25,
+		"range": 2,
+		"cost": 110,
+		"requiredTech": "Steel",
+		"upgradesTo": "Artillery",
+		"obsoleteTech": "Munitions",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"No damage penalty for wounded units",
+			"[+33]% Strength <vs [Low Tech] units>",
+			"[+200]% Strength <vs cities> <when attacking>",
+			"[+25]% Strength <when adjacent to a [Shooter] unit>",
+			"No defensive terrain bonus",
+			"Must set up to ranged attack",
+			"[-1] Sight"
+		],
+		"attackSound": "cannon"
+	},
+	{
+		"name": "Gulohento",
+		"unitType": "Shooter",
+		"replaces": "Rifleman",
+		"uniqueTo": "Dahomey",
+		"range": 1,
+		"movement": 2,
+		"strength": 35,
+		"rangedStrength": 30,
+		"interceptRange": 1,
+		"cost": 120,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Marksman",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Personnel",
+			"No damage penalty for wounded units",
+			"May capture killed [Land] units <with [50]% chance>"
+		],
+		"attackSound": "shot"
+	},
 
 	//Terraformer parts
 

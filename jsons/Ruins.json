@@ -37,7 +37,19 @@
 	{
 		"name": "survivors (adds population to a city)",
 		"notification": "We have found survivors in the camp! Population added to [cityName].",
-		"uniques": ["[+1] population in a random city"] // This can't be easily added to cityFilter, as it is non-deterministic
+		"uniques": [
+			"[+1] population in a random city",
+			"Unavailable <for [Prasiddh Shahar] Civilizations>"
+		]
+		// This can't be easily added to cityFilter, as it is non-deterministic
+	},
+	{
+		"name": "landing event",
+		"notification": "The survivors stare in awe as reinforcements arrive from your space station!",
+		"uniques": [
+			"Triggers a [Landing Event - Survivor camp] event",
+			"Only available <for [Prasiddh Shahar] Civilizations>"
+		]
 	},
 	{
 		"name": "a stash of water",

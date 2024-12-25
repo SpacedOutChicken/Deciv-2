@@ -1035,6 +1035,81 @@
 		"cities": ["New Otuken"],
 		"spyNames": ["Gala", "Jaya", "Enkush", "Temka", "Ono", "Jamba", "Davaa", "Odko", "Batkhuu", "Tuga"]
 	},
+	{
+		"name": "Prasiddh Shahar",
+		"leaderName": "Maharishi Janaka",
+		"adjective": "Prasiddh",
+		"startBias": ["Badlands"],
+		"preferredVictoryType": "Scientific",
+		"personality": "Janaka",
+
+		// "startIntroPart1": "",
+		// "startIntroPart2": "",
+	
+		"declaringWar": "We will rid you from this planet, and any other planets we can find.",
+		"attacked": "You will learn the hard way that we have returned fully prepared for war.",
+		"defeated": "Is this world always doomed to suffer war? Surely we can do better than this...",
+		"introduction": "Greetings! I wish we could meet under better circumstances, but this will do.",
+	
+		"neutralHello": "I wish you peace.",
+		"hateHello": "What do you want?",
+	
+		"tradeRequest": "My friend, are you interested in this arrangement?",
+	
+		"outerColor": [255, 163, 71],
+		"innerColor": [14, 113, 4],
+		"uniqueName": "Fallen to Earth",
+		"uniques": [
+			"[+1] Sight <for [Air] units>",
+			"[+1] Range <for [Air] units>",
+			"Comment [Triggers a Landing event upon entering a new era]",
+			"Triggers a [Landing Event - Neofeudal era] event <upon entering the [Neofeudal era]> <hidden from users>",
+			"Triggers a [Landing Event - Rebuilding era] event <upon entering the [Rebuilding era]> <hidden from users>",
+			"Triggers a [Landing Event - Industrial era] event <upon entering the [Industrial era]> <hidden from users>",
+			"Triggers a [Landing Event - Postmodern era] event <upon entering the [Postmodern era]> <hidden from users>",
+			"Triggers a [Landing Event - Information era] event <upon entering the [Information era]> <hidden from users>",
+			"Triggers a [Landing Event - New Future era] event <upon entering the [New Future era]> <hidden from users>",
+			"Triggers a [Landing Event - Singularity era] event <upon entering the [Singularity era]> <hidden from users>",
+			"Starts with [Writing]",
+			"Starts with [Construction]",
+			"Starts with [Machinery]",
+			"[-2 Science] [in all cities] <before discovering [Education]>",
+			"[-10]% growth [in all cities] <before discovering [Refrigeration]>",
+			"Provides a [Launchpad] in your first [3] cities for free <upon discovering [Rocketry] technology>"
+		],
+		"cities": [
+			"Taranagaram",
+			"Karanodaka",
+			"Siddhashrama",
+			"Alakapuri",
+			"Patala",
+			"Manidvipa",
+			"Trikuta",
+			"Mainaka",
+			"Brahmavarta",
+			"Amaravati",
+			"Panchapsaras",
+			"Vaikuntha",
+			"Tripura",
+			"Mahameru",
+			"Himavanta",
+			"Vaikuntha",
+			"Dvaitavana",
+			"Plaksadvipa",
+			"Bhogavati",
+			"Naraka",
+			"Brahmaloka",
+			"Ashoka Vatika",
+			"Vaitarani",
+			"Mandara",
+			"Svarga",
+			"Prithvi Mata",
+			"Kshira Sagara",
+			"Kailasa",
+			"Lokaloka"
+		],
+		"spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
+	},
 
 	// City-States
 	{
@@ -1211,10 +1286,7 @@
 		"cityStateType": "Prayer",
 		"style": "",
 		"uniques": [
-			"No damage penalty for wounded units",
-			"Cannot build [Armor] units",
-			"Cannot build [Siege] units",
-			"Cannot build [Helicopter] units"
+			"No damage penalty for wounded units"
 		],
 		"declaringWar": "You leave us no choice. War it must be.",
 		"attacked": "Your desire for power will only bring you suffering.",
