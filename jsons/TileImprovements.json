@@ -431,7 +431,7 @@
 		"production": 2,
 		"turnsToBuild": 7,
 		"uniques": [
-			"Ensures a minimum tile yield of [+3 Food, +2 Production, +2 Gold]",
+			"Ensures a minimum tile yield of [+2 Food]",
 			"[+1 Production] <after discovering [Chemistry]>",
 			"[+1 Food, +1 Gold] <after discovering [Decontamination]>",
 			"Provides [1] [Uranium] <in [Fallout] tiles> <after discovering [Decontamination]>",
