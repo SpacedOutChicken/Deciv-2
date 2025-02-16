@@ -1328,6 +1328,27 @@
 		"innerColor": [255,128,0],
 		"cities": ["Dahomeyville"]
 	},
+	{
+		"name": "Guiyu",
+		"adjective": ["Guiyu"],
+		"cityStateType": "Labor",
+		"startBias": ["Coast"],
+		"style": "",
+		"uniques": [
+			"[+1 Production] from every [Salvage site]",
+			"[+1 Production] from every [Borough]",
+			"[-25]% growth [in capital]",
+			"Starts with [Machinery]",
+			"Starts with [Manufacturing]",
+			"Starts with [Re-Utilization]"
+		],
+		"declaringWar": "You leave us no choice. War it must be.",
+		"attacked": "Very well, this shall not be forgotten.",
+		"defeated": "We will carry on, though you now reign over us. We only ask that you heal these poisoned lands.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [9, 112, 84],
+		"cities": ["Guiyu"]
+	},
 
 	// Barbarian
 	{

@@ -37,6 +37,7 @@ Buildings:
 * Earthscraper: [skyscraper](https://thenounproject.com/icon/skyscraper-1811460/) by iconcheese, adapted slightly
 * Earthscraper Project: [Skyscraper](https://thenounproject.com/icon/skyscraper-1038032/) by Maxim Kulikov, adapted slightly
 * Eco-Sanctuary: [national park award](https://thenounproject.com/icon/national-park-award-986718/) by Juraj Sedlák
+* Electronics Assembly Shop: [assemble parts](https://thenounproject.com/icon/assemble-parts-2574913/) by Vectors Point, PK
 * Electrostatic Generator: [generator](https://thenounproject.com/icon/generator-4308223/) by WiStudio, TH
 * Explore Underwater City: [sea level rise](https://thenounproject.com/icon/sea-level-rise-200223/) by Luis Prado, US
 * Field Office: [agency](https://thenounproject.com/icon/agency-984400/) by Tomasz Pasternak, PL
@@ -59,6 +60,7 @@ Buildings:
 * Open the Vault: [Cave](https://thenounproject.com/icon/cave-1842205/) by Bakunetsu Kaito
 * Pit of Sacrifice: [Mass Grave](https://thenounproject.com/icon/mass-grave-75126/) by Dan Hetteix, US
 * Place of Order: [Mongolia](https://thenounproject.com/icon/mongolia-2012938/) by WiStudio, TH
+* Processing Station: [e-waste-processing](https://thenounproject.com/icon/e-waste-processing-6025733/) by bsd studio, CA
 * Publishing House: [Bookstore](https://thenounproject.com/icon/bookstore-3658621/) by AmruID, ID
 * Rainwater Purifier: [Filter Water](https://thenounproject.com/icon/filter-water-3923269/) by denimao, ID
 * Reactivate Underwater City: [rising sea level](https://thenounproject.com/icon/rising-sea-level-4197935/) by Eucalyp

@@ -70,6 +70,7 @@ MISC Changes
 
 New Content:
 - Added new faction: Prasiddh Shahar (Indian astronauts who waited out the Cataclysm in their space station)
+- Added new City-State: Guiyu (the actual e-waste processing community of Guiyu in Guangdong Province, China)
 - Added five UUs for the Dahomey CS based on the historical Dahomey Amazons
 - Added several new technologies:
 	- Decivilized era: Optics

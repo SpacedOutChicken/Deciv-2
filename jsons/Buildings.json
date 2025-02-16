@@ -4746,5 +4746,45 @@
 			"Provides [2] [Slaves]",
 			"Never destroyed when the city is captured"
 		]
+	},
+	{
+		"name": "Guiyu Industry Park",
+		"uniqueTo": "Guiyu",
+		"replaces": "Monument",
+		"cost": 0,
+		"culture": 2,
+		"food": 2,
+		"gold": 2,
+		"production": 2,
+		"science": 2,
+		"uniques": [
+			"Will not be displayed in Civilopedia",
+			"Reveals the entire map",
+			"[+25]% Production when constructing [Production] buildings [in this city]",
+			"[+1] population [in this city]",
+			"Free [Spearman] appears",
+			"Free [Worker] appears"
+		]
+	},
+	{
+		"name": "Processing Station",
+		"uniqueTo": "Guiyu",
+		"cost": 0,
+		"production": 2,
+		"uniques": [
+			"[+1 Production] from [Scrap] tiles [in all cities]",
+			"[+1 Production] from [Plastics] tiles [in all cities]",
+			"[+1 Production] from [Electronics] tiles [in all cities]",
+			"Never destroyed when the city is captured"
+		]
+	},
+	{
+		"name": "Electronics Assembly Shop",
+		"uniqueTo": "Guiyu",
+		"cost": 0,
+		"uniques": [
+			"Provides [1] [Electronics]",
+			"Never destroyed when the city is captured"
+		]
 	}
 ]
