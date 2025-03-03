@@ -1630,6 +1630,27 @@
 		"hurryCostModifier": 20,
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "Gauss Cannon",
+		"unitType": "Siege",
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 70,
+		"range": 3,
+		"cost": 500,
+		"requiredTech": "Energy Weapons",
+		"uniques": [
+			"[+300]% Strength <when attacking>",
+			"No defensive terrain bonus",
+			"[-1] Sight",
+			"Only available <if [Automated Factory] is constructed>",
+			"Consumes [1] [Power]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Artillery"],
+		"hurryCostModifier": 20,
+		"attackSound": "railgun"
+	},
 
 	// Armor
 	{
@@ -2066,8 +2087,8 @@
 		"name": "Rocket Artillery",
 		"unitType": "Siege",
 		"movement": 3,
-		"strength": 45,
-		"rangedStrength": 60,
+		"strength": 30,
+		"rangedStrength": 45,
 		"range": 3,
 		"cost": 350,
 		"requiredTech": "Rocketry",
@@ -2080,7 +2101,9 @@
 			"Only available <if [Factory] is constructed>",
 			"Can carry [1] [Missile] units",
 			"Consumes [1] [Oil]",
-			"Never appears as a Barbarian unit"
+			"Never appears as a Barbarian unit",
+			"Can upgrade to [Missile Artillery]",
+			"Can upgrade to [Gauss Cannon]"
 		],
 		"promotions": ["Artillery"],
 		"hurryCostModifier": 20,
@@ -2182,6 +2205,33 @@
 		],
 		"hurryCostModifier": 20,
 		"promotions": ["Promotion Nullifier"],
+		"attackSound": "missile"
+	},
+	{
+		"name": "Missile Artillery",
+		"unitType": "Siege",
+		"movement": 3,
+		"strength": 45,
+		"rangedStrength": 60,
+		"range": 3,
+		"interceptRange": 3,
+		"cost": 475,
+		"requiredTech": "Advanced Materials",
+		"uniques": [
+			"[+200]% Strength <vs cities> <when attacking>",
+			"No defensive terrain bonus",
+			"[+50]% Strength <vs [Helicopter] units>",
+			"[50]% chance to intercept air attacks",
+			"[-1] Sight",
+			"Withdraws before melee combat <with [25]% chance>",
+			"Only available <if [Factory] is constructed>",
+			"Can carry [1] [Missile] units",
+			"Consumes [1] [Aluminum]",
+			"Consumes [1] [Oil]",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Artillery"],
+		"hurryCostModifier": 20,
 		"attackSound": "missile"
 	},
 

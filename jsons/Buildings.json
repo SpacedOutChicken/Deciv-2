@@ -46,7 +46,7 @@
 		"cost": 1,
 		"uniques": [
 			"Indicates the capital city",
-			"New [Military] units start with [15] Experience [in this city]"
+			"New [Military] units start with [15] XP [in this city]"
 		]
 	},
 	{
@@ -770,7 +770,7 @@
 		"requiredTech": "Currency",
 		"uniques": [
 			"[Great General] is earned [50]% faster",
-			"New [Personnel] units start with [30] Experience [in all cities]",
+			"New [Personnel] units start with [30] XP [in all cities]",
 			"Can only be built <in [Capital] cities>",
 			"Only available <in cities without a [Smugglers' Guild]>",
 			"Destroyed when the city is captured"
@@ -2325,7 +2325,7 @@
 		"specialistSlots": { "Administrator": 1 },
 		"maintenance": 1,
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"[-25]% Culture cost of natural border growth [in this city]",
 			"[-25]% Gold cost of acquiring tiles [in this city]",
 			"[+1 Happiness] [in this city] <when above [0] [Power]>"
@@ -2456,7 +2456,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"[+1 Happiness, +1 Culture] [in this city] <when above [0] [Slaves]>",
 			"Destroyed when the city is captured"
 		],
@@ -2470,7 +2470,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"[+1 Happiness, +1 Culture] [in this city] <when above [0] [Slaves]>",
 			"Destroyed when the city is captured"
 		],
@@ -2833,7 +2833,7 @@
 		"uniques": [
 			"[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
 			"[+15]% Production when constructing [Military] units [in this city]",
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"Only available <in cities with a [Barracks]>"
 		],
 		"maintenance": 1,
@@ -2850,7 +2850,7 @@
 		"hurryCostModifier": 0,
 		"uniques": [
 			"[+1 Science] per [2] population [in this city] <after discovering [Networking]>",
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"[+1 Science] from [Jungle] tiles [in this city]",
 			"[+1 Science] from [Forest] tiles [in this city]",
 			"[+1 Science] from [Sunken Ruins] tiles [in this city]",
@@ -3214,7 +3214,7 @@
 		"cost": 50,
 		"maintenance": 1,
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"Destroyed when the city is captured"
 		]
 	},
@@ -3226,7 +3226,7 @@
 		"cost": 60,
 		"maintenance": 1,
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"All newly-trained [Military] units [in this city] receive the [Sentry] promotion",
 			"Destroyed when the city is captured"
 		]
@@ -3236,7 +3236,7 @@
 		"hurryCostModifier": 25,
 		"requiredTech": "Hoplology",
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"[+1 Production] from [Weapons] tiles [in this city]",
 			"Destroyed when the city is captured"
 		]
@@ -3246,7 +3246,7 @@
 		"isNationalWonder": true,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"New [Military] units start with [30] Experience [in this city]",
+			"New [Military] units start with [30] XP [in this city]",
 			"Only available <in cities with a [Barracks]>",
 			"Free [Great General] appears"
 		],
@@ -3258,7 +3258,7 @@
 		"uniqueTo": "Enclavers",
 		"cityStrength": 10,
 		"uniques": [
-			"New [Military] units start with [15] Experience [in this city]",
+			"New [Military] units start with [15] XP [in this city]",
 			"All newly-trained [relevant] units [in this city] receive the [Guerilla Warfare II] promotion",
 			"Destroyed when the city is captured"
 		],
@@ -3399,6 +3399,23 @@
 			"Provides [1] [Oil]",
 			"[+1 Production] [in this city] <with [Machine Parts]>",
 			"[-1 Food, +3 Production, -1 Gold] from [Oil] tiles [in this city]",
+			"Consumes [1] [Power]",
+			"Only available <in cities without a [Oil Plant]>"
+		],
+		"requiredTech": "Chemistry"
+	},
+	{
+		"name": "Shale Extractor",
+		"replaces": "Oil Refinery",
+		"uniqueTo": "Atlas",
+		"maintenance": 1,
+		"cost": 150,
+		"requiredNearbyImprovedResources": ["Oil"],
+		"hurryCostModifier": 25,
+		"uniques": [
+			"Provides [2] [Oil]",
+			"[+1 Production] [in this city] <with [Machine Parts]>",
+			"[-1 Food, +4 Production, -1 Gold] from [Oil] tiles [in this city]",
 			"Consumes [1] [Power]",
 			"Only available <in cities without a [Oil Plant]>"
 		],
@@ -4054,7 +4071,7 @@
 		"gold": 1,
 		"uniques": [
 			"[+10]% Production when constructing [Water] units [in this city]",
-			"New [Water] units start with [15] Experience [in this city]",
+			"New [Water] units start with [15] XP [in this city]",
 			"Connects trade routes over water",
 			"Must be next to [Coast]"
 		],
@@ -4168,7 +4185,7 @@
 		"uniques": [
 			"Unbuildable",
 			"Only available <when religion is enabled>",
-			"New [Military] units start with [15] Experience [in this city]"
+			"New [Military] units start with [15] XP [in this city]"
 		]
 	},
 	{

@@ -118,7 +118,7 @@ Resources:
 Technologies:
 * Decryption: [encryption](https://thenounproject.com/icon/encryption-3627994/) by IconPai, IN
 * Ecotheory: [ecology science](https://thenounproject.com/icon/ecology-science-4554717/) by Soremba, DE
-* Full-Spectrum Dominance: [techonology war](https://thenounproject.com/icon/technology-war-3683724/) by WiStudio, TH
+* Full-Spectrum Dominance: [technology war](https://thenounproject.com/icon/technology-war-3683724/) by WiStudio, TH
 * Geo Engineering: [geological](https://thenounproject.com/term/geological/2631469/) by Nithinan Tatah, TH
 * Hoplology: [Scroll](https://thenounproject.com/icon/scroll-5139842/) by lastspark, KZ
 * Hydroponics: [Hydroponics](https://thenounproject.com/icon/hydroponics-83408/) by Krisada, TH
@@ -140,6 +140,7 @@ Units:
 * Drop Troops: [jetpack](https://thenounproject.com/icon/jetpack-3394735/) by Nhor
 * Exo-Trooper: [space marine](https://thenounproject.com/icon/space-marine-118870/) by Robert Bjurshagen, SE 
 * Forward Observer: [Motorcycle](https://thenounproject.com/icon/motorcycle-1578797/) by Abdul Wahhab
+* Gauss Cannon: Based on [nuclear mobile missile vehicle](https://thenounproject.com/icon/nuclear-mobile-missile-vehicle-4727951/) by Eliricon, FI
 * Gbeto: [antlers](https://thenounproject.com/icon/antlers-4388537/) by TRAVIS BIRD, US
 * Gohento: [bow](https://thenounproject.com/icon/bow-6406786/) by wisnu ayubkhan, ID
 * Gravity Turret: [Tank](https://thenounproject.com/icon/tank-3679624/) by Vectorstall, PK
@@ -149,6 +150,7 @@ Units:
 * Jet Rover: [army vehicle](https://thenounproject.com/icon/army-vehicle-4080546/) by Icongeek26, IN
 * Jetsuit: [jetpack](https://thenounproject.com/icon/jetpack-3529977/) by iconnect, ID
 * Light Drone: [Drone](https://thenounproject.com/icon/drone-32876/) by Blaise Sewell, US
+* Missile Artillery: [rocket launcher](https://thenounproject.com/icon/rocket-launcher-1746288/) by Souvik Bhattacharjee
 * Missile Defense System: [Air Defense Missile Launcher](https://thenounproject.com/icon/air-defense-missile-launcher-1189656/) by usubaliev, TR
 * Mutant: [hunchback posture](https://thenounproject.com/icon/hunchback-posture-3666455/) by Pelin Kahraman, TR
 * Nyekplohento: [dagger](https://thenounproject.com/icon/dagger-1969000/) by Eucalyp
@@ -200,6 +202,13 @@ Policies:
 Technologies:
 * Decontamination: [Biohazard symbol](https://commons.wikimedia.org/wiki/File:Biohazard_symbol.svg)
 * Energy Weapons: [Laser-symbol](https://commons.wikimedia.org/wiki/File:Laser-symbol.svg)
+
+
+## From Freesound
+
+Attack Sounds:
+* Railgun: [shipboard_railgun](https://freesound.org/people/deleted_user_1941307/sounds/155790/) by a deleted user
+
 
 ## Other
 

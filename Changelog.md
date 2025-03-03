@@ -81,17 +81,20 @@ New Content:
 	- Postmodern era: Full-Spectrum Dominance
 	- New Future era: Rewilding, Stealth
 - Deleted one technology: Plastics Recycling (replaced by Re-Utilization)
+- Added Gauss Cannon (Information era siege unit that upgrades from Rocket Artillery, has less movement but gets a massive bonus when attacking anything, unlocks at Energy Weapons but also requires an Automated Factory, consumes Power instead of Oil)
+- Added Missile Artillery (Information era siege unit that also upgrades from Rocket Artillery, can intercept air units and gets a bonus against Helicopters instead of a penalty, unlocks earier at Advanced Materials, consumes Aluminum and Oil)
 - Added Condenser Cooler (Rediscovering era Water building that boosts Moisture trap yields but requires the city to be working a Moisture trap, consumes Coal to build, and obsoletes late-game)
 - Added Eco-Sanctuary (New Future era Happiness building that requires a Nature preserve and boosts the yields of Nature preserves)
 - Added Oasis Atoll (Decivilized era world wonder that increases the Water income and Naval unit construction speed of the coastal city that owns it)
 - Added Observatory (Rediscovering era Science building that adds Science based on how many Mountains the city can work)
+- Added Shale Extractor (Oil Refinery replacement for Atlas, receives additional Production on Oil tiles and additional copies of Oil resource)
 - Added State Archive (Rediscovering era national wonder that adds Culture and Science based on which luxuries the faction owns)
 - Added Warnet (Postmodern era national wonder that adds +20% Strength to all units but requires building Aerospace Facilities, Armaments Production Lines, Armor Production Lines and Decryption Centers in at least 4 cities each)
 - Added Mountaineer promotion (Special promotion that lets units enter Mountain tiles and makes them take 20 less damage if they end their turn on one)
 - Added Filter pump improvement (Built on Lakes exclusively, improves tile's Water yield by 2)
 - Added Offshore mine improvement
 - Added Tunnel improvement (Built on Mountains exclusively)
-- Added Mountain Tunnel terrain (Artificially created via Tunnel improvement, starts at +1 Production)
+- Added Mountain Tunnel terrain (Artificially created via Tunnel improvement, base yield of 1 Production)
 - Added Cactus luxury resource (Desert tiles only)
 - Added Cobalt luxury resource (Ocean tiles only, revealed by Oceanography)
 - Added Deep-sea Fish bonus resource (Ocean tiles only, revealed by Oceanography)
@@ -119,7 +122,7 @@ Balance Changes:
 - Mechanized Workers can now enter impassable tiles and ignore terrain costs
 - Missile Vehicle and Rocket Artillery receive additional buffs
     - Missile Vehicle now has 55 ranged strength and 200% bonus vs. Armor units, and can carry one Missile
-    - Rocket Artillery now has 45 defense strength and 60 ranged strength
+    - Rocket Artillery gains 5 ranged and defense strength and can upgrade further
     - Hexlock's Gravity Turret now has 60 defense strength and 80 ranged strength
 - Modern Armor has been moved to Full-Spectrum Dominance
 - Moisture traps and Production-to-Water conversion now require Moisture Harvesting
@@ -138,6 +141,7 @@ Balance Changes:
 - Recycling Plant renamed to Advanced Energy Recycling Plant, moved to Energy Weapons, and buffed to give 12 Power
 - Salt tiles now provide +1 Food prior to improvement
 - Siege units now have a 200% combat bonus when attacking cities (previously 100%)
+- Skirmish evade rate reduced from 75% to 50%
 - Stealth Fighter/Bomber have been moved to Stealth technology
 - Several identity wonders have been nerfed
 - Television Studio now gives +2 Culture but costs 2 Water per turn in maintenance
