@@ -9,6 +9,12 @@
 		"Rebel units may spawn <when below [-10] Happiness>",
 		"[-1] Sight <for [Embarked] units>",
 
+		//Replacement uniques for original "Extra starting units for City-States" unique so they still start with extra units but don't get extra settlers in later era game starts
+		"Free [Scout] appears <for [City-States] Civilizations> <upon turn start> <before turn number [1]> <before the [Rebuilding era]>",
+		"Free [Spearman] appears <for [City-States] Civilizations> <upon turn start> <before turn number [1]> <before the [Rebuilding era]>",
+		"Free [Forward Observer] appears <for [City-States] Civilizations> <upon turn start> <before turn number [1]> <starting from the [Rebuilding era]>",
+		"Free [Soldier] appears <for [City-States] Civilizations> <upon turn start> <before turn number [1]> <starting from the [Rebuilding era]>",
+
 		//Difficulty settings missing
 		"[+60]% Strength <for [{non-[Barbarian]} {AI player}] units> <vs [Barbarian] units>",
 		"[+10]% Strength <for [{non-[Barbarian]} {AI player}] units> <vs [Barbarian] units> <on [Chieftain] difficulty>", // These are additive, not multiplicative

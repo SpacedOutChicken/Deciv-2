@@ -23,9 +23,7 @@
 		"aiUnitSupplyModifier": 0,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 10000,
@@ -53,9 +51,7 @@
 		"aiUnitMaintenanceModifier": 0.75,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 60,
@@ -83,9 +79,7 @@
 		"aiUnitMaintenanceModifier": 0.5,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 40,
@@ -113,9 +107,7 @@
 		"aiUnitMaintenanceModifier": 0.35,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
@@ -143,9 +135,7 @@
 		"aiUnitMaintenanceModifier": 0.25,
 		"aiFreeTechs": ["Construction"],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.75,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
@@ -173,9 +163,7 @@
 		"aiUnitMaintenanceModifier": 0.2,
 		"aiFreeTechs": ["Redomestication", "Construction"],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.7,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
@@ -207,9 +195,7 @@
 			"Mining"
 		],
 		"aiMajorCivBonusStartingUnits": ["Era Starting Unit"],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.6,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
@@ -247,9 +233,7 @@
 			"Era Starting Unit",
 			"Era Starting Unit"
 		],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.55,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
@@ -290,9 +274,7 @@
 			"Era Starting Unit",
 			"Era Starting Unit"
 		],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.5,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
@@ -320,9 +302,7 @@
 		"aiUnitMaintenanceModifier": 0.25,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 0.75,
 		"aisExchangeTechs": true,
 		"turnBarbariansCanEnterPlayerTiles": 0,
@@ -352,9 +332,7 @@
 		"aiUnitSupplyModifier": 0.2,
 		"aiFreeTechs": [],
 		"aiMajorCivBonusStartingUnits": [],
-		"aiCityStateBonusStartingUnits": [
-			"Era Starting Unit"
-		],
+		"aiCityStateBonusStartingUnits": [],
 		"aiUnhappinessModifier": 1,
 		"aisExchangeTechs": false,
 		"turnBarbariansCanEnterPlayerTiles": 0,
