@@ -1590,9 +1590,9 @@
 		"unitType": "Shooter",
 		"range": 2,
 		"movement": 2,
-		"strength": 50,
+		"strength": 30,
 		"rangedStrength": 50,
-		"cost": 150,
+		"cost": 205,
 		"requiredTech": "Replaceable Parts",
 		"uniques": [
 			"Personnel",

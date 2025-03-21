@@ -14,7 +14,7 @@ New Content
 - Added Community Garden (Neofeudal era Food building that boosts Great Person spawn rate, replaces Listening Post's old function)
 - Added Domesday Project (Industrial era world wonder that boosts Great Person spawn rate and adds Science + Culture to luxuries worked by the city)
 - Added Earthscraper (Information era building that adds more Food, more City HP, more protection from nukes, +1 population, and +1 of each specialist)
-- Added Earthscraper Project (Information era national wonder that adds Production to active specialists and enables building Earthscrapers)
+- Added Earthscraper Project (Information era national wonder that adds Production to active specialists and enables building Earthscrapers. Will not be available if nukes are disabled)
 - Added Frumentarii Camp (Legion replacement for Listening Post, better spy defense)
 - Added The Green Palace (Rebuilding era world wonder that creates a Factory farm, increases the yields of Factory farms, and increases Happiness in its city)
 
@@ -59,6 +59,7 @@ MISC Changes
 - Added a list of links to all known DeCiv mods
 - Added many missing style sprites along with a proper Afrikan sprite style drawn by ReallyBasicName
 - Bartertown's "declaring war" line was changed from the generic line to a more appropriate quote from Beyond Thunderdome
+- Bunkers can't be built if nukes are disabled
 - Hovercraft is now VTOL Gunship, with a new sprite from The Bucketeer
 - "Identity" UBs (Faction World Wonders + City-State Monuments) now cost 0 Production (previously 1)
 - Purge Robot fake unique has been removed from Purge Robot units
@@ -118,7 +119,7 @@ Balance Changes:
 - Libraries now give +2 Science to worked Books tiles but no Culture
 	- Faction specific replacements no longer have reduced Science, and several have additional distinguishing perks
 - Listening Post has been moved to Radio (Crimson Legion's replacement still unlocks at Civil Service)
-- Machine Guns are now Shooter units, considered Personnel, and start with Logistics
+- Machine Guns are now Shooter units, considered Personnel, and start with Logistics, but cost 205 Production (up from 150) and have only 30 defense strength (down from 50)
 - Mechanized Workers can now enter impassable tiles and ignore terrain costs
 - Missile Vehicle and Rocket Artillery receive additional buffs
     - Missile Vehicle now has 55 ranged strength and 200% bonus vs. Armor units, and can carry one Missile

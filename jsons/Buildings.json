@@ -3034,7 +3034,8 @@
 		"uniques": [
 			"Population loss from nuclear attacks [-75]% [in this city]",
 			"Damage to garrison from nuclear attacks [-75]% [in this city]",
-			"Destroyed when the city is captured"
+			"Destroyed when the city is captured",
+			"Only available <when nuclear weapons are enabled> <hidden from users>"
 		]
 	},
 	{
@@ -3939,7 +3940,8 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"[+1 Production] from every specialist [in all cities]",
-			"Gain a free [Earthscraper] [in this city]"
+			"Gain a free [Earthscraper] [in this city]",
+			"Only available <when nuclear weapons are enabled> <hidden from users>"
 		],
 		"requiredTech": "Advanced Materials",
 		"civilopediaText": [
@@ -3960,6 +3962,7 @@
 			"Consumes [1] [Power]",
 			"Requires at least [15] population",
 			"Only available <if [Earthscraper Project] is constructed>",
+			"Only available <when nuclear weapons are enabled> <hidden from users>",
 			"Unsellable",
 			"Never destroyed when the city is captured"
 		],
