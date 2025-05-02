@@ -706,7 +706,7 @@
 				"uniques": [
 					"[+10]% [Food] from every [Coal Plant]",
 					"[-15]% [Production] from every [Coal Plant]",
-					"[+1 Happiness] from every [Recycling Plant]",
+					"[+1 Happiness] from every [Advanced Energy Recycling Plant]",
 					"[+1 Happiness] from every [Carbon Capture]"
 				],
 				"row": 1,
