@@ -24,6 +24,7 @@
 		"introduction": "A dream. That's all it takes to keep going.",
 		"neutralHello": "Hello.",
 		"hateHello": "What do you want?",
+		"denounced": "We just wanted to help...",
 		"tradeRequest": "We both stand to gain from this.",
 
 		"outerColor": [0, 0, 0],
@@ -85,6 +86,7 @@
 		"introduction": "Hello-o. Anyone to spare for a science experiment?",
 		"neutralHello": "Yeah?",
 		"hateHello": "Quite an interesting person...",
+		"denounced": "An acceptable risk in new world industry.",
 		"tradeRequest": "This Shipment was brought to you by Hexlock Technologies.",
 		
 		"outerColor": [64, 8, 114],
@@ -148,6 +150,7 @@
 		"introduction": "So, you have returned! While the world died, what hole did you hide in? The cities you left behind are our inheritance.",
 		"neutralHello": "I speak for the Children.",
 		"hateHello": "What will it take? When the last tree has burned and the last child has starved, will you then be satisfied, great leader?",
+		"denounced": "The forked tongue of your ancestors has shown itself in you.",
 		"afterPeace": "Viracocha has frowned upon our war, and has agreed to our peace agreements.",
 		"tradeRequest": "This is the property now of the Children. What price will you pay?",
 
@@ -221,6 +224,7 @@
 		"introduction": "You've reached the office of Eric Price, VP of mergers and acquisitions, Blackwarden, incorporated. Here at Blackwarden, the comfort and security of our shareholders is our number one priority.",
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",
+		"denounced": "Heh. We'll just beat you up harder.",
 		"tradeRequest": "This is a great opportunity for you. It would be unwise to refuse.",
 
 		"outerColor": [100, 170, 210],
@@ -293,6 +297,7 @@
 		"introduction": "I'm John Kruger, CEO of the Atlas Corporation. I thought we were the sole outpost of civilization in a world ruled by barbarism.",
 		"neutralHello": "This is John Kruger speaking.",
 		"hateHello": "I do not share your evil or sink to your concept of morality.",
+		"denounced": "You stand in the way of progress, and that makes you a threat to the future of humanity.",
 		"tradeRequest": "Free trade is the only fair trade.",
 
 		"outerColor": [0, 255, 255],
@@ -367,6 +372,7 @@
 		"introduction": "Welcome to the Commonwealth. I am the elected President, Estelle Hawkins. Take heart. Together, we can rebuild our civilization.",
 		"neutralHello": "Welcome.",
 		"hateHello": "Greetings.",
+		"denounced": "I'm sorry you feel that way, but what's done is done.",
 		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
 
 		"outerColor": [255, 255, 255],
@@ -449,6 +455,7 @@
 		"introduction": "This is General Cameron of the Army. A state of emergency is currently in effect across the nation. Military authorities are authorized to summarily enforce order, in accordance with martial law. Maintain your shelters and await further instructions.",
 		"neutralHello": "A water tax of 25% is in place for all municipalities to support disaster relief efforts and the restoration of government.",
 		"hateHello": "A special water tax rate of 33% is in place for your municipality. You are additionally required to surrender all military weapons.",
+		"denounced": "Those are seditious words you're saying.",
 		"tradeRequest": "The Emergency Management Agency has prepared this aid package for your district.",
 
 		"outerColor": [40, 178, 0],
@@ -528,6 +535,7 @@
 			"I beg your pardon?"
 		],
 		"hateYes": ["That is fine.", "That is good enough.", "Very well..."],
+		"denounced": "Hey, no one insults us like that!",
 		"afterPeace": "Alright, let's settle down and try to get along.",
 		"tradeRequest": "Let's make a fair trade, as equals.",
 
@@ -600,6 +608,7 @@
 		"introduction": "Greetings from the Deadrock Clan, and its Great Father Karl. Just a friendly reminder: Never touch our secrets, never mess with us, or you'll be dead in no time.",
 		"neutralHello": "This is the encrypted channel of Deadrock Clan.",
 		"hateHello": "You're on our blacklist now. Think twice before you want to do anything with my Clan.",
+		"denounced": "I'd be careful if I were you. Accidents happen, you know...",
 		"tradeRequest": "Let's talk about some business affairs.",
 
 		"outerColor": [92, 32, 92],
@@ -667,6 +676,7 @@
 		"introduction": "Hail. I am Caesar, son of Mars, Consul of the Crimson Legion. Have you come to pay tribute?",
 		"neutralHello": "Hail.",
 		"hateHello": "Your misplaced ideals make you weak.",
+		"denounced": "Do not think that I, Caesar, will allow you to get away with this.",
 		"tradeRequest": "I offer this, for your consideration.",
 
 		"outerColor": [153, 5, 3],
@@ -747,6 +757,7 @@
 		"introduction": "The sybil has foreseen this meeting! I am Martina, Ignitor and High Priest. I serve the Divine Engine, and so too shall you.",
 		"neutralHello": "In the name of the trinity, I permit your words be heard.",
 		"hateHello": "You risk the wrath of the Flame.",
+		"denounced": "You have a mouth that spews smoke.",
 		"tradeRequest": "You may yet serve the Engine...",
 
 		"outerColor": [255, 150, 0],
@@ -825,6 +836,7 @@
 		"introduction": "Ahoy! We are the Mariners, and we've come to reclaim the dry land from the lot of you.",
 		"neutralHello": "Greetings, land dweller.",
 		"hateHello": "What do you want?",
+		"denounced": "Feisty, aren't 'cha?",
 		"tradeRequest": "We've got the finest goods that the sea can offer! What do you say?",
 
 		"outerColor": [51, 25, 0],
@@ -890,6 +902,7 @@
 		"introduction": "I am Mutulu, and we are New Afrika. We are here to rebuild this broken world.",
 		"neutralHello": "Greetings.",
 		"hateHello": "What the hell do you want?",
+		"denounced": "This insult to New Afrika will not slide.",
 		"tradeRequest": "Let's make a fair trade, as equals.",
 
 		"outerColor": [120, 120, 50],
@@ -972,7 +985,8 @@
 	
 		"neutralHello": "Hello!",
 		"hateHello": "What do you need?!",
-	
+
+		"denounced": "We're used to being ostracized.",
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
 	
 		"outerColor": [34,52,52],
@@ -1018,6 +1032,7 @@
 		"introduction": "I am Modu, leader of the Hunnu, uniter of clans. Come join with us.",
 		"neutralHello": "Hello.",
 		"hateHello": "So what now?",
+		"denounced": "I must commend you for your courage.",
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
 	
 		"outerColor": [81,0,9],
@@ -1053,7 +1068,8 @@
 	
 		"neutralHello": "I wish you peace.",
 		"hateHello": "What do you want?",
-	
+
+		"denounced": "Cease this infantile postering.",
 		"tradeRequest": "My friend, are you interested in this arrangement?",
 	
 		"outerColor": [255, 163, 71],
