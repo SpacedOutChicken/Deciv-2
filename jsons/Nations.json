@@ -25,6 +25,7 @@
 		"neutralHello": "Hello.",
 		"hateHello": "What do you want?",
 		"denounced": "We just wanted to help...",
+		"declaringFriendship": "Us survivors have to stick together, yeah?",
 		"tradeRequest": "We both stand to gain from this.",
 
 		"outerColor": [0, 0, 0],
@@ -87,6 +88,7 @@
 		"neutralHello": "Yeah?",
 		"hateHello": "Quite an interesting person...",
 		"denounced": "An acceptable risk in new world industry.",
+		"declaringFriendship": "Ooh, you're an interesting one! Want to be my lab partner?",
 		"tradeRequest": "This Shipment was brought to you by Hexlock Technologies.",
 		
 		"outerColor": [64, 8, 114],
@@ -152,6 +154,7 @@
 		"hateHello": "What will it take? When the last tree has burned and the last child has starved, will you then be satisfied, great leader?",
 		"denounced": "The forked tongue of your ancestors has shown itself in you.",
 		"afterPeace": "Viracocha has frowned upon our war, and has agreed to our peace agreements.",
+		"declaringFriendship": "You've proven your trustworthiness. Let us share the peace pipe, and let the spirits bear witness.",
 		"tradeRequest": "This is the property now of the Children. What price will you pay?",
 
 		"outerColor": [116, 67, 5],
@@ -225,6 +228,7 @@
 		"neutralHello": "Greetings!",
 		"hateHello": "What?",
 		"denounced": "Heh. We'll just beat you up harder.",
+		"declaringFriendship": "Nice to see another tough face in the wasteland. You have the balls, I can tell.",
 		"tradeRequest": "This is a great opportunity for you. It would be unwise to refuse.",
 
 		"outerColor": [100, 170, 210],
@@ -298,6 +302,7 @@
 		"neutralHello": "This is John Kruger speaking.",
 		"hateHello": "I do not share your evil or sink to your concept of morality.",
 		"denounced": "You stand in the way of progress, and that makes you a threat to the future of humanity.",
+		"declaringFriendship": "You are a prime example of a thriving civilization. I'd like to seek closer relations.",
 		"tradeRequest": "Free trade is the only fair trade.",
 
 		"outerColor": [0, 255, 255],
@@ -373,6 +378,7 @@
 		"neutralHello": "Welcome.",
 		"hateHello": "Greetings.",
 		"denounced": "I'm sorry you feel that way, but what's done is done.",
+		"declaringFriendship": "Glad to see another friendly face in the wasteland.",
 		"tradeRequest": "Greetings. I believe this is a fair proposal for both parties. What do you think?",
 
 		"outerColor": [255, 255, 255],
@@ -456,6 +462,7 @@
 		"neutralHello": "A water tax of 25% is in place for all municipalities to support disaster relief efforts and the restoration of government.",
 		"hateHello": "A special water tax rate of 33% is in place for your municipality. You are additionally required to surrender all military weapons.",
 		"denounced": "Those are seditious words you're saying.",
+		"declaringFriendship": "You have been chosen as an example of a model citizen. Additional perks will be granted to your household. Stand proud, citizen.",
 		"tradeRequest": "The Emergency Management Agency has prepared this aid package for your district.",
 
 		"outerColor": [40, 178, 0],
@@ -536,6 +543,7 @@
 		],
 		"hateYes": ["That is fine.", "That is good enough.", "Very well..."],
 		"denounced": "Hey, no one insults us like that!",
+		"declaringFriendship": "I can see we'll make good neighbors.",
 		"afterPeace": "Alright, let's settle down and try to get along.",
 		"tradeRequest": "Let's make a fair trade, as equals.",
 
@@ -609,6 +617,7 @@
 		"neutralHello": "This is the encrypted channel of Deadrock Clan.",
 		"hateHello": "You're on our blacklist now. Think twice before you want to do anything with my Clan.",
 		"denounced": "I'd be careful if I were you. Accidents happen, you know...",
+		"declaringFriendship": "Won't we discuss our plans together, friend? That is, if you're willing to become our dearest friend...",
 		"tradeRequest": "Let's talk about some business affairs.",
 
 		"outerColor": [92, 32, 92],
@@ -677,6 +686,7 @@
 		"neutralHello": "Hail.",
 		"hateHello": "Your misplaced ideals make you weak.",
 		"denounced": "Do not think that I, Caesar, will allow you to get away with this.",
+		"declaringFriendship": "You have earned the favor of Caesar. Stand proudly as a friend of the Legion.",
 		"tradeRequest": "I offer this, for your consideration.",
 
 		"outerColor": [153, 5, 3],
@@ -758,6 +768,7 @@
 		"neutralHello": "In the name of the trinity, I permit your words be heard.",
 		"hateHello": "You risk the wrath of the Flame.",
 		"denounced": "You have a mouth that spews smoke.",
+		"declaringFriendship": "The fire of the Engine rises in you! May we ride together, chrome and eternal.",
 		"tradeRequest": "You may yet serve the Engine...",
 
 		"outerColor": [255, 150, 0],
@@ -837,6 +848,7 @@
 		"neutralHello": "Greetings, land dweller.",
 		"hateHello": "What do you want?",
 		"denounced": "Feisty, aren't 'cha?",
+		"declaringFriendship": "There be plenty of fish in the sea, but a good friend like you is hard to find.",
 		"tradeRequest": "We've got the finest goods that the sea can offer! What do you say?",
 
 		"outerColor": [51, 25, 0],
@@ -903,6 +915,7 @@
 		"neutralHello": "Greetings.",
 		"hateHello": "What the hell do you want?",
 		"denounced": "This insult to New Afrika will not slide.",
+		"declaringFriendship": "Rejoice, for New Afrika considers you as a friend.",
 		"tradeRequest": "Let's make a fair trade, as equals.",
 
 		"outerColor": [120, 120, 50],
@@ -987,6 +1000,8 @@
 		"hateHello": "What do you need?!",
 
 		"denounced": "We're used to being ostracized.",
+		"declaringFriendship": "Thank you for caring. We shall not forget your kindness.",
+
 		"tradeRequest": "How would you like it if I propose this kind of exchange?",
 	
 		"outerColor": [34,52,52],
@@ -1033,6 +1048,7 @@
 		"neutralHello": "Hello.",
 		"hateHello": "So what now?",
 		"denounced": "I must commend you for your courage.",
+		"declaringFriendship": "The wasteland will tremble once they learn we ride together.",
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
 	
 		"outerColor": [81,0,9],
@@ -1070,6 +1086,8 @@
 		"hateHello": "What do you want?",
 
 		"denounced": "Cease this infantile postering.",
+		"declaringFriendship": "You've helped us in this wasteland, now let us elevate you to the stars.",
+
 		"tradeRequest": "My friend, are you interested in this arrangement?",
 	
 		"outerColor": [255, 163, 71],
