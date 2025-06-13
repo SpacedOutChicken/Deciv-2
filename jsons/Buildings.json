@@ -3072,7 +3072,7 @@
 		"happiness": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"[-25]% enemy spy effectiveness [in this city]",
 			"Only available <in cities without a [Prison Camp]>",
 			"Destroyed when the city is captured",
@@ -3088,7 +3088,7 @@
 		"happiness": 1,
 		"hurryCostModifier": 25,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"[-33]% enemy spy effectiveness [in this city]",
 			"Only available <in cities without a [Prison Camp]>",
 			"Destroyed when the city is captured",
@@ -3125,7 +3125,7 @@
 		"food": -1,
 		"cost": 20,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"Provides [1] [Slaves]",
 			"Only available <in cities without a [Listening Post]>",
@@ -3141,7 +3141,7 @@
 		"maintenance": 1,
 		"cost": 50,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"Only available <in cities without a [Listening Post]>",
 			"Destroyed when the city is captured"
@@ -3156,7 +3156,7 @@
 		"percentStatBonus": { "food": -25 },
 		"cost": 15,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"Provides [4] [Slaves]",
 			"Only available <in cities without a [Arena]>",
@@ -3174,7 +3174,7 @@
 		"cityHealth": 50,
 		"uniques": [
 			"[+15]% Production when constructing [Melee] units [in this city]",
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"Provides [3] [Slaves]",
 			"Free [Auxiliary] appears",
@@ -3191,7 +3191,7 @@
 		"maintenance": 1,
 		"cost": 50,
 		"uniques": [
-			"Remove extra unhappiness from annexed cities",
+			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
 			"Only available <in cities without a [Listening Post]>",
 			"Destroyed when the city is captured"
