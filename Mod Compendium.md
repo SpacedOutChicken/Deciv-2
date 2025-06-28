@@ -21,6 +21,7 @@
 - [Followers of the Green for DeCiv](https://github.com/carriontrooper/Followers-of-the-Green-for-Deciv) (WIP, faction pack focused on naturalist / solarpunk / biotech themes)
 - [Forgotten Factions for DeCiv](https://github.com/carriontrooper/Forgotten-Factions-for-Deciv) (A collection of factions from other users' expansion mods that were ultimately abandoned and revived here, though some had to be built from scratch. Current number of factions resurrected or reimagined: 11.)
 - [F.O.T.A. Deciv Mod](https://github.com/Mradypta1/F.O.T.A-Deciv-Mod)
+- [Fractured Nations Deciv 2](https://github.com/RealBamboolord/Fractured-Nations-Deciv-2) (WIP mod from Bamboolord, currently includes one nation: the Geneva Union. Requires Deciv 2)
 - [Free Cities to DeCiv](https://github.com/Inkognito-secret/Free-Cites-to-DeCiv) (Includes one faction: Svobodnie Goroda, the "Free Cities Conference")
 - [Kingdom of DeCiv](https://github.com/EPG333/Kingdom-of-Deciv) (Includes one faction, the very appropriately named Forgotten Kingdom)
 - [Lights, Camera, Destruction](https://github.com/PAFR2003/LightsCameraDestruction) (Includes two factions, Reactorland and Red Lotus Society)
