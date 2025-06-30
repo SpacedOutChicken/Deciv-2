@@ -12,7 +12,7 @@
 - [Canal DeCiv v2](https://github.com/fabi0M/CANAL_DECIV_V2) (I see someone was experimenting with terraforming features to make a canal mod)
 - [Communism on Wasteland](https://github.com/chenxing61/Communism-on-Wasteland) (Technically hasn't been updated for a while, but the owner is active and likely will update as needed)
 - [CS Rework for DeCiv](https://github.com/the-s-is-silent/CS-Rework-for-DeCiv) (If you're among the rare few who wanted Civ 6's Suzerainty bonuses added to DeCiv's City-States, then this is the mod for you. Warning: this mod does not seem to work consistently.)
-- [DeCiv Nation](https://github.com/EmperorVboiuerfg/Deciv-Nation)
+- [DeCiv Nation (Original Version)](https://github.com/the-s-is-silent/Deciv-Nation-Original-Version) (A fork of the "Deciv Nation" mod that maintains and overhauls the original version of its "playable city-state faction")
 - [DeCiv Reborn Soviet Russia](https://github.com/SovSteelDragon/DeCiv-Reborn-Soviet-Russia) (Yep, we have another Soviet mod for DeCiv, this time with all the flavor text in Russian. Appears to be a WIP)
 - [DeCiv Unit Limiting](https://github.com/Calais-Osterrepublic/DeCiv-Unit-Limiting) (A difficulty mod putting stricter caps on how many military units you can have at any given time.)
     - Also has alternate versions:
@@ -40,6 +40,7 @@
 #### Inactive (or Abandoned) Expansion/Rebalance Mods
 - [Dandelion](https://github.com/PAFR2003/Dandelion) (Revived by Indonesian Gentleman in "Forgotten Factions for DeCiv")
 - [DeCiv: Return of the Middle Kingdom](https://github.com/Jinmjjjhrf/Deciv-Return-of-the-Middle-Kingdom) (An unfortunately abandoned expansion mod that would have focused on post-Cataclysm faction warfare in China. The two factions present at the time of abandonment were revived by Indonesian Gentleman in "Forgotten Factions for DeCiv")
+- [DeCiv Nation](https://github.com/EmperorVboiuerfg/Deciv-Nation) (Has not been updated in several months and had problems in pretty much every iteration)
 - [DeCiv Redux addOn](https://github.com/TheresNoLama/DeCiv-Redux-addOn) (Yes, this is the same person who forked the "Communism on Wasteland" mod and made it more OP. Who was attempting to make their own more proper expansion mod now, though they're certainly likely to end up violating a lot of lore in the process should they come back and flesh this out more.)
 - [DeCiv Redux Fairplay Mod](https://github.com/Monokiro/Deciv-Redux-Fairplay-Mod)
 - [DeCiv Redux Plus](https://github.com/kudcrafts/DeCiv-Redux-Plus) (This fork was attempting to revert terrain/resources and other stuff back to the Unciv Gods & Kings ruleset and has not been updated in over two years)
