@@ -48,7 +48,7 @@ CityStateIcons/Trading
   index: -1
 CityStateIcons/Weapons
   rotate: false
-  xy: 1300, 370
+  xy: 1408, 478
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -135,34 +135,6 @@ ImprovementIcons/VX Refinery
   xy: 1154, 910
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Circle
-  rotate: false
-  xy: 212, 832
-  size: 178, 178
-  orig: 178, 178
-  offset: 0, 0
-  index: -1
-ConstructionIcons/Circle
-  rotate: false
-  xy: 212, 832
-  size: 178, 178
-  orig: 178, 178
-  offset: 0, 0
-  index: -1
-ResourceIcons/Circle
-  rotate: false
-  xy: 212, 832
-  size: 178, 178
-  orig: 178, 178
-  offset: 0, 0
-  index: -1
-StatIcons/Circle
-  rotate: false
-  xy: 212, 832
-  size: 178, 178
-  orig: 178, 178
   offset: 0, 0
   index: -1
 ImprovementIcons/Crystal Refinery
@@ -881,9 +853,37 @@ ResourceIcons/VX
   index: -1
 ResourceIcons/Weapons
   rotate: false
-  xy: 1408, 478
+  xy: 1300, 370
   size: 100, 100
   orig: 100, 100
+  offset: 0, 0
+  index: -1
+StatIcons/Circle
+  rotate: false
+  xy: 212, 832
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Circle
+  rotate: false
+  xy: 212, 832
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Circle
+  rotate: false
+  xy: 212, 832
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+ResourceIcons/Circle
+  rotate: false
+  xy: 212, 832
+  size: 178, 178
+  orig: 178, 178
   offset: 0, 0
   index: -1
 StatIcons/Faith
