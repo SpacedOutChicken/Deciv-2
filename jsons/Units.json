@@ -1071,7 +1071,7 @@
 		"uniques": [
 			"Personnel",
 			"Never appears as a Barbarian unit",
-			"May Paradrop up to [4] tiles from inside friendly territory",
+			"May Paradrop to [Land] tiles up to [4] tiles away <in [{Friendly} {Land}] tiles>",
 			"Only available <if [Automated Factory] is constructed>",
 			"Consumes [2] [Weapons]"
 		],
@@ -1298,7 +1298,7 @@
 		"uniques": [
 			"Personnel",
 			"Only available <if [Automated Factory] is constructed>",
-			"May Paradrop up to [4] tiles from inside friendly territory",
+			"May Paradrop to [Land] tiles up to [4] tiles away <in [{Friendly} {Land}] tiles>",
 			"Consumes [2] [Weapons]",
 			"Never appears as a Barbarian unit"
 		],
@@ -1436,7 +1436,7 @@
 		"obsoleteTech": "Avionics",
 		"uniques": [
 		    "Personnel",
-			"May Paradrop up to [4] tiles from inside friendly territory",
+			"May Paradrop to [Land] tiles up to [4] tiles away <in [{Friendly} {Land}] tiles>",
 			"Consumes [1] [Weapons]",
 			"Never appears as a Barbarian unit"
 			],
@@ -1454,7 +1454,7 @@
 		"uniques": [
 		    "Personnel",
 			"No movement cost to pillage",
-			"May Paradrop up to [10] tiles from inside friendly territory",
+			"May Paradrop to [Land] tiles up to [10] tiles away <in [{Friendly} {Land}] tiles>",
 			"Consumes [1] [Weapons]",
 			"Never appears as a Barbarian unit",
 			"Only available <if [Factory] is constructed>"
@@ -1475,7 +1475,7 @@
 		"uniques": [
 		    "Personnel",
 			"No movement cost to pillage",
-			"May Paradrop up to [8] tiles from inside friendly territory",
+			"May Paradrop to [Land] tiles up to [8] tiles away <in [{Friendly} {Land}] tiles>",
 			"Consumes [1] [Weapons]",
 			"Only available <if [Factory] is constructed>"
 			],
@@ -1492,7 +1492,7 @@
 		"uniques": [
 		    "Personnel",
 			"No movement cost to pillage",
-			"May Paradrop up to [30] tiles from inside friendly territory",
+			"May Paradrop to [Land] tiles up to [30] tiles away <in [{Friendly} {Land}] tiles>",
 			"Consumes [2] [Weapons]",
 			"Never appears as a Barbarian unit",
 			"Only available <if [Automated Factory] is constructed>"
