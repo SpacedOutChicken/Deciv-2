@@ -71,6 +71,7 @@
 				"name": "Writing",
 				"row": 5,
 				"prerequisites": ["Secrets of the Past"],
+				"uniques": ["Enables establishment of embassies"],
 				"quote": "'And the things which shall be written out of the book shall be of great worth unto the children of men...' - The Book of Mormon, 2 Nephi 28:2"
 			},
 			{
