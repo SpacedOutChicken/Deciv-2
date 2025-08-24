@@ -346,9 +346,9 @@
 		"uniqueTo": "The Patriots",
 		"replaces": "Scout",
 		"movement": 2,
-		"strength": 10,
+		"strength": 20,
 		"interceptRange": 1,
-		"cost": 25,
+		"cost": 40,
 		"upgradesTo": "Militia",
 		"hurryCostModifier": 20,
 		"obsoleteTech": "Rifling",
@@ -990,8 +990,9 @@
 		"hurryCostModifier": 20,
 		"uniques": [
 			"Personnel",
-			"Only available <if [Armory] is constructed>",
-			"Consumes [1] [Weapons]"
+			"Only available <if [National Guard Armory] is constructed>",
+			"Consumes [1] [Weapons]",
+			"[-30]% production cost <after discovering [Replaceable Parts]>"
 		],
 		"promotions": ["Amphibious", "Gas Mask"],
 		"attackSound": "machinegun"
@@ -1010,7 +1011,8 @@
 		"uniques": [
 			"Personnel",
 			"Only available <if [Grand Clan Manor] is constructed>",
-			"Consumes [1] [Weapons]"
+			"Consumes [1] [Weapons]",
+			"[-40]% production cost <after discovering [Replaceable Parts]>"
 		],
 		"promotions": ["Gas Mask", "Reconnaissance I"],
 		"hurryCostModifier": 25,
@@ -1217,9 +1219,10 @@
 		"requiredTech": "The Wheel",
 		"uniques": [
 			"Personnel",
-			"Only available <if [Armory] is constructed>",
+			"Only available <if [National Guard Armory] is constructed>",
 			"[-25]% Strength <before discovering [Replaceable Parts]>",
-			"Consumes [1] [Weapons]"
+			"Consumes [1] [Weapons]",
+			"[-60]% production cost <after discovering [Replaceable Parts]>"
 		],
 		"promotions": ["Reconnaissance I", "Amphibious", "Ambush", "Gas Mask"],
 		"attackSound": "machinegun"

@@ -56,6 +56,7 @@ Buildings:
 * Mobile Encampment: [camp](https://thenounproject.com/icon/camp-3242188/) by Vectors Point, PK
 * Moonshinery: [Moonshine](https://thenounproject.com/icon/moonshine-1923/) by Andrew Nielsen, AU
 * Naadam Square: [arena](https://thenounproject.com/icon/arena-5746074/) by Icons Cart, PK
+* National Guard Armory: [Armory](https://thenounproject.com/icon/armory-1922927/) by Dolly Holmes, US
 * Oasis Atoll: [paradise island](https://thenounproject.com/icon/paradise-island-2626825/) by Nicole Hammonds, US
 * Open the Vault: [Cave](https://thenounproject.com/icon/cave-1842205/) by Bakunetsu Kaito
 * Pit of Sacrifice: [Mass Grave](https://thenounproject.com/icon/mass-grave-75126/) by Dan Hetteix, US

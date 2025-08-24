@@ -3243,6 +3243,19 @@
 		]
 	},
 	{
+		"name": "National Guard Armory",
+		"replaces": "Armory",
+		"uniqueTo": "The Patriots",
+		"hurryCostModifier": 25,
+		"requiredTech": "Construction",
+		"uniques": [
+			"New [Military] units start with [15] XP [in this city]",
+			"[+1 Production] from [Weapons] tiles [in this city]",
+			"Must have an owned [{improved} {Weapons}] within [3] tiles <before discovering [Hoplology]>",
+			"Destroyed when the city is captured"
+		]
+	},
+	{
 		"name": "Military Academy",
 		"isNationalWonder": true,
 		"hurryCostModifier": 25,
@@ -3770,7 +3783,7 @@
 			"[+10]% Strength <for [Automated] units>",
 			"Consumes [1] [Power]"
 		],
-		"requiredTech": "Electronics"
+		"requiredTech": "Hoplology"
 	},
 	{
 		"name": "Aerospace Facility",

@@ -86,12 +86,13 @@ New Content:
 - Added Missile Artillery (Information era siege unit that also upgrades from Rocket Artillery, can intercept air units and gets a bonus against Helicopters instead of a penalty, unlocks earier at Advanced Materials, consumes Aluminum and Oil)
 - Added Condenser Cooler (Rediscovering era Water building that boosts Moisture trap yields but requires the city to be working a Moisture trap, consumes Coal to build, and obsoletes late-game)
 - Added Eco-Sanctuary (New Future era Happiness building that requires a Nature preserve and boosts the yields of Nature preserves)
+- Added National Guard Armory (Armory replacement for The Patriots that remains available at Construction but requires a worked Weapons tile before Hoplology is discovered, effectively reimplementing Redux's Armory exclusively for them)
 - Added Oasis Atoll (Decivilized era world wonder that increases the Water income and Naval unit construction speed of the coastal city that owns it)
 - Added Observatory (Rediscovering era Science building that adds Science based on how many Mountains the city can work)
 - Added Shale Extractor (Oil Refinery replacement for Atlas, receives additional Production on Oil tiles and additional copies of Oil resource)
 - Added State Archive (Rediscovering era national wonder that adds Culture and Science based on which luxuries the faction owns)
 - Added Warnet (Postmodern era national wonder that adds +20% Strength to all units but requires building Aerospace Facilities, Armaments Production Lines, Armor Production Lines and Decryption Centers in at least 4 cities each)
-- Added Mountaineer promotion (Special promotion that lets units enter Mountain tiles and makes them take 20 less damage if they end their turn on one)
+- Added Mountaineer promotion (Special promotion that lets units enter Mountain tiles)
 - Added Filter pump improvement (Built on Lakes exclusively, improves tile's Water yield by 2)
 - Added Offshore mine improvement
 - Added Tunnel improvement (Built on Mountains exclusively)
@@ -105,11 +106,12 @@ Balance Changes:
 - The AI now plays on a special difficulty, gets even more bonuses the player doesn't have, and is thus even harder to defeat
 - Aerospace Facility no longer penalizes city Production, but now has a maintenance cost of 3
 - Armaments Production Line no longer penalizes city Production, but also no longer gives a free Armory (it now *requires* an Armory) and has a maintenance cost of 3
-- Armor Production Line no longer penalizes city Production and unlocks a new promotion, but also no longer gives a free Tank, its Production boost to Armor units is reduced to 33%, and it has a maintenance cost of 3
+- Armor Production Line no longer penalizes city Production, but also no longer gives a free Tank, its Production boost to Armor units is reduced to 33%, and it has a maintenance cost of 3
 - Armory moved to Hoplology and no longer requires a worked Weapons tile
 - Artificial glaciers and Moisture traps can now be placed on Mountains
 - Biosphere Project moved to Atmosphere Remediation
 - Bomb Shelter (and replacements) now give +3 Water per turn instead of +1
+- Certain faction UUs that unlock earlier than normal but have increased Production cost (Black Hand, Marine, Spec Ops) now have their Production cost reduced once the player discovers the tech the units they replace normally need
 - Chemical Extractor no longer has a resource requirement or Culture penalty
 - Crystal Carrier gains +10 to defense and ranged strength
 - Data Center nerfed to +5 Science instead of +50% Science (Hexlock's version nerfed to +8 instead of +65%), but now adds +4 Science to worked Data and Encrypted Data tiles
@@ -134,6 +136,7 @@ Balance Changes:
 - Nature preserves moved to Rewilding
 - Plankton is now a bonus resource
 - Plastics Reprocessor moved to Re-Utilization
+- Privates now have 20 Strength and cost 40 Production (previously 10 Strength and 25 Production) to acknowledge that they function as Spearmen instead of Scouts for the Patriots
 - Public Broadcast now costs 500 Production (previously 100, which was way too low)
 - Public Schools (and replacements) no longer provide a scaling Culture yield, and the scaling Science yield is adjusted to 1 per 2 population and is delayed until Networking is discovered
 - Purge Robots are now standalone units
@@ -145,6 +148,7 @@ Balance Changes:
 - Skirmish evade rate reduced from 75% to 50%
 - Stealth Fighter/Bomber have been moved to Stealth technology
 - Several identity wonders have been nerfed
+- Tactics Center moved from Electronics to Hoplology
 - Television Studio now gives +2 Culture but costs 2 Water per turn in maintenance
 - The gold to science slider has been removed, and the Science costs of all technologies have been reduced accordingly
 - Unit embarking now unlocks at Optics instead of Sailing
