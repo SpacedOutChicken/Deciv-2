@@ -10,6 +10,7 @@
 - [A New Dawn](https://github.com/ReallyBasicName/A-New-Dawn) (WIP, will add several factions once finished)
 - [Bamboo DeCiv Expans](https://github.com/RealBamboolord/Bamboo-Deciv-Expans) and its companion [TCC-beta](https://github.com/NotBamboolord/TCC-beta) (A bit of trivia here: Bamboolord's main DeCiv mod is the second oldest known DeCiv expansion mod on Github, with only Elysium having existed for longer. Not compatible with Deciv 2)
 - [Canal DeCiv v2](https://github.com/fabi0M/CANAL_DECIV_V2) (I see someone was experimenting with terraforming features to make a canal mod)
+- [Citrarii for DeCiv 2](https://github.com/4xAsh1/Citrarii-for-Deciv-2) (WIP mod with one Mega-Corp-type faction)
 - [Communism on Wasteland](https://github.com/chenxing61/Communism-on-Wasteland) (Technically hasn't been updated for a while, but the owner is active and likely will update as needed)
 - [CS Rework for DeCiv](https://github.com/the-s-is-silent/CS-Rework-for-DeCiv) (If you're among the rare few who wanted Civ 6's Suzerainty bonuses added to DeCiv's City-States, then this is the mod for you. Warning: this mod does not seem to work consistently.)
 - [DeCiv Nation (Original Version)](https://github.com/the-s-is-silent/Deciv-Nation-Original-Version) (A fork of the "Deciv Nation" mod that maintains and overhauls the original version of its "playable city-state faction")
@@ -23,6 +24,7 @@
 - [F.O.T.A. Deciv Mod](https://github.com/Mradypta1/F.O.T.A-Deciv-Mod)
 - [Fractured Nations Deciv 2](https://github.com/RealBamboolord/Fractured-Nations-Deciv-2) (WIP mod from Bamboolord, currently includes one nation: the Geneva Union. Requires Deciv 2)
 - [Free Cities to DeCiv](https://github.com/Inkognito-secret/Free-Cites-to-DeCiv) (Includes one faction: Svobodnie Goroda, the "Free Cities Conference")
+- [The Great Martian War DeCiv](https://github.com/Calais-Osterrepublic/The-Great-Martian-War-Deciv) (Adds Barbarian-exclusive alien units and War of the Worlds-themed events to DeCiv)
 - [Kingdom of DeCiv](https://github.com/EPG333/Kingdom-of-Deciv) (Includes one faction, the very appropriately named Forgotten Kingdom)
 - [Lights, Camera, Destruction](https://github.com/PAFR2003/LightsCameraDestruction) (Includes two factions, Reactorland and Red Lotus Society)
 - [Order of Dagon for DeCiv](https://github.com/ReallyBasicName/Order-of-Dagon-for-Deciv) (Self-explanatory, bit of a WIP)
@@ -36,6 +38,7 @@
     - Attempt #2: [The Mechanized, Derusted](https://github.com/EPG333/The-Mechanized-Derusted)
 - [VividVale Decivilised](https://github.com/BennieCUBED/VividVale-Decivilised) (Umm...okay. This is a thing.)
 - [Wasteland Happenings](https://github.com/the-s-is-silent/Wasteland-Happenings) (Adds random events, some of which significantly increase game difficulty. Also includes all of the Barbarian units added to Outlaws of the Wastes along with a few other units.)
+- [Zombie Mechanics for DeCiv](https://github.com/carriontrooper/Zombie-Survivors-for-DeCiv) (Okay, so, yeah, this exists.)
 
 #### Inactive (or Abandoned) Expansion/Rebalance Mods
 - [Dandelion](https://github.com/PAFR2003/Dandelion) (Revived by Indonesian Gentleman in "Forgotten Factions for DeCiv")
@@ -57,6 +60,7 @@
 - [SeventhM's DeCiv Redux Reworked](https://github.com/SeventhM/Deciv-Redux-Reworked) (A full Rekmod-style overhaul of DeCiv Redux, however this mod removes more content than it adds)
 
 #### Blatantly Overpowered Cheat Mods
+- [DeCheat](https://github.com/ZacTheCatlover/DeCheat) (Specifically requires Redux)
 - [DeCiv Unbalanced](https://github.com/the-s-is-silent/DeCiv-Unbalanced)
 - [DeCiv USSR](https://github.com/Doomstar00/DeCiv-USSR)
 
