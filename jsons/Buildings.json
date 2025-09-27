@@ -1232,7 +1232,7 @@
 		"happiness": 4,
 		"greatPersonPoints": {"Great Engineer": 1},
 		"uniques": [
-			"Creates a [Factory farm] improvement on a specific tile",
+			"Free [Great Farmer] appears",
 			"[+4 Food] from every [Factory farm]"
 		],
 		"requiredTech": "Ecotheory",
