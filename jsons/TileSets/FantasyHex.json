@@ -184,6 +184,13 @@
 		"Wasteland+Cattle+Survivor camp": ["Wasteland", "Survivor camp", "Cattle"],
 		"Coast+Oil+Oil well": ["Coast", "Oil", "Offshore Platform"],
 		"Ocean+Oil+Oil well": ["Ocean", "Oil", "Offshore Platform"],
+		//Mountainous
+		"Mountain+Moisture trap": ["Mountain", "Moisture trap-Mountain"],
+		"Mountain+Artificial glacier": ["Mountain", "Artificial glacier-Mountain"],
+		"Mountain Tunnel+Moisture trap": ["Mountain Tunnel", "Moisture trap-Mountain"],
+		"Mountain Tunnel+Artificial glacier": ["Mountain Tunnel", "Artificial glacier-Mountain"],
+		"Mountain+Shroud Generator": ["Mountain", "Shroud Generator-Mountain"],
+		"Mountain Tunnel+Shroud Generator": ["Mountain Tunnel", "Shroud Generator-Mountain"]
 		//Deciv Tile Improvements
 		//Salvage site
 		"Wasteland+Salvage site+Scrap": ["Wasteland", "Scrap", "Salvage site"],

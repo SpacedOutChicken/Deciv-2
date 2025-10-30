@@ -213,6 +213,25 @@
 		"hurryCostModifier": 20,
 		"attackSound": "nuke"
 	},
+	{
+		"name": "Calamity Bomb",
+		"uniqueTo": "Calamity Star Order",
+		"unitType": "Missile",
+		"movement": 1,
+		"strength": 300,
+		"rangedStrength": 300,
+		"range": 18,
+		"cost": 2000,
+		"requiredTech": "Particle Physics",
+		"uniques": [
+			"[+100]% Strength <when attacking>",
+			"Nuclear weapon of Strength [3]",
+			"Blast radius [3]",
+			"Only available <if [Manhattan Project] is constructed>",
+			"Consumes [3] [Uranium]"
+		],
+		"attackSound": "nuke"
+	},
 
 	// Missile Defense
 
@@ -298,6 +317,31 @@
 		],
 		"promotions": ["Gas Mask", "Entrench"],
 		"attackSound": "shot"
+	},
+
+	// Calamity Star Order uniques
+
+	{
+		"name": "Proto-Bomber",
+		"uniqueTo": "Calamity Star Order",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 20,
+		"cost": 55,
+		"requiredTech": "Chemistry",
+		"uniques": [
+			"Self-destructs when attacking",
+			"[+200]% Strength <vs [Military] units> <when attacking>",
+			"[+300]% Strength <vs cities> <when attacking>",
+			"[+3] Movement <after adopting [Theocracy Complete]>",
+			"Nuclear weapon of Strength [1]",
+			"Blast radius [0]",
+			"Consumes [1] [Uranium]",
+			"Only available <in cities with a [Crater Chapel]>"
+		],
+		"promotions": ["Napalm"],
+		"hurryCostModifier": 20,
+		"attackSound": "nuke"
 	},
 
 	// Low Tech
@@ -833,6 +877,27 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Doombringer",
+		"replaces": "Militia",
+		"uniqueTo": "Calamity Star Order",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 26,
+		"interceptRange": 1,
+		"cost": 55,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Soldier",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Personnel",
+			"Consumes [1] [Weapons]",
+			"[+100]% Strength <when attacking>"
+		],
+		"promotions": ["Doom Talisman"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Soldier",
 		"unitType": "Scrapper",
 		"movement": 2,
@@ -1288,6 +1353,30 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Infernal",
+		"replaces": "NBC Marksman",
+		"uniqueTo": "Calamity Star Order",
+		"unitType": "Shooter",
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 35,
+		"range": 1,
+		"interceptRange": 1,
+		"cost": 225,
+		"requiredTech": "Plastics",
+		"upgradesTo": "Black Ops",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Personnel",
+			"Only available <if [Factory] is constructed>",
+			"Consumes [1] [Weapons]",
+			"[-10]% Strength for enemy [Military] units in adjacent [Land] tiles",
+			"[Target Unit] takes [20] damage <upon damaging a [Military] unit>"
+		],
+		"promotions": ["Doom Talisman", "Reconnaissance I", "Gas Mask"],
+		"attackSound": "flamethrower"
+	},
+	{
 		"name": "Black Ops",
 		"unitType": "Shooter",
 		"range": 2,
@@ -1313,6 +1402,38 @@
 			"Infantry Weapons"
 		],
 		"attackSound": "shot"
+	},
+	{
+		"name": "Calamity Incarnate",
+		"replaces": "Black Ops",
+		"uniqueTo": "Calamity Star Order",
+		"unitType": "Shooter",
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 45,
+		"range": 2,
+		"interceptRange": 2,
+		"cost": 400,
+		"requiredTech": "Energy Weapons",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Personnel",
+			"Only available <if [Automated Factory] is constructed>",
+			"Consumes [2] [Weapons]",
+			"[-15]% Strength for enemy [Military] units in adjacent [Land] tiles",
+			"[Target Unit] takes [20] damage <upon damaging a [Military] unit>",
+			"Destroys [all] cities instead of capturing"
+		],
+		"promotions": [
+			"Doom Talisman",
+			"Drone Recon",
+			"Reconnaissance I",
+			"Gas Mask",
+			"Thermoptic Camouflage",
+			"Infantry Weapons",
+			"Napalm"
+		],
+		"attackSound": "flamethrower"
 	},
 
 	//// Mounted
@@ -3983,6 +4104,47 @@
 		],
 		"attackSound": "shot"
 	},
+	{
+		"name": "Terror Seeker",
+		"replaces": "Militia",
+		"uniqueTo": "Order of the Dark Truth",
+		"unitType": "Scrapper",
+		"movement": 2,
+		"strength": 36,
+		"interceptRange": 1,
+		"cost": 55,
+		"requiredTech": "The Wheel",
+		"obsoleteTech": "Replaceable Parts",
+		"upgradesTo": "Soldier",
+		"hurryCostModifier": 20,
+		"uniques": [
+			"Personnel",
+			"Consumes [1] [Weapons]",
+			"[This Unit] heals [15] HP <upon defeating a [Military] unit>"
+		],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Hallowed Knight",
+		"replaces": "Cavalry",
+		"uniqueTo": "Order of the Dark Truth",
+		"unitType": "Mounted",
+		"movement": 4,
+		"strength": 40,
+		"interceptRange": 1,
+		"cost": 120,
+		"requiredTech": "Rifling",
+		"upgradesTo": "Tank",
+		"uniques": [
+			"Personnel",
+			"No defensive terrain bonus",
+			"Can move after attacking",
+			"[-15]% Strength for enemy [Military] units in adjacent [Land] tiles",
+			"Can only be built <in cities with a [Stable]>"
+		],
+		"hurryCostModifier": 20,
+		"attackSound": "shot"
+	}
 
 	//Terraformer parts
 

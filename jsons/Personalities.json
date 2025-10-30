@@ -509,5 +509,67 @@
 			"Mechanization": 40,
 			"Bionics": 0
 		}
+	},
+	{
+		"name": "Janaka",
+		"production": 5,
+		"food": 7,
+		"gold": 6,
+		"science": 9,
+		"culture": 3,
+		"happiness": 5,
+		"faith": 3,
+		"military": 6,
+		"aggressive": 5,
+		"declareWar": 5,
+		"commerce": 5,
+		"diplomacy": 6,
+		"loyal": 6,
+		"expansion": 5,
+		"priorities": {
+			"Adaptation": 30,
+			"Expansionism": 30,
+			"Sovereignty": 0,
+			"Theocracy": 0,
+			"Rationalism": 30,
+			"Constitution": 30,
+			"Supremacy": 10,
+			"Monopoly": 30,
+			"Collectivism": 0,
+			"Naturalism": 0,
+			"Mechanization": 40,
+			"Bionics": 0
+		}
+	},
+	{
+		"name": "Rendrat",
+		"food": 4,
+		"production": 7,
+		"gold": 5,
+		"science": 9,
+		"culture": 5,
+		"faith": 9,
+		"happiness": 5,
+		"military": 11,
+		"aggressive": 11,
+		"declareWar": 11,
+		"commerce": 0,
+		"diplomacy": 0,
+		"loyal": 0,
+		"expansion": 5,
+		"priorities": {
+			"Adaptation": 0,
+			"Expansionism": 10,
+			"Sovereignty": 40,
+			"Theocracy": 40,
+			"Rationalism": 0,
+			"Constitution": 0,
+			"Supremacy": 50,
+			"Monopoly": 0,
+			"Collectivism": 20,
+			"Naturalism": 0,
+			"Mechanization": 50,
+			"Bionics": 0
+		}
 	}
 ]

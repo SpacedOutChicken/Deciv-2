@@ -1144,6 +1144,46 @@
 		],
 		"spyNames": ["Ashok", "Shanx", "Hormis", "Sanjeev", "Ananda", "Rani", "Parvati", "Mukta", "Karishma", "Jyotsna"]
 	},
+	{
+		"name": "Calamity Star Order",
+		"leaderName": "Rendrat",
+		"adjective": ["Calamity Bringer"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		"personality": "Rendrat",
+		"favoredReligion": "Posadism",
+
+		"startIntroPart1": "Welcome to the conclave of those who seek the last days. The stars that symbolize disaster have long since burnt out. The great disaster of the past is just the prelude to the true Cataclysm.",
+		"startIntroPart2": "Would you like to bring about the end of the world with us?",
+		"declaringWar": "The end comes for you.",
+		"attacked": "You cannot stand against the inevitable.",
+		"defeated": "But we must... bring forth... the end...",
+		"introduction": "Tell me, where did you wait out the first apocalypse?",
+		"neutralHello": "Good fortune to you.",
+		"hateHello": "For some, the end comes sooner than others.",
+		"denounced": "When the end comes for you, we will ensure it comes slowly.",
+		"declaringFriendship": "Interesting. You could yet prove a valuable ally.",
+		"tradeRequest": "There are many boons in store for you if you will only help us bring forth the end.",
+
+		"outerColor": [59, 55, 53],
+		"innerColor": [83, 23, 1],
+		"style": "",
+		"uniqueName": "Bring Forth the Second Cataclysm",
+		"uniques": [
+			"[+1 Production] from every [Improvement] <with [1] to [6] neighboring [Mountain] tiles>",
+			"[+1 Production] from every [Improvement] <with [1] to [6] neighboring [Mountain Tunnel] tiles>",
+			"[+1 Faith] from every [Mountain]",
+			"[+1 Faith] from every [Mountain Tunnel]",
+			"[+50]% Production when constructing [Nuclear Weapon] units [in all cities]",
+			"[-100]% unhappiness from the number of cities",
+			"[+33]% Unhappiness from [Population] [in all cities]",
+			"[-25]% growth [in all cities]",
+			"Starts with [Secrets of the Past]",
+			"\"Borrows\" city names from other civilizations in the game"
+		],
+		"cities": ["Calamity Conclave"],
+		"spyNames": ["Powehi", "Phaethon", "Gliese", "Pandora", "Janus", "Kapteyn", "The Trappist", "Luyten", "Delorme", "Janssen"]
+	},
 
 	// City-States
 	{
@@ -1382,6 +1422,19 @@
 		"outerColor": [0, 0, 0],
 		"innerColor": [9, 112, 84],
 		"cities": ["Guiyu"]
+	},
+	{
+		"name": "Order of the Dark Truth",
+		"adjective": ["Truther"],
+		"cityStateType": "Prayer",
+		"style": "",
+		"uniques": ["[+50]% Production when constructing [Scrapper] units [in all cities]"],
+		"declaringWar": "We see your little shadows painting the floor, cowering in fear!",
+		"attacked": "Dark judgment falls upon you now.",
+		"defeated": "You cannot stop the Great Message from coming.",
+		"outerColor": [0, 0, 0],
+		"innerColor": [43, 5, 87],
+		"cities": ["Truth's Gate"]
 	},
 
 	// Barbarian

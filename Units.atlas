@@ -277,912 +277,961 @@ UnitIcons/Bugler
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Campaign Tank
+UnitIcons/Calamity Bomb
   rotate: false
   xy: 652, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Censor
+UnitIcons/Calamity Incarnate
   rotate: false
   xy: 4, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Civilian Convoy
+UnitIcons/Campaign Tank
   rotate: false
   xy: 112, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Clan Horseman
+UnitIcons/Censor
   rotate: false
   xy: 220, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Horseman
-  rotate: false
-  xy: 220, 328
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Clansman
+UnitIcons/Civilian Convoy
   rotate: false
   xy: 328, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Conscript
+UnitIcons/Clan Horseman
   rotate: false
   xy: 436, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Rebel
+UnitIcons/Horseman
   rotate: false
   xy: 436, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Soldier
-  rotate: false
-  xy: 436, 544
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Contaminator
+UnitIcons/Clansman
   rotate: false
   xy: 544, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Contractor
+UnitIcons/Conscript
   rotate: false
   xy: 652, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Corvette
+UnitIcons/Rebel
+  rotate: false
+  xy: 652, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Soldier
+  rotate: false
+  xy: 652, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Contaminator
   rotate: false
   xy: 760, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Crystal Carrier
+UnitIcons/Contractor
   rotate: false
   xy: 4, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Demolition Track
+UnitIcons/Corvette
   rotate: false
   xy: 112, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Desolator
+UnitIcons/Crystal Carrier
   rotate: false
   xy: 220, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Dinghy
+UnitIcons/Demolition Track
   rotate: false
   xy: 328, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Divine Spear
+UnitIcons/Desolator
   rotate: false
   xy: 436, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Draftee
+UnitIcons/Dinghy
   rotate: false
   xy: 544, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Infantry
-  rotate: false
-  xy: 544, 544
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Dragoon
+UnitIcons/Divine Spear
   rotate: false
   xy: 652, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Highwayman
-  rotate: false
-  xy: 652, 652
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Drop Troops
+UnitIcons/Doombringer
   rotate: false
   xy: 760, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Exo-Trooper
+UnitIcons/Draftee
   rotate: false
   xy: 868, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Field Scientist
+UnitIcons/Infantry
+  rotate: false
+  xy: 868, 868
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Dragoon
   rotate: false
   xy: 112, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Fighter Drone
+UnitIcons/Highwayman
+  rotate: false
+  xy: 112, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Drop Troops
   rotate: false
   xy: 220, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/First Aid
+UnitIcons/Exo-Trooper
   rotate: false
   xy: 328, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Forward Observer
+UnitIcons/Field Scientist
   rotate: false
   xy: 436, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/GF Drone
+UnitIcons/Fighter Drone
   rotate: false
   xy: 544, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gangboss
+UnitIcons/First Aid
   rotate: false
   xy: 652, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gauss Cannon
+UnitIcons/Forward Observer
   rotate: false
   xy: 760, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gbeto
+UnitIcons/GF Drone
   rotate: false
   xy: 868, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gohento
+UnitIcons/Gangboss
   rotate: false
   xy: 976, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gravity Turret
+UnitIcons/Gauss Cannon
   rotate: false
   xy: 220, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Great Administrator
+UnitIcons/Gbeto
   rotate: false
   xy: 328, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Great Farmer
+UnitIcons/Gohento
   rotate: false
   xy: 436, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Great Mad Scientist
+UnitIcons/Gravity Turret
   rotate: false
   xy: 544, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Great Prophet
+UnitIcons/Great Administrator
   rotate: false
   xy: 652, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Great Sage
+UnitIcons/Great Farmer
   rotate: false
   xy: 760, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Guerilla
+UnitIcons/Great Mad Scientist
   rotate: false
   xy: 868, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gulohento
+UnitIcons/Great Prophet
   rotate: false
   xy: 976, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Gunman
+UnitIcons/Great Sage
   rotate: false
   xy: 1084, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Marauder
-  rotate: false
-  xy: 1084, 868
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rubble Gunman
-  rotate: false
-  xy: 1084, 868
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Heavy Bomber
+UnitIcons/Guerilla
   rotate: false
   xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Heavy Carrier
+UnitIcons/Gulohento
   rotate: false
   xy: 436, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Helicopter
+UnitIcons/Gunman
   rotate: false
   xy: 544, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Salvaged Helicopter
+UnitIcons/Marauder
   rotate: false
   xy: 544, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Henchman
+UnitIcons/Rubble Gunman
+  rotate: false
+  xy: 544, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hallowed Knight
   rotate: false
   xy: 652, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Insurgent
-  rotate: false
-  xy: 652, 328
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Trooper
-  rotate: false
-  xy: 652, 328
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Hitman
+UnitIcons/Heavy Bomber
   rotate: false
   xy: 760, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Howitzer
+UnitIcons/Heavy Carrier
   rotate: false
   xy: 868, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Hussar
+UnitIcons/Helicopter
   rotate: false
   xy: 976, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Outlaw
+UnitIcons/Salvaged Helicopter
   rotate: false
   xy: 976, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Irregular
+UnitIcons/Henchman
   rotate: false
   xy: 1084, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Rifleman
+UnitIcons/Insurgent
   rotate: false
   xy: 1084, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Jalopy
+UnitIcons/Trooper
+  rotate: false
+  xy: 1084, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Hitman
   rotate: false
   xy: 1192, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Technical
-  rotate: false
-  xy: 1192, 868
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Jet Boat
+UnitIcons/Howitzer
   rotate: false
   xy: 436, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Jet Rover
+UnitIcons/Hussar
   rotate: false
   xy: 544, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Jetsuit
+UnitIcons/Outlaw
+  rotate: false
+  xy: 544, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Infernal
   rotate: false
   xy: 652, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Junker
+UnitIcons/Irregular
   rotate: false
   xy: 760, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Light Drone
+UnitIcons/Rifleman
+  rotate: false
+  xy: 760, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jalopy
   rotate: false
   xy: 868, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Machete
+UnitIcons/Technical
   rotate: false
-  xy: 976, 545
-  size: 100, 99
-  orig: 100, 99
+  xy: 868, 436
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Machine Gun
+UnitIcons/Jet Boat
+  rotate: false
+  xy: 976, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Jet Rover
   rotate: false
   xy: 1084, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Marine
+UnitIcons/Jetsuit
   rotate: false
   xy: 1192, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Marksman
+UnitIcons/Junker
   rotate: false
   xy: 1300, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Mechanized Worker
+UnitIcons/Light Drone
   rotate: false
   xy: 544, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Militia
+UnitIcons/Machete
   rotate: false
-  xy: 652, 112
-  size: 100, 100
-  orig: 100, 100
+  xy: 652, 113
+  size: 100, 99
+  orig: 100, 99
   offset: 0, 0
   index: -1
-UnitIcons/Rubble Militia
-  rotate: false
-  xy: 652, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Missile Artillery
+UnitIcons/Machine Gun
   rotate: false
   xy: 760, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Missile Defense System
+UnitIcons/Marine
   rotate: false
   xy: 868, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Missile Vehicle
+UnitIcons/Marksman
   rotate: false
-  xy: 976, 437
+  xy: 976, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Mounted Worker
+UnitIcons/Mechanized Worker
   rotate: false
   xy: 1084, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Mutant
+UnitIcons/Militia
   rotate: false
   xy: 1192, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/NBC Conscript
+UnitIcons/Rubble Militia
+  rotate: false
+  xy: 1192, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Missile Artillery
   rotate: false
   xy: 1300, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/NBC Soldier
-  rotate: false
-  xy: 1300, 760
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/NBC Infantry
+UnitIcons/Missile Defense System
   rotate: false
   xy: 1408, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/NBC Marksman
+UnitIcons/Missile Vehicle
   rotate: false
-  xy: 652, 4
+  xy: 652, 5
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/NBC Rifleman
+UnitIcons/Mounted Worker
   rotate: false
   xy: 760, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Nyekplohento
+UnitIcons/Mutant
   rotate: false
   xy: 868, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ocean Scrubber
+UnitIcons/NBC Conscript
   rotate: false
-  xy: 976, 329
+  xy: 976, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Panther
+UnitIcons/NBC Soldier
+  rotate: false
+  xy: 976, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/NBC Infantry
   rotate: false
   xy: 1084, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Partisan
+UnitIcons/NBC Marksman
   rotate: false
   xy: 1192, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Patrol Boat
+UnitIcons/NBC Rifleman
   rotate: false
   xy: 1300, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Philosopher
+UnitIcons/Nyekplohento
   rotate: false
   xy: 1408, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Private
+UnitIcons/Ocean Scrubber
   rotate: false
   xy: 1516, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Purge Robot
-  rotate: false
-  xy: 760, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Salvaged Purge Robot
-  rotate: false
-  xy: 760, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Purge Robot MKI
+UnitIcons/Panther
   rotate: false
   xy: 868, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Purge Robot MKII
+UnitIcons/Partisan
   rotate: false
-  xy: 976, 221
+  xy: 976, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Purge Robot Proto
+UnitIcons/Patrol Boat
   rotate: false
   xy: 1084, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Quadcopter Drone
+UnitIcons/Philosopher
   rotate: false
   xy: 1192, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Raider
+UnitIcons/Private
   rotate: false
   xy: 1300, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Ranger
+UnitIcons/Proto-Bomber
   rotate: false
   xy: 1408, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Recon Squad
+UnitIcons/Purge Robot
   rotate: false
   xy: 1516, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Regulator
+UnitIcons/Salvaged Purge Robot
+  rotate: false
+  xy: 1516, 760
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Purge Robot MKI
   rotate: false
   xy: 1624, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Rider
+UnitIcons/Purge Robot MKII
   rotate: false
-  xy: 868, 4
+  xy: 976, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Rubble Gang
-  rotate: false
-  xy: 976, 113
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Scavenger
-  rotate: false
-  xy: 976, 113
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Rubble Rider
+UnitIcons/Purge Robot Proto
   rotate: false
   xy: 1084, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Skirmisher
-  rotate: false
-  xy: 1084, 220
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/SS Cockpit
+UnitIcons/Quadcopter Drone
   rotate: false
   xy: 1192, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Terraforming Lab
-  rotate: false
-  xy: 1192, 328
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Salvaged Bomber
+UnitIcons/Raider
   rotate: false
   xy: 1300, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sandrail
+UnitIcons/Ranger
   rotate: false
   xy: 1408, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/War Buggy
-  rotate: false
-  xy: 1408, 544
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Security
+UnitIcons/Recon Squad
   rotate: false
   xy: 1516, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sharkman
+UnitIcons/Regulator
   rotate: false
   xy: 1624, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Sky Cruiser
+UnitIcons/Rider
   rotate: false
   xy: 1732, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Slave Trader
-  rotate: false
-  xy: 976, 5
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Smuggler
+UnitIcons/Rubble Gang
   rotate: false
   xy: 1084, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Solar Shade
+UnitIcons/Scavenger
+  rotate: false
+  xy: 1084, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Rubble Rider
   rotate: false
   xy: 1192, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Spec Ops
+UnitIcons/Skirmisher
+  rotate: false
+  xy: 1192, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/SS Cockpit
   rotate: false
   xy: 1300, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Special Forces
+UnitIcons/Terraforming Lab
+  rotate: false
+  xy: 1300, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Salvaged Bomber
   rotate: false
   xy: 1408, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Stasis Cruiser
+UnitIcons/Sandrail
   rotate: false
   xy: 1516, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Stealth Fighter
+UnitIcons/War Buggy
+  rotate: false
+  xy: 1516, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Security
   rotate: false
   xy: 1624, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Strike Drone
+UnitIcons/Sharkman
   rotate: false
   xy: 1732, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Surveyor
+UnitIcons/Sky Cruiser
   rotate: false
   xy: 1840, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Swarm
+UnitIcons/Slave Trader
   rotate: false
   xy: 1192, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Tactical Nuke
+UnitIcons/Smuggler
   rotate: false
   xy: 1300, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Torpedo Boat
+UnitIcons/Solar Shade
   rotate: false
   xy: 1408, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Tree Lover
+UnitIcons/Spec Ops
   rotate: false
   xy: 1516, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Trimaran
+UnitIcons/Special Forces
   rotate: false
   xy: 1624, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Tsar Bomba
+UnitIcons/Stasis Cruiser
   rotate: false
   xy: 1732, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Upyr
+UnitIcons/Stealth Fighter
   rotate: false
   xy: 1840, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/VTOL Gunship
+UnitIcons/Strike Drone
   rotate: false
   xy: 1300, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Vyomanaut
+UnitIcons/Surveyor
   rotate: false
   xy: 1408, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Warhead Truck
+UnitIcons/Swarm
   rotate: false
   xy: 1516, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/Wild Dog
+UnitIcons/Tactical Nuke
   rotate: false
   xy: 1624, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Terror Seeker
+  rotate: false
+  xy: 1732, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Torpedo Boat
+  rotate: false
+  xy: 1840, 652
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tree Lover
+  rotate: false
+  xy: 1408, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Trimaran
+  rotate: false
+  xy: 1516, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Tsar Bomba
+  rotate: false
+  xy: 1624, 328
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Upyr
+  rotate: false
+  xy: 1732, 436
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/VTOL Gunship
+  rotate: false
+  xy: 1840, 544
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Vyomanaut
+  rotate: false
+  xy: 1516, 112
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Warhead Truck
+  rotate: false
+  xy: 1624, 220
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wild Dog
+  rotate: false
+  xy: 1732, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0

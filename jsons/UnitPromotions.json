@@ -1376,6 +1376,14 @@
 		]
 	},
 	{
+		"name": "Doom Talisman",
+		"uniques": [
+			"[-20]% Strength <when defending>",
+			"[This Unit] heals [25] HP <upon defeating a [Military] unit>",
+			"Uncapturable"
+		]
+	}
+	{
         "name": "Devout",
         "uniques": ["Can Spread Religion <[1] additional time(s)>"]
     },

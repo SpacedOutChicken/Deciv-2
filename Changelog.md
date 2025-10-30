@@ -86,7 +86,6 @@ New Content:
 - Added Missile Artillery (Information era siege unit that also upgrades from Rocket Artillery, can intercept air units and gets a bonus against Helicopters instead of a penalty, unlocks earier at Advanced Materials, consumes Aluminum and Oil)
 - Added Condenser Cooler (Rediscovering era Water building that boosts Moisture trap yields but requires the city to be working a Moisture trap, consumes Coal to build, and obsoletes late-game)
 - Added Eco-Sanctuary (New Future era Happiness building that requires a Nature preserve and boosts the yields of Nature preserves)
-- Added National Guard Armory (Armory replacement for The Patriots that remains available at Construction but requires a worked Weapons tile before Hoplology is discovered, effectively reimplementing Redux's Armory exclusively for them)
 - Added Oasis Atoll (Decivilized era world wonder that increases the Water income and Naval unit construction speed of the coastal city that owns it)
 - Added Observatory (Rediscovering era Science building that adds Science based on how many Mountains the city can work)
 - Added Shale Extractor (Oil Refinery replacement for Atlas, receives additional Production on Oil tiles and additional copies of Oil resource)
@@ -111,7 +110,6 @@ Balance Changes:
 - Artificial glaciers and Moisture traps can now be placed on Mountains
 - Biosphere Project moved to Atmosphere Remediation
 - Bomb Shelter (and replacements) now give +3 Water per turn instead of +1
-- Certain faction UUs that unlock earlier than normal but have increased Production cost (Black Hand, Marine, Spec Ops) now have their Production cost reduced once the player discovers the tech the units they replace normally need
 - Chemical Extractor no longer has a resource requirement or Culture penalty
 - Crystal Carrier gains +10 to defense and ranged strength
 - Data Center nerfed to +5 Science instead of +50% Science (Hexlock's version nerfed to +8 instead of +65%), but now adds +4 Science to worked Data and Encrypted Data tiles
@@ -155,6 +153,24 @@ Balance Changes:
 - Water providing buildings have been buffed slightly
 - Wincon wonders, International Trade Center, and Manhattan Project can no longer have their production hurried
 - Workers (but not Mounted or Mechanized Workers) can now build improvements on Lakes (currently only one improvement requires this)
+
+//
+Post-"Tech Expansion"
+//
+
+New Content:
+- Added new faction: Calamity Star Order (apocalypse cult trying to redo the apocalypse because the first one wasn't thorough enough)
+- Added new City-State: Order of the Dark Truth
+- Added National Guard Armory (Armory replacement for The Patriots that remains available at Construction but requires a worked Weapons tile before Hoplology is discovered, effectively reimplementing Redux's Armory exclusively for them)
+- Added embassies
+
+Balance Changes:
+- Certain faction UUs that unlock earlier than normal but have increased Production cost (Black Hand, Marine, Spec Ops) now have their Production cost reduced once the player discovers the tech the units they replace normally need
+- Due to a bug that has since been fixed, The Green Palace now spawns a free Great Farmer instead of creating a Factory farm
+
+Misc:
+- Added dialogue for when factions are denounced or declare friendship
+- Added personality values for Prasiddh Shahar
 
 //
 - Credits from Icons to The Noun Project, Robert Bjurshagen, Manglyang Studio, Mangsaabguru, Kamin Ginkae and Royal Icons

@@ -6,1932 +6,2002 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/AI Project
   rotate: false
-  xy: 4, 1732
+  xy: 524, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Active Denial System
   rotate: false
-  xy: 212, 1940
+  xy: 4, 1200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Advanced Energy Recycling Plant
+  rotate: false
+  xy: 212, 1408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Aerospace Facility
   rotate: false
-  xy: 4, 1624
+  xy: 524, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ally with Isolationists
   rotate: false
-  xy: 320, 1940
+  xy: 632, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Alma Air Base
   rotate: false
-  xy: 4, 1516
+  xy: 4, 1092
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Alma Tank Depot
   rotate: false
-  xy: 4, 1516
+  xy: 4, 1092
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Altar of Ignis
   rotate: false
-  xy: 428, 1940
+  xy: 320, 1408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Aluminum Smelter
   rotate: false
-  xy: 4, 1408
+  xy: 524, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Annex Isolationists
   rotate: false
-  xy: 536, 1940
+  xy: 632, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Archive of the Arts
+BuildingIcons/Apocalypse Council
   rotate: false
-  xy: 4, 1300
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Arcology Dome
-  rotate: false
-  xy: 644, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Arcology Project
-  rotate: false
-  xy: 4, 1192
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Arena
-  rotate: false
-  xy: 752, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Ark One
-  rotate: false
-  xy: 4, 1084
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Armaments Production Line
-  rotate: false
-  xy: 860, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Armor Production Line
-  rotate: false
-  xy: 4, 976
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Atlas Refuge
-  rotate: false
-  xy: 968, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Atomic Pile
-  rotate: false
-  xy: 4, 868
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Automated Factory
-  rotate: false
-  xy: 1076, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Battery
-  rotate: false
-  xy: 4, 760
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Bike Path
-  rotate: false
-  xy: 1184, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Bio Synthetizer
-  rotate: false
-  xy: 4, 652
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Biofuel Refinery
-  rotate: false
-  xy: 1292, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Biosphere Project
-  rotate: false
-  xy: 4, 544
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Black Site
-  rotate: false
-  xy: 1400, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Blast Furnace
-  rotate: false
-  xy: 4, 436
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Blood Bank
-  rotate: false
-  xy: 1508, 1940
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Board of Directors
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Consulate
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Council
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Defense Committee
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Embassy
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/General Assembly
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Grand Clan Manor
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gulag
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Kurultai
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Raider's Council
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Revolutionary Council
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seer Council
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Think Tank
   rotate: false
-  xy: 4, 328
+  xy: 740, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Archive of the Arts
+  rotate: false
+  xy: 4, 984
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Arcology Dome
+  rotate: false
+  xy: 524, 1604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Arcology Project
+  rotate: false
+  xy: 632, 1712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Arena
+  rotate: false
+  xy: 740, 1820
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Ark One
+  rotate: false
+  xy: 848, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Armaments Production Line
+  rotate: false
+  xy: 4, 876
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Armor Production Line
+  rotate: false
+  xy: 632, 1604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Astrology Station
+  rotate: false
+  xy: 740, 1712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Atlas Refuge
+  rotate: false
+  xy: 848, 1820
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Atomic Pile
+  rotate: false
+  xy: 956, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Automated Factory
+  rotate: false
+  xy: 4, 768
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Battery
+  rotate: false
+  xy: 740, 1604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bike Path
+  rotate: false
+  xy: 848, 1712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Bio Synthetizer
+  rotate: false
+  xy: 956, 1820
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Biofuel Refinery
+  rotate: false
+  xy: 1064, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Biosphere Project
+  rotate: false
+  xy: 4, 660
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Black Site
+  rotate: false
+  xy: 848, 1604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Blast Furnace
+  rotate: false
+  xy: 956, 1712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Blood Bank
+  rotate: false
+  xy: 1064, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Broadcast Network
   rotate: false
-  xy: 1616, 1940
+  xy: 1172, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Bunker
   rotate: false
-  xy: 4, 220
+  xy: 4, 552
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Calutron
+BuildingIcons/Calamity Assembly
   rotate: false
-  xy: 1724, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Caravan Office
-  rotate: false
-  xy: 4, 112
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Carbon Capture
-  rotate: false
-  xy: 1832, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Casino
-  rotate: false
-  xy: 4, 4
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Chemical Extractor
-  rotate: false
-  xy: 1940, 1940
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Chemical Weapons Laboratory
-  rotate: false
-  xy: 112, 1732
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Choke Points
-  rotate: false
-  xy: 112, 1624
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Chop Shop
-  rotate: false
-  xy: 112, 1516
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Citizens' Assembly
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Congress
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Five-Year Plan
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Freedom Foundation
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Parliament
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Recruitment Initiative
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Senate
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Shareholders' Fund
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Smugglers' Guild
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Survival Program
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Trader's Congress
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/War Council
   rotate: false
-  xy: 112, 1408
+  xy: 956, 1604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Calamity Chart Brief
+  rotate: false
+  xy: 1064, 1712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Calutron
+  rotate: false
+  xy: 1172, 1820
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Camp of Necessity
+  rotate: false
+  xy: 1280, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Caravan Office
+  rotate: false
+  xy: 4, 444
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Carbon Capture
+  rotate: false
+  xy: 1064, 1604
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Casino
+  rotate: false
+  xy: 1172, 1712
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Chemical Extractor
+  rotate: false
+  xy: 1280, 1820
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Chemical Weapons Laboratory
+  rotate: false
+  xy: 1388, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Choke Points
+  rotate: false
+  xy: 4, 336
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Chop Shop
+  rotate: false
+  xy: 1172, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Clan Hall
   rotate: false
-  xy: 112, 1300
+  xy: 1280, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Clan Hideout
   rotate: false
-  xy: 112, 1192
+  xy: 1388, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Club Chapter
   rotate: false
-  xy: 112, 1084
+  xy: 1496, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Clubhouse
   rotate: false
-  xy: 112, 976
+  xy: 4, 228
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Coal Plant
   rotate: false
-  xy: 112, 868
+  xy: 1280, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cold Store
   rotate: false
-  xy: 112, 760
+  xy: 1388, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/College of Mystics
   rotate: false
-  xy: 112, 652
+  xy: 1496, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/College of Rhetoric
   rotate: false
-  xy: 112, 544
+  xy: 1604, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Commune
   rotate: false
-  xy: 112, 436
+  xy: 4, 120
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Communications Network
   rotate: false
-  xy: 112, 328
+  xy: 1388, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Communications Satellite
   rotate: false
-  xy: 112, 220
+  xy: 1496, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Community Garden
   rotate: false
-  xy: 112, 112
+  xy: 1604, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Composite Foil Factory
   rotate: false
-  xy: 112, 4
+  xy: 1712, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GA
   rotate: false
-  xy: 220, 1832
+  xy: 4, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GE
   rotate: false
-  xy: 220, 1832
+  xy: 4, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GM
   rotate: false
-  xy: 220, 1832
+  xy: 4, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GP
   rotate: false
-  xy: 220, 1832
+  xy: 4, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix GS
   rotate: false
-  xy: 220, 1832
+  xy: 4, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mix Meltdown
   rotate: false
-  xy: 220, 1724
+  xy: 1496, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Compound Mixer
   rotate: false
-  xy: 328, 1832
+  xy: 1604, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Condenser Cooler
   rotate: false
-  xy: 220, 1616
+  xy: 1712, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Conscript Survivors
   rotate: false
-  xy: 328, 1724
+  xy: 1820, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Slave House
   rotate: false
-  xy: 328, 1724
+  xy: 1820, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Slaver Guild
   rotate: false
-  xy: 328, 1724
+  xy: 1820, 1928
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Consumer Production Line
   rotate: false
-  xy: 436, 1832
+  xy: 1604, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Electronics Production Line
   rotate: false
-  xy: 436, 1832
+  xy: 1604, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Machinery Production Line
   rotate: false
-  xy: 436, 1832
+  xy: 1604, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Content Farm
   rotate: false
-  xy: 220, 1508
+  xy: 1712, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Convention Hall
   rotate: false
-  xy: 328, 1616
+  xy: 1820, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Public Works Administration
   rotate: false
-  xy: 328, 1616
+  xy: 1820, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cooling Station
   rotate: false
-  xy: 436, 1724
+  xy: 1928, 1928
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Crater Chapel
+  rotate: false
+  xy: 1712, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Cryo Sanctum
   rotate: false
-  xy: 544, 1832
+  xy: 1820, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Data Center
   rotate: false
-  xy: 220, 1400
+  xy: 1928, 1820
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Decontamination Center
   rotate: false
-  xy: 328, 1508
+  xy: 1820, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Decryption Center
   rotate: false
-  xy: 436, 1616
+  xy: 1928, 1712
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Deep Larder
   rotate: false
-  xy: 544, 1724
+  xy: 1928, 1604
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Defensive Emplacements
   rotate: false
-  xy: 652, 1832
+  xy: 112, 1200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Desalination Plant
   rotate: false
-  xy: 220, 1292
+  xy: 112, 1092
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Disaster Catalog Library
+  rotate: false
+  xy: 4, 1516
+  size: 512, 512
+  orig: 512, 512
+  offset: 0, 0
+  index: -1
 BuildingIcons/Discipline Camp
   rotate: false
-  xy: 328, 1400
+  xy: 112, 984
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Distillery
   rotate: false
-  xy: 436, 1508
+  xy: 112, 876
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Distribute Soft Drinks
   rotate: false
-  xy: 544, 1616
+  xy: 112, 768
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Paradise Alley
   rotate: false
-  xy: 544, 1616
+  xy: 112, 768
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Divinity School
   rotate: false
-  xy: 652, 1724
+  xy: 112, 660
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Dojo
   rotate: false
-  xy: 760, 1832
+  xy: 112, 552
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Domesday Project
   rotate: false
-  xy: 4, 1840
+  xy: 4, 1308
   size: 200, 200
   orig: 200, 200
   offset: 0, 0
   index: -1
 BuildingIcons/Domestic Electrification
   rotate: false
-  xy: 220, 1184
+  xy: 112, 444
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Eagle Rock Complex
   rotate: false
-  xy: 328, 1292
+  xy: 112, 336
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Earthscraper
   rotate: false
-  xy: 436, 1400
+  xy: 112, 228
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Earthscraper Project
   rotate: false
-  xy: 544, 1508
+  xy: 112, 120
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Eco-Sanctuary
   rotate: false
-  xy: 652, 1616
+  xy: 112, 12
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Electing Leaders
   rotate: false
-  xy: 760, 1724
+  xy: 428, 1408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Search for Survivors
   rotate: false
-  xy: 760, 1724
+  xy: 428, 1408
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Electrostatic Generator
   rotate: false
-  xy: 868, 1832
+  xy: 536, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Encoding Center
   rotate: false
-  xy: 220, 1076
+  xy: 644, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Excavate Nuclear Waste
   rotate: false
-  xy: 328, 1184
+  xy: 752, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Execution Chamber
   rotate: false
-  xy: 436, 1292
+  xy: 860, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Experiment on Survivors
   rotate: false
-  xy: 544, 1400
+  xy: 968, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Experimental Lab
   rotate: false
-  xy: 652, 1508
+  xy: 1076, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Explore Underwater City
   rotate: false
-  xy: 760, 1616
+  xy: 1184, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Faust Project
   rotate: false
-  xy: 868, 1724
+  xy: 1292, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Field Office
   rotate: false
-  xy: 976, 1832
+  xy: 1400, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Field Turret
   rotate: false
-  xy: 220, 968
+  xy: 1508, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/First Chapter
   rotate: false
-  xy: 328, 1076
+  xy: 1616, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fish Farm
   rotate: false
-  xy: 436, 1184
+  xy: 1724, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fist of God
   rotate: false
-  xy: 544, 1292
+  xy: 1832, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Food Lab
   rotate: false
-  xy: 652, 1400
+  xy: 1940, 1496
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Food Store
   rotate: false
-  xy: 760, 1508
+  xy: 536, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Forum
   rotate: false
-  xy: 868, 1616
+  xy: 644, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Frumentarii Camp
   rotate: false
-  xy: 976, 1724
+  xy: 752, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fuel Depot
   rotate: false
-  xy: 1084, 1832
+  xy: 860, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Oil Refinery
   rotate: false
-  xy: 1084, 1832
+  xy: 860, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Fusion Reactor
   rotate: false
-  xy: 220, 860
+  xy: 968, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Garage
   rotate: false
-  xy: 328, 968
+  xy: 1076, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Garden
   rotate: false
-  xy: 436, 1076
+  xy: 1184, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gas Field
   rotate: false
-  xy: 544, 1184
+  xy: 1292, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Gideon Scanner
   rotate: false
-  xy: 652, 1292
+  xy: 1400, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Global Alliance
   rotate: false
-  xy: 760, 1400
+  xy: 1508, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Grand Monastery
   rotate: false
-  xy: 868, 1508
+  xy: 1616, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Great Arc
   rotate: false
-  xy: 976, 1616
+  xy: 1724, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Great Mosque
   rotate: false
-  xy: 1084, 1724
+  xy: 1832, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Greenhouse
   rotate: false
-  xy: 1192, 1832
+  xy: 1940, 1388
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Greywater Treatment Plant
   rotate: false
-  xy: 220, 752
+  xy: 220, 1300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ground Control Center
   rotate: false
-  xy: 328, 860
+  xy: 220, 1192
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Operations Center
   rotate: false
-  xy: 328, 860
+  xy: 220, 1192
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Guerilla Camp
   rotate: false
-  xy: 436, 968
+  xy: 328, 1300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Legion Camp
   rotate: false
-  xy: 436, 968
+  xy: 328, 1300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hardened Defenses
   rotate: false
-  xy: 544, 1076
+  xy: 220, 1084
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Heat Plant
   rotate: false
-  xy: 652, 1184
+  xy: 328, 1192
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Heavy Equipment
   rotate: false
-  xy: 760, 1292
+  xy: 220, 976
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hex Assembly
   rotate: false
-  xy: 868, 1400
+  xy: 328, 1084
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hex Corporation
   rotate: false
-  xy: 976, 1508
+  xy: 220, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Holy Fortress
   rotate: false
-  xy: 1084, 1616
+  xy: 328, 976
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hub Work Camp
   rotate: false
-  xy: 1192, 1724
+  xy: 220, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Work Camp
   rotate: false
-  xy: 1192, 1724
+  xy: 220, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Hydroponic Farming
   rotate: false
-  xy: 1300, 1832
+  xy: 328, 868
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Information Awareness Office
   rotate: false
-  xy: 220, 644
+  xy: 220, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Information Market
   rotate: false
-  xy: 328, 752
+  xy: 328, 760
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Initiate School
   rotate: false
-  xy: 436, 860
+  xy: 220, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/International Trade Center
   rotate: false
-  xy: 544, 968
+  xy: 328, 652
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Iron Rod Stockpile
   rotate: false
-  xy: 652, 1076
+  xy: 220, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Jamci
   rotate: false
-  xy: 760, 1184
+  xy: 328, 544
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Land Value Tax
   rotate: false
-  xy: 868, 1292
+  xy: 220, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Landing Beacon
   rotate: false
-  xy: 976, 1400
+  xy: 328, 436
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Launchpad
   rotate: false
-  xy: 1084, 1508
+  xy: 220, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Listening Post
   rotate: false
-  xy: 1192, 1616
+  xy: 328, 328
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Media Center
   rotate: false
-  xy: 1300, 1724
+  xy: 220, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Medical Network
   rotate: false
-  xy: 1408, 1832
+  xy: 328, 220
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Megachurch
   rotate: false
-  xy: 220, 536
+  xy: 328, 112
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Metal Reprocessor
   rotate: false
-  xy: 328, 644
+  xy: 220, 4
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Microplastics Factory
+  rotate: false
+  xy: 328, 4
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Military School
   rotate: false
-  xy: 436, 752
+  xy: 436, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mining Operation
   rotate: false
-  xy: 544, 860
+  xy: 544, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mobile Encampment
   rotate: false
-  xy: 652, 968
+  xy: 652, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Moonshinery
   rotate: false
-  xy: 760, 1076
+  xy: 760, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Museum
   rotate: false
-  xy: 868, 1184
+  xy: 868, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Mycoprotein Vats
   rotate: false
-  xy: 976, 1292
+  xy: 976, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Naadam Square
   rotate: false
-  xy: 1084, 1400
+  xy: 1084, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Narcotics Refinery
   rotate: false
-  xy: 1192, 1508
+  xy: 1192, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/National Guard Armory
   rotate: false
-  xy: 1300, 1616
+  xy: 1300, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Nuclear Storage
   rotate: false
-  xy: 1408, 1724
+  xy: 1408, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Nuclear Waste Museum
   rotate: false
-  xy: 1408, 1724
+  xy: 1408, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Oasis Atoll
   rotate: false
-  xy: 1516, 1832
+  xy: 1516, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ocean Seeder
   rotate: false
-  xy: 220, 428
+  xy: 1624, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Oil Plant
   rotate: false
-  xy: 328, 536
+  xy: 1732, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/On the run
   rotate: false
-  xy: 436, 644
+  xy: 1840, 1280
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Open the Vault
   rotate: false
-  xy: 544, 752
+  xy: 544, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Organ Farm
   rotate: false
-  xy: 652, 860
+  xy: 652, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Organ Lab
   rotate: false
-  xy: 652, 860
+  xy: 652, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Overcouncil
   rotate: false
-  xy: 760, 968
+  xy: 760, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Peace Memorial
   rotate: false
-  xy: 868, 1076
+  xy: 868, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Personnel Office
   rotate: false
-  xy: 976, 1184
+  xy: 976, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Pit of Sacrifice
   rotate: false
-  xy: 1084, 1292
+  xy: 1084, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Place of Order
   rotate: false
-  xy: 1192, 1400
+  xy: 1192, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Plantation
   rotate: false
-  xy: 1300, 1508
+  xy: 1300, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Plastics Factory
   rotate: false
-  xy: 1408, 1616
+  xy: 1408, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Plastics Reprocessor
   rotate: false
-  xy: 1516, 1724
+  xy: 1516, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Pre-Med Lab
   rotate: false
-  xy: 1624, 1832
+  xy: 1624, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Prison Camp
   rotate: false
-  xy: 220, 320
+  xy: 1732, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Processing Center
   rotate: false
-  xy: 220, 320
+  xy: 1732, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Private Label
   rotate: false
-  xy: 328, 428
+  xy: 1840, 1172
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Produce Soft Drinks
   rotate: false
-  xy: 436, 536
+  xy: 544, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Propagate Seeds
   rotate: false
-  xy: 544, 644
+  xy: 652, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Protected Area
   rotate: false
-  xy: 652, 752
+  xy: 760, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Public Broadcast
   rotate: false
-  xy: 760, 860
+  xy: 868, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Publishing House
   rotate: false
-  xy: 868, 968
+  xy: 976, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Rainwater Purifier
   rotate: false
-  xy: 976, 1076
+  xy: 1084, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Rally Station
   rotate: false
-  xy: 1084, 1184
+  xy: 1192, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Ranch
   rotate: false
-  xy: 1192, 1292
+  xy: 1300, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Reactivate AI
   rotate: false
-  xy: 1300, 1400
+  xy: 1408, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Reactivate Underwater City
   rotate: false
-  xy: 1408, 1508
+  xy: 1516, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Reclamation Vats
   rotate: false
-  xy: 1516, 1616
+  xy: 1624, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Record Grid
   rotate: false
-  xy: 1624, 1724
+  xy: 1732, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Recover Transmission #1
   rotate: false
-  xy: 1732, 1832
+  xy: 1840, 1064
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Recover Transmission #2
   rotate: false
-  xy: 220, 212
+  xy: 544, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Recover Transmission #3
   rotate: false
-  xy: 328, 320
+  xy: 652, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Recover Transmission #4
   rotate: false
-  xy: 436, 428
+  xy: 760, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Recover Transmission #5
   rotate: false
-  xy: 544, 536
+  xy: 868, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Recover Transmission #6
   rotate: false
-  xy: 652, 644
+  xy: 976, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Recycling Plant
   rotate: false
-  xy: 760, 752
+  xy: 1084, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Refugee Center
   rotate: false
-  xy: 868, 860
+  xy: 1192, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Research Underwater City
   rotate: false
-  xy: 976, 968
+  xy: 1300, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Resource Management Server
   rotate: false
-  xy: 1084, 1076
+  xy: 1408, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/SS Cockpit
   rotate: false
-  xy: 1192, 1184
+  xy: 1516, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sacred Tree
   rotate: false
-  xy: 1300, 1292
+  xy: 1624, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Army Depot
   rotate: false
-  xy: 1408, 1400
+  xy: 1732, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Bomber
   rotate: false
-  xy: 1516, 1508
+  xy: 1840, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Helicopter
   rotate: false
-  xy: 1516, 1508
+  xy: 1840, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Tank Depot
   rotate: false
-  xy: 1516, 1508
+  xy: 1840, 956
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Exchange
   rotate: false
-  xy: 1624, 1616
+  xy: 544, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Yard
   rotate: false
-  xy: 1624, 1616
+  xy: 544, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Graveyard
   rotate: false
-  xy: 1732, 1724
+  xy: 652, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Salvage Space Station
   rotate: false
-  xy: 1840, 1832
+  xy: 760, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sanctum
   rotate: false
-  xy: 220, 104
+  xy: 868, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Study
   rotate: false
-  xy: 220, 104
+  xy: 868, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Sarcophagus
   rotate: false
-  xy: 328, 212
+  xy: 976, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Satnav Network
   rotate: false
-  xy: 436, 320
+  xy: 1084, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Scrounged Armory
   rotate: false
-  xy: 544, 428
+  xy: 1192, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Search Shelters
   rotate: false
-  xy: 652, 536
+  xy: 1300, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Seastead
   rotate: false
-  xy: 760, 644
+  xy: 1408, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Secret Laboratory
   rotate: false
-  xy: 868, 752
+  xy: 1516, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Shake Down Survivors
   rotate: false
-  xy: 976, 860
+  xy: 1624, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Shale Extractor
   rotate: false
-  xy: 1084, 968
+  xy: 1732, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Skunkworks
   rotate: false
-  xy: 1192, 1076
+  xy: 1840, 848
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Slave Market
   rotate: false
-  xy: 1300, 1184
+  xy: 544, 740
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sludge Conversion Plant
+  rotate: false
+  xy: 652, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Smart Grid
   rotate: false
-  xy: 1408, 1292
+  xy: 760, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Software Lab
   rotate: false
-  xy: 1516, 1400
+  xy: 868, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/State Archive
   rotate: false
-  xy: 1624, 1508
+  xy: 976, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stockpile
   rotate: false
-  xy: 1732, 1616
+  xy: 1084, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Stormfront Center
   rotate: false
-  xy: 1840, 1724
+  xy: 1192, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Supercollider
   rotate: false
-  xy: 328, 104
+  xy: 1300, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Surveillance Satellite
   rotate: false
-  xy: 436, 212
+  xy: 1408, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Survey Center
   rotate: false
-  xy: 544, 320
+  xy: 1516, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Syngas Plant
   rotate: false
-  xy: 652, 428
+  xy: 1624, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tactics Center
   rotate: false
-  xy: 760, 536
+  xy: 1732, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tea Room
   rotate: false
-  xy: 868, 644
+  xy: 1840, 740
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Television Studio
   rotate: false
-  xy: 976, 752
+  xy: 544, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The Abbey
   rotate: false
-  xy: 1084, 860
+  xy: 652, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The Green Palace
   rotate: false
-  xy: 1192, 968
+  xy: 760, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/The Last Paradise
   rotate: false
-  xy: 1300, 1076
+  xy: 868, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tidal Plant
   rotate: false
-  xy: 1408, 1184
+  xy: 976, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Town Hall
   rotate: false
-  xy: 1516, 1292
+  xy: 1084, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Trade College
   rotate: false
-  xy: 1624, 1400
+  xy: 1192, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Trader's Hub
   rotate: false
-  xy: 1732, 1508
+  xy: 1300, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Training Range
   rotate: false
-  xy: 1840, 1616
+  xy: 1408, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Transmissions Center
   rotate: false
-  xy: 436, 104
+  xy: 1516, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Transport Network
   rotate: false
-  xy: 544, 212
+  xy: 1624, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Turbine Hall
   rotate: false
-  xy: 652, 320
+  xy: 1732, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Uranium Centrifuge
   rotate: false
-  xy: 760, 428
+  xy: 1840, 632
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Urine Recycler
   rotate: false
-  xy: 868, 536
+  xy: 544, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Vegetable Apparatus
   rotate: false
-  xy: 976, 644
+  xy: 652, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Virtual Panopticon
   rotate: false
-  xy: 1084, 752
+  xy: 760, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Warnet
   rotate: false
-  xy: 1192, 860
+  xy: 868, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Water Plant
   rotate: false
-  xy: 1300, 968
+  xy: 976, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Water Storage
   rotate: false
-  xy: 1408, 1076
+  xy: 1084, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Yassa
   rotate: false
-  xy: 1516, 1184
+  xy: 1192, 524
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
