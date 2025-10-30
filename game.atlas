@@ -48,37 +48,9 @@ CityStateIcons/Trading
   index: -1
 CityStateIcons/Weapons
   rotate: false
-  xy: 1300, 154
+  xy: 1300, 46
   size: 100, 100
   orig: 100, 100
-  offset: 0, 0
-  index: -1
-ConstructionIcons/Circle
-  rotate: false
-  xy: 212, 832
-  size: 178, 178
-  orig: 178, 178
-  offset: 0, 0
-  index: -1
-ImprovementIcons/Circle
-  rotate: false
-  xy: 212, 832
-  size: 178, 178
-  orig: 178, 178
-  offset: 0, 0
-  index: -1
-ResourceIcons/Circle
-  rotate: false
-  xy: 212, 832
-  size: 178, 178
-  orig: 178, 178
-  offset: 0, 0
-  index: -1
-StatIcons/Circle
-  rotate: false
-  xy: 212, 832
-  size: 178, 178
-  orig: 178, 178
   offset: 0, 0
   index: -1
 EmojiIcons/Faith
@@ -648,6 +620,34 @@ ResourceIcons/Cactus
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Circle
+  rotate: false
+  xy: 212, 832
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+ConstructionIcons/Circle
+  rotate: false
+  xy: 212, 832
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Circle
+  rotate: false
+  xy: 212, 832
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
+StatIcons/Circle
+  rotate: false
+  xy: 212, 832
+  size: 178, 178
+  orig: 178, 178
+  offset: 0, 0
+  index: -1
 ResourceIcons/Cobalt
   rotate: false
   xy: 1910, 910
@@ -895,7 +895,7 @@ ResourceIcons/VX
   index: -1
 ResourceIcons/Weapons
   rotate: false
-  xy: 1300, 46
+  xy: 1300, 154
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
