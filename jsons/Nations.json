@@ -1165,8 +1165,8 @@
 		"declaringFriendship": "Interesting. You could yet prove a valuable ally.",
 		"tradeRequest": "There are many boons in store for you if you will only help us bring forth the end.",
 
-		"outerColor": [59, 55, 53],
-		"innerColor": [83, 23, 1],
+		"outerColor": [117, 115, 113],
+		"innerColor": [63, 21, 5],
 		"style": "",
 		"uniqueName": "Bring Forth the Second Cataclysm",
 		"uniques": [
@@ -1432,8 +1432,8 @@
 		"declaringWar": "We see your little shadows painting the floor, cowering in fear!",
 		"attacked": "Dark judgment falls upon you now.",
 		"defeated": "You cannot stop the Great Message from coming.",
-		"outerColor": [0, 0, 0],
-		"innerColor": [43, 5, 87],
+		"outerColor": [5, 5, 5],
+		"innerColor": [106, 80, 137],
 		"cities": ["Truth's Gate"]
 	},
 
