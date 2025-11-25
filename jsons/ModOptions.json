@@ -16,7 +16,9 @@
 	"constants": {
 		"maxXPfromBarbarians":150,
 		"cityStrengthBase":20,
-		"cityStrengthPerPop":0.5,
+		"cityStrengthPerPop":0.3,
+		"cityStrengthFromTechsMultiplier":3.0,
+		"cityStrengthFromTechsExponent":1.5,
 		"unitUpgradeCost": {}
 	},
 	"tileset": "FantasyHex",
