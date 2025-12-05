@@ -211,6 +211,7 @@
 		],
 		"uniques": [
 			"Vegetation",
+			"Urban area",
 			"Provides a one-time bonus of [+30 Production] to the closest city when cut down <(modified by game speed)>",
 			"Rough terrain",
 			"Blocks line-of-sight from tiles at same elevation",
@@ -241,6 +242,7 @@
 		],
 		"uniques": [
 			"Vegetation",
+			"Urban area",
 			"Provides a one-time bonus of [+30 Production] to the closest city when cut down <(modified by game speed)>",
 			"Rough terrain",
 			"Blocks line-of-sight from tiles at same elevation",

@@ -215,18 +215,21 @@
 	},
 	{
 		"name": "Borough",
-		"terrainsCanBeBuiltOn": ["Forest","Jungle"],
+		"terrainsCanBeBuiltOn": ["Forest","Jungle","Hill","Badlands","Desert","Wasteland","Tundra","Permafrost"],
 		"turnsToBuild": 15,
 		"techRequired": "Computers",
 		"production": 1,
 		"food": 2,
 		"uniques": [
 			"Food source",
-			"Does not need removal of [Forest]",
-			"Does not need removal of [Jungle]",
+			"Urban area",
+			"Destroyed when pillaged",
+			"Turn this tile into a [Jungle] tile <in [non-[Forest]] tiles>",
+			"Can only be built to improve a resource <in [resource] tiles>",
 			"[+1 Science] <after discovering [Artificial Intelligence]>",
 			"Cannot be built on [Water] tiles",
-			"Pillaging this improvement yields approximately [+10 Gold]"
+			"Pillaging this improvement yields approximately [+10 Gold]",
+			"Unavailable <in [non-[resource]] tiles> <in [non-[Urban area]] tiles> <with [0] to [0] neighboring [Urban area] tiles>"
 		],
 		"shortcutKey": "H"
 	},
@@ -842,6 +845,7 @@
 			"Unpillagable",
 			"Irremovable",
 			"Unbuildable",
+			"Urban area",
 			"Ensures a minimum tile yield of [+2 Food, +1 Production]"
 		],
 		"civilopediaText": [
