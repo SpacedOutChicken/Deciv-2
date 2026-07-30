@@ -1,0 +1,118 @@
+[
+	{
+        "name": "Administrator",
+        "unitNames": [
+			"Mister Hades",
+			"Auntie Entity",
+			"People Eater",
+			"Lordoss",
+		]
+    },
+	{
+        "name": "Sage",
+        "unitNames": [
+			"Historyman",
+		]
+    },
+	{
+        "name": "Prophet", //Ignis
+        "unitNames": [
+			"",
+		]
+    },
+	{
+        "name": "Scientist",
+        "unitNames": [
+			"",
+		]
+    },
+	{
+        "name": "Merchant",
+        "unitNames": [
+			"Crazy Hassan",
+		]
+    },
+	{
+        "name": "Smuggler", //Deadrock
+        "unitNames": [
+			"",
+		]
+    },
+	{
+        "name": "Slaver", //Legion
+        "unitNames": [
+			"",
+		]
+    },
+	{
+        "name": "Engineer",
+        "unitNames": [
+			"Biotic Mechanic",
+		]
+    },
+	{
+        "name": "General",
+        "unitNames": [
+			"Eternal Jim",
+			"Fingersnipper",
+			"Dementius",
+			"Duke Enormous",
+			"Maximilian the Angry",
+		]
+    },
+	{
+        "name": "Mad Scientist", //Hexlock
+        "unitNames": [
+			"Doctor Ivo Botnik",
+			"Entrapta",
+			"Otto Octavious",
+			"Kyoma Hououin",
+			"Thaddeus Bodog Sivana",
+			"Professor Rotwang",
+			"Agatha Heterodyne",
+			"Herbert West",
+			"Daisuke Serizawa",
+			"Anton Bartok",
+		]
+    },
+	{
+        "name": "Gangboss", //Deadrock
+        "unitNames": [
+			"Octoboss",
+		]
+    },
+	{
+        "name": "Bugler", //Ignis
+        "unitNames": [
+			"The Doofman",
+		]
+    },
+	{
+        "name": "Upyr", //Prok
+        "unitNames": [
+			"",
+		]
+    },
+	{
+        "name": "Khan", //Hunnu
+        "unitNames": [
+			"Kaidu",
+			"Khabul",
+			"Genghis",
+			"Tolui",
+			"Ögedei",
+			"Kublai",
+			"Temur",
+			"Batu",
+			"Uzbeg",
+			"Chagatai",
+			"Bogd",
+		]
+    },
+	{
+        "name": "Farmer",
+        "unitNames": [
+			"Elder MacDonald",
+		]
+    }
+]
