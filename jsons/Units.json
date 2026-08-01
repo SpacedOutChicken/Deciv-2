@@ -1325,6 +1325,7 @@
 		"uniques": [
 			"Personnel",
 			"Great Person - [War]",
+			"[This Unit] gets a name from the [Ranger] group",
 			"Can be earned through combat",
 			"Unbuildable",
 			"Consumes [1] [Weapons]"
@@ -3120,6 +3121,7 @@
 			"Empire enters a [8]-turn Golden Age <by consuming this unit>",
 			"Can instantly construct a [Settlement] improvement <by consuming this unit>",
 			"Great Person - [Culture]",
+			"[This Unit] gets a name from the [Administrator] group",
 			"Unbuildable",
 			"Uncapturable"
 		],
@@ -3137,6 +3139,7 @@
 			"May enter foreign tiles without open borders",
 			"[-1] Sight",
 			"Great Person - [Faith]",
+			"[This Unit] gets a name from the [Sage] group",
 			"Unbuildable",
 			"Uncapturable",
 			"Religious Unit",
@@ -3160,6 +3163,7 @@
 			"May enter foreign tiles without open borders",
 			"[-1] Sight",
 			"Great Person - [Faith]",
+			"[This Unit] gets a name from the [Prophet] group",
 			"Unbuildable",
 			"Uncapturable",
 			"Religious Unit",
@@ -3176,6 +3180,7 @@
 			"Can hurry technology research",
 			"Can instantly construct a [Academy] improvement <by consuming this unit>",
 			"Great Person - [Science]",
+			"[This Unit] gets a name from the [Scientist] group",
 			"Unbuildable",
 			"Uncapturable"
 		],
@@ -3188,6 +3193,7 @@
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
 			"Can instantly construct a [Settlement] improvement <by consuming this unit>",
 			"Great Person - [Gold]",
+			"[This Unit] gets a name from the [Merchant] group",
 			"Unbuildable",
 			"Uncapturable"
 		],
@@ -3204,6 +3210,7 @@
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [40] Influence",
 			"Can instantly construct a [Narcotics farm] improvement <by consuming this unit>",
 			"Great Person - [Gold]",
+			"[This Unit] gets a name from the [Smuggler] group",
 			"Unbuildable",
 			"Uncapturable"
 		],
@@ -3218,6 +3225,7 @@
 			"Can undertake a trade mission with City-State, giving a large sum of gold and [30] Influence",
 			"Can instantly construct a [Prison farm] improvement <by consuming this unit>",
 			"Great Person - [Gold]",
+			"[This Unit] gets a name from the [Slaver] group",
 			"Unbuildable",
 			"Uncapturable"
 		],
@@ -3230,6 +3238,7 @@
 			"Can speed up construction of a building",
 			"Can instantly construct a [Manufactory] improvement <by consuming this unit>",
 			"Great Person - [Production]",
+			"[This Unit] gets a name from the [Engineer] group",
 			"Unbuildable",
 			"Uncapturable"
 		],
@@ -3243,6 +3252,7 @@
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Great Person - [War]",
+			"[This Unit] gets a name from the [General] group",
 			"Can be earned through combat",
 			"Unbuildable",
 			"Uncapturable"
@@ -3259,6 +3269,7 @@
 			"Can hurry technology research",
 			"Can instantly construct a [Crystal Refinery] improvement <by consuming this unit>",
 			"Great Person - [War]",
+			"[This Unit] gets a name from the [Mad Scientist] group",
 			"Can be earned through combat",
 			"Unbuildable",
 			"Uncapturable"
@@ -3276,6 +3287,7 @@
 			"[+15]% Strength bonus for [Military] units within [2] tiles",
 			"Can instantly construct a [Prison farm] improvement <by consuming this unit>",
 			"Great Person - [War]",
+			"[This Unit] gets a name from the [Gangboss] group",
 			"Can be earned through combat",
 			"Unbuildable",
 			"Uncapturable"
@@ -3294,6 +3306,7 @@
 			"[+15] HP when healing",
 			"Can instantly construct a [Outpost] improvement <by consuming this unit>",
 			"Great Person - [War]",
+			"[This Unit] gets a name from the [Bugler] group",
 			"Can be earned through combat",
 			"Uncapturable",
 			"Unbuildable"
@@ -3311,6 +3324,7 @@
 			"[-15]% Strength for enemy [Military] units in adjacent [All] tiles",
 			"Can instantly construct a [Citadel] improvement <by consuming this unit>",
 			"Great Person - [War]",
+			"[This Unit] gets a name from the [Upyr] group",
 			"Can be earned through combat",
 			"Uncapturable",
 			"Unbuildable"
@@ -3334,6 +3348,7 @@
 			"No defensive terrain bonus",
 			"Can move after attacking",
 			"Great Person - [War]",
+			"[This Unit] gets a name from the [Khan] group",
 			"Can be earned through combat",
 			"Unbuildable"
 		],
@@ -3347,6 +3362,7 @@
 			"[+1] population [in all cities] <by consuming this unit>",
 			"Can instantly construct a [Factory farm] improvement <by consuming this unit>",
 			"Great Person - [Food]",
+			"[This Unit] gets a name from the [Farmer] group",
 			"Uncapturable",
 			"Unbuildable"
 		],
@@ -4144,7 +4160,7 @@
 		],
 		"hurryCostModifier": 20,
 		"attackSound": "shot"
-	}
+	},
 
 	//Terraformer parts
 

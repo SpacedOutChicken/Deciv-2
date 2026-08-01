@@ -5,19 +5,19 @@
 			"Mister Hades",
 			"Auntie Entity",
 			"People Eater",
-			"Lordoss",
+			"Lordoss"
 		]
     },
 	{
         "name": "Sage",
         "unitNames": [
-			"Historyman",
+			"Historyman"
 		]
     },
 	{
         "name": "Prophet", //Ignis
         "unitNames": [
-			"",
+			"Immortan Joe"
 		]
     },
 	{
@@ -34,7 +34,7 @@
 			"Impey Barbicane",
 			"Katerina Donlan",
 			"Percy de Rolo",
-			"Dr. Venture",
+			"Dr. Venture"
 		]
     },
 	{
@@ -49,7 +49,7 @@
 			"Renon",
 			"Anna",
 			"Recce",
-			"Gustav",
+			"Gustav"
 		]
     },
 	{
@@ -65,7 +65,7 @@
 			"Comrade Death",
 			"Lawson",
 			"La Grenouille",
-			"Marcus Kincaid",
+			"Marcus Kincaid"
 		]
     },
 	{
@@ -76,13 +76,13 @@
 			"The Dollmaker",
 			"Ketil",
 			"Limbo",
-			"Mr. Wil",
+			"Mr. Wil"
 		]
     },
 	{
         "name": "Engineer",
         "unitNames": [
-			"Biotic Mechanic",
+			"Biotic Mechanic"
 		]
     },
 	{
@@ -92,7 +92,7 @@
 			"Fingersnipper",
 			"Dementius",
 			"Duke Enormous",
-			"Maximilian the Angry",
+			"Maximilian the Angry"
 		]
     },
 	{
@@ -108,14 +108,14 @@
 			"Herbert West",
 			"Daisuke Serizawa",
 			"Anton Bartok",
-			"Bondrewd",
+			"Bondrewd"
 		]
     },
 	{
         "name": "Gangboss", //Deadrock
         "unitNames": [
 			"Octoboss",
-			"Kingpin",
+			"Kingpin"
 		]
     },
 	{
@@ -128,7 +128,7 @@
 			"Murray",
 			"Vulturus",
 			"Snaggletooth",
-			"Knarrenheinz",
+			"Knarrenheinz"
 		]
     },
 	{
@@ -140,7 +140,7 @@
 			"Yaga",
 			"Samodiva",
 			"Vladimir",
-			"Nyavka",
+			"Nyavka"
 		]
     },
 	{
@@ -156,13 +156,19 @@
 			"Batu",
 			"Uzbeg",
 			"Chagatai",
-			"Bogd",
+			"Bogd"
 		]
     },
 	{
         "name": "Farmer",
         "unitNames": [
-			"Elder MacDonald",
+			"Elder MacDonald"
 		]
-    }
+    },
+	{
+		"name": "Ranger",
+		"unitNames": [
+			"Walker"
+		]
+	}
 ]
