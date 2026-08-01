@@ -23,25 +23,60 @@
 	{
         "name": "Scientist",
         "unitNames": [
-			"",
+			"Professor Senku",
+			"Doctor Light",
+			"Doctor Wily",
+			"Milo Thatch",
+			"Emmett Brown",
+			"Dr. Clawbonny",
+			"McGuyver",
+			"Mordin Solus",
+			"Impey Barbicane",
+			"Katerina Donlan",
+			"Percy de Rolo",
+			"Dr. Venture",
 		]
     },
 	{
         "name": "Merchant",
         "unitNames": [
 			"Crazy Hassan",
+			"Morshu",
+			"Dryden Fassa",
+			"Oliveira de Figueroa",
+			"Ponyets",
+			"Tycho Nestoris",
+			"Renon",
+			"Anna",
+			"Recce",
+			"Gustav",
 		]
     },
 	{
         "name": "Smuggler", //Deadrock
         "unitNames": [
-			"",
+			"Han the Loner",
+			"Cal Lando",
+			"Yuri Ismaylov",
+			"Dutch",
+			"Koko Hekmatyar",
+			"Basil Basarov",
+			"Destro",
+			"Comrade Death",
+			"Lawson",
+			"La Grenouille",
+			"Marcus Kincaid",
 		]
     },
 	{
         "name": "Slaver", //Legion
         "unitNames": [
-			"",
+			"Max Boa",
+			"Niko Bellic",
+			"The Dollmaker",
+			"Ketil",
+			"Limbo",
+			"Mr. Wil",
 		]
     },
 	{
@@ -73,24 +108,39 @@
 			"Herbert West",
 			"Daisuke Serizawa",
 			"Anton Bartok",
+			"Bondrewd",
 		]
     },
 	{
         "name": "Gangboss", //Deadrock
         "unitNames": [
 			"Octoboss",
+			"Kingpin",
 		]
     },
 	{
         "name": "Bugler", //Ignis
         "unitNames": [
 			"The Doofman",
+			"Eddie the Head",
+			"Vic Rattlehead",
+			"Facebones",
+			"Murray",
+			"Vulturus",
+			"Snaggletooth",
+			"Knarrenheinz",
 		]
     },
 	{
         "name": "Upyr", //Prok
         "unitNames": [
-			"",
+			"Likhoradka",
+			"Bies",
+			"Koschey",
+			"Yaga",
+			"Samodiva",
+			"Vladimir",
+			"Nyavka",
 		]
     },
 	{
