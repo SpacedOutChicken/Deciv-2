@@ -378,7 +378,6 @@
 		"uniques": [
 			"Food source",
 			"Can only be built to improve a resource",
-			"Cannot be built on [Water] tiles <before discovering [Ocean Remediation]>",
 			"[+1 Food] <after discovering [Atmosphere Remediation]>",
 			"Pillaging this improvement yields approximately [+10 Gold]"
 		],
