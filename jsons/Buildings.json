@@ -3069,7 +3069,7 @@
 		"cityHealth": 80,
 		"hurryCostModifier": 25,
 		"requiredTech": "Construction",
-		"uniques": ["Destroyed when the city is captured"]
+		"uniques": ["City Defense","Destroyed when the city is captured"]
 	},
 	{
 		"name": "Defensive Emplacements",
@@ -3077,6 +3077,7 @@
 		"cityHealth": 20,
 		"hurryCostModifier": 0,
 		"uniques": [
+			"City Defense",
 			"Only available <in cities with a [Walls]>",
 			"Destroyed when the city is captured"
 		],
@@ -3088,6 +3089,7 @@
 		"cityHealth": 80,
 		"hurryCostModifier": 25,
 		"uniques": [
+			"City Defense",
 			"Must be on [Hill]",
 			"Only available <in cities with a [Walls]>",
 			"Destroyed when the city is captured"
@@ -3099,6 +3101,7 @@
 		"cityHealth": 120,
 		"hurryCostModifier": 25,
 		"uniques": [
+			"City Defense",
 			"Only available <in cities with a [Walls]>",
 			"Destroyed when the city is captured"
 		],
@@ -3110,6 +3113,7 @@
 		"maintenance": 1,
 		"hurryCostModifier": 0,
 		"uniques": [
+			"City Defense",
 			"Only available <in cities with a [Walls]>",
 			"Destroyed when the city is captured"
 		],
@@ -3122,6 +3126,7 @@
 		"hurryCostModifier": 50,
 		"requiredTech": "Munitions",
 		"uniques": [
+			"City Defense",
 			"Population loss from nuclear attacks [-75]% [in this city]",
 			"Damage to garrison from nuclear attacks [-75]% [in this city]",
 			"Destroyed when the city is captured",
@@ -3135,6 +3140,7 @@
 		"cityHealth": 50,
 		"hurryCostModifier": 25,
 		"uniques": [
+			"City Defense",
 			"Consumes [1] [Power]",
 			"Destroyed when the city is captured",
 			"Free [Missile Defense System] appears"
@@ -3150,6 +3156,7 @@
 		"cityHealth": 35,
 		"hurryCostModifier": 25,
 		"uniques": [
+			"City Defense",
 			"Consumes [1] [Power]",
 			"Destroyed when the city is captured",
 			"Free [Missile Defense System] appears"
@@ -3263,6 +3270,7 @@
 		"cityStrength": 10,
 		"cityHealth": 50,
 		"uniques": [
+			"City Defense",
 			"[+15]% Production when constructing [Melee] units [in this city]",
 			"Removes extra unhappiness from annexed cities",
 			"Can only be built <in [Annexed] cities>",
@@ -3362,6 +3370,7 @@
 		"uniqueTo": "Enclavers",
 		"cityStrength": 10,
 		"uniques": [
+			"City Defense",
 			"New [Military] units start with [15] XP [in this city]",
 			"All newly-trained [relevant] units [in this city] receive the [Guerilla Warfare II] promotion",
 			"Destroyed when the city is captured"
@@ -3462,6 +3471,7 @@
 		"requiredNearbyImprovedResources": ["Scrap", "Metal"],
 		"requiredTech": "Iron Working",
 		"uniques": [
+			"City Defense",
 			"Provides [1] [Weapons]",
 			"[+1 Production] [in this city] <when above [0] [Power]>",
 			"[+1 Production] [in this city] <with [Machine Parts]>"
@@ -3787,6 +3797,7 @@
 		"maintenance": 2,
 		"hurryCostModifier": 0,
 		"uniques": [
+			"City Defense",
 			"Only available <in cities with a [Yassa]>",
 			"[+2 Production] [in this city] <when above [0] [Power]>",
 			"[+1 Production] [in this city] <with [Machine Parts]>",
@@ -3827,6 +3838,7 @@
 		"cityStrength": 5,
 		"happiness": 3,
 		"uniques": [
+			"City Defense",
 			"[Personnel] units gain the [Drone Recon] promotion",
 			"[+10]% Strength <for [Automated] units>",
 			"Consumes [1] [Power]"
@@ -3854,6 +3866,7 @@
 		"cityStrength": 5,
 		"happiness": 3,
 		"uniques": [
+			"City Defense",
 			"[Personnel] units gain the [Drone Recon] promotion",
 			"[+10]% Strength <for [Automated] units>",
 			"Consumes [1] [Power]"
@@ -3869,6 +3882,7 @@
 		"cityStrength": 5,
 		"happiness": 3,
 		"uniques": [
+			"City Defense",
 			"[Personnel] units gain the [Drone Recon] promotion",
 			"[+10]% Strength <for [Automated] units>",
 			"Consumes [1] [Power]"
@@ -3880,6 +3894,7 @@
 		"cityStrength": 10,
 		"maintenance": 3,
 		"uniques": [
+			"City Defense",
 			"[Aircraft] units gain the [Advanced Weapons] promotion",
 			"[+15]% Production when constructing [Air] units [in this city] <when above [-2] [Power]>",
 			"Only available <in cities with a [Factory]>",
@@ -3899,6 +3914,7 @@
 		"cityStrength": 15,
 		"culture": 1,
 		"uniques": [
+			"City Defense",
 			"[Aircraft] units gain the [Advanced Weapons] promotion",
 			"[+15]% Production when constructing [Air] units [in this city] <when above [-2] [Power]>",
 			"[+15]% Production when constructing [All] wonders [in this city] <when above [-2] [Power]>",
@@ -4095,6 +4111,7 @@
 		"percentStatBonus": {"food": 10},
 		"specialistSlots": {"Administrator": 1, "Engineer": 1, "Farmer": 1, "Merchant": 1, "Scientist": 1},
 		"uniques": [
+			"City Defense",
 			"[+1] population [in this city]",
 			"Population loss from nuclear attacks [-75]% [in this city]",
 			"Damage to garrison from nuclear attacks [-75]% [in this city]",
@@ -4145,6 +4162,7 @@
 		"cityHealth": 150,
 		"requiredTech": "Future Materials",
 		"uniques": [
+			"City Defense",
 			"[+5]% growth [in this city] <when above [-2] [Power]>",
 			"[5]% Food is carried over after population increases [in this city]",
 			"[10]% Great Person generation [in this city]",
